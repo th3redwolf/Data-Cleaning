@@ -15,7 +15,7 @@ fs.createReadStream('cells.csv')
     
     .pipe(csv()) // converting csv data into js objects 
     .on('data', (row) => { // 'data' event for each row
-
+        console.log(row); // printing each row
     })
     .on('end', () => {
         console.log('CSV file succesfully read');
