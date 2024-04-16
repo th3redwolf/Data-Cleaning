@@ -1,0 +1,68 @@
+Original:
+{
+"oem": "Huawei",
+"model": "Y5 (2019)",
+"launch_announced": "2019, April 24",
+"launch_status": "Available. Released 2019, April 24",
+"body_dimensions": "147.1 x 70.8 x 8.5 mm (5.79 x 2.79 x 0.33 in)",
+"body_weight": "146 g (5.15 oz)",
+"body_sim": "Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)",
+"display_type": "IPS LCD capacitive touchscreen, 16M colors",
+"display_size": "5.71 inches, 81.4 cm (~78.1% screen-to-body ratio)",
+"display_resolution": "720 x 1520 pixels, 19:9 ratio (~295 ppi density)",
+"features_sensors": "Accelerometer, proximity",
+"platform_os": "Android 9.0 (Pie), EMUI 9.1"
+}
+
+converting to JSON:
+{
+  "oem": "Huawei",
+  "model": "Y5 (2019)",
+  "launch_announced": "2019, April 24",
+  "launch_status": "Available. Released 2019, April 24",
+  "body_dimensions": "147.1 x 70.8 x 8.5 mm (5.79 x 2.79 x 0.33 in)",
+  "body_weight": "146 g (5.15 oz)",
+  "body_sim": "Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)",
+  "display_type": "IPS LCD capacitive touchscreen, 16M colors",
+  "display_size": "5.71 inches, 81.4 cm (~78.1% screen-to-body ratio)",
+  "display_resolution": "720 x 1520 pixels, 19:9 ratio (~295 ppi density)",
+  "features_sensors": "Accelerometer, proximity",
+  "platform_os": "Android 9.0 (Pie), EMUI 9.1"
+}
+CSV file succesfully read
+
+
+wihtout JSON conversion:
+Cell {
+  _oem: 'Huawei',
+  _model: 'Y5 (2019)',
+  _launch_announced: 2019,
+  _launch_status: 'Available. Released 2019, April 24',
+  _body_dimensions: '147.1 x 70.8 x 8.5 mm (5.79 x 2.79 x 0.33 in)',
+  _body_weight: 146,
+  _body_sim: 'Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)',
+  _display_type: 'IPS LCD capacitive touchscreen, 16M colors',
+  _display_size: 5.71,
+  _display_resolution: '720 x 1520 pixels, 19:9 ratio (~295 ppi density)',
+  _features_sensors: 'Accelerometer, proximity',
+  _platform_os: 'Android 9.0 (Pie), EMUI 9.1'
+}
+CSV file succesfully read
+
+
+with JSon in class conversion:
+{
+  "oem": "Huawei",
+  "model": "Y5 (2019)",
+  "launch_announced": 2019,
+  "launch_status": "Available. Released 2019, April 24",
+  "body_dimensions": "147.1 x 70.8 x 8.5 mm (5.79 x 2.79 x 0.33 in)",
+  "body_weight": 146,
+  "body_sim": "Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)",
+  "display_type": "IPS LCD capacitive touchscreen, 16M colors",
+  "display_size": 5.71,
+  "display_resolution": "720 x 1520 pixels, 19:9 ratio (~295 ppi density)",
+  "features_sensors": "Accelerometer, proximity",
+  "platform_os": "Android 9.0 (Pie), EMUI 9.1"
+}
+CSV file succesfully read

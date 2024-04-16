@@ -1,0 +1,2208 @@
+[
+{"oem":"Xiaomi","model":"Mi Max 4","launch_announced":"Not announced yet","launch_status":"Cancelled","body_dimensions":"-","body_weight":"-","body_sim":"Hybrid Dual SIM (Nano-SIM, dual stand-by)","display_type":"IPS LCD capacitive touchscreen, 16M colors","display_size":"7.2 inches, 128.3 cm","display_resolution":"1080 x 2310 pixels (~354 ppi density)","features_sensors":"Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass","platform_os":"Android 9.0 (Pie), MIUI 11"}
+{"oem":"Xiaomi","model":"Mi Max 4 Pro","launch_announced":"Not announced yet","launch_status":"Cancelled","body_dimensions":"-","body_weight":"-","body_sim":"Hybrid Dual SIM (Nano-SIM, dual stand-by)","display_type":"IPS LCD capacitive touchscreen, 16M colors","display_size":"7.2 inches, 128.3 cm","display_resolution":"1080 x 2310 pixels (~354 ppi density)","features_sensors":"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass","platform_os":"Android 9.0 (Pie), MIUI 11"}
+{"oem":"Xiaomi","model":"Mi 9X","launch_announced":"Not announced yet","launch_status":"Cancelled","body_dimensions":"-","body_weight":"-","body_sim":"Dual SIM (Nano-SIM, dual stand-by)","display_type":"Super AMOLED capacitive touchscreen, 16M colors","display_size":"6.39 
+inches, 100.2 cm","display_resolution":"1080 x 2340 pixels, 19.5:9 ratio (~403 ppi density)","features_sensors":"Fingerprint, accelerometer, gyro, proximity, compass","platform_os":"Android 9.0 (Pie), MIUI 10"}
+{"oem":"Yezz","model":"Max 1 Plus","launch_announced":"2019, August","launch_status":"Available. Released 2019, September","body_dimensions":"148.7 x 70.9 x 8.9 mm (5.85 x 2.79 x 0.35 in)","body_weight":"104.9 g (3.70 oz)","body_sim":"Dual SIM (Nano-SIM, dual stand-by)","display_type":"TFT capacitive touchscreen, 16M colors","display_size":"5.45 inches, 76.7 c  
+(~72.7% screen-to-body ratio)","display_resolution":"720 x 1440 pixels, 18:9 ratio (~295 ppi density)","features_sensors":"Accelerometer","platform_os":"Android 9.1 Pie (Go edition)"}
+{"oem":"Yezz","model":"LIV1","launch_announced":"2019, August","launch_status":"Available. 
+Released 2019, September","body_dimensions":"138.5 x 65.8 x 9.5 mm (5.45 x 2.59 x 0.37 in)","body_weight":"133.3 g (4.69 oz)","body_sim":"Dual SIM (Nano-SIM, dual stand-by)","display_type":"TFT capacitive touchscreen, 16M colors","display_size":"5.0 inches, 64.5 cm (~70.8% screen-to-body ratio)","display_resolution":"480 x 960 pixels, 18:9 ratio (~215 ppi density)","features_sensors":"Accelerometer","platform_os":"Android 9.1 Pie (Go edition)"}       
+{"oem":"ZTE","model":"nubia Red Magic 5G Lite","launch_announced":"2020, June 19","launch_status":"Available. Released 2020, June 19","body_dimensions":"171.7 x 78.5 x 9.1 mm (6.76 x 3.09 x 0.36 in)","body_weight":"215 g (7.58 oz)","body_sim":"Dual SIM (Nano-SIM, dual stand-by)","display_type":"AMOLED capacitive touchscreen, 16M colors","display_size":"6.65 inches, 108.6 cm (~80.5% screen-to-body ratio)","display_resolution":"1080 x 2340 pixels, 19.5:9 ratio (~388 ppi density)","features_sensors":"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass","platform_os":"Android 10, nubia UI 8.0"}
+{"oem":"ZTE","model":"nubia Play","launch_announced":"2020, April 21","launch_status":"Available. Released 2020, April 24","body_dimensions":"171.7 x 78.5 x 9.1 mm (6.76 x 3.09 x 0.36 in)","body_weight":"210 g (7.41 oz)","body_sim":"Dual SIM (Nano-SIM, dual stand-by)","display_type":"AMOLED capacitive touchscreen, 16M colors","display_size":"6.65 inches, 108.6 cm (~80.5% screen-to-body ratio)","display_resolution":"1080 x 2340 pixels, 19.5:9 ratio (~388 ppi density)","features_sensors":"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass","platform_os":"Android 10, nubia UI 8.0"}
+{"oem":"ZTE","model":"Axon 11 4G","launch_announced":"2020, June 04","launch_status":"Available. Released 2020, June 17","body_dimensions":"159.2 x 73.4 x 7.9 mm (6.27 x 2.89 x 0.31 
+in)","body_weight":"168 g (5.93 oz)","body_sim":"Hybrid Dual SIM (Nano-SIM, dual stand-by)","display_type":"AMOLED capacitive touchscreen, 16M colors","display_size":"6.47 inches, 102.8 cm (~87.9% screen-to-body ratio)","display_resolution":"1080 x 2340 pixels, 19.5:9 ratio (~398 ppi density)","features_sensors":"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass","platform_os":"Android 10, MiFavor 10"}
+{"oem":"ZTE","model":"Axon 11 5G","launch_announced":"2020, March 23","launch_status":"Available. Released 2020, March 30","body_dimensions":"159.2 x 73.4 x 7.9 mm (6.27 x 2.89 x 0.31 in)","body_weight":"168 g (5.93 oz)","body_sim":"Hybrid Dual SIM (Nano-SIM, dual stand-by)","display_type":"AMOLED capacitive touchscreen, 16M colors","display_size":"6.47 inches, 
+102.8 cm (~87.9% screen-to-body ratio)","display_resolution":"1080 x 2340 pixels, 19.5:9 ratio (~398 ppi density)","features_sensors":"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass","platform_os":"Android 10, MiFavor 10"}
+{"oem":"ZTE","model":"nubia Red Magic 5G","launch_announced":"2020, March 12","launch_status":"Available. Released 2020, March 19","body_dimensions":"168.6 x 78 x 9.8 mm (6.64 x 3.07 x 0.39 in)","body_weight":"218 g (7.69 oz)","body_sim":"Dual SIM (Nano-SIM, dual stand-by)","display_type":"AMOLED capacitive touchscreen, 16M colors","display_size":"6.65 inches, 108.6 cm (~82.5% screen-to-body ratio)","display_resolution":"1080 x 2340 pixels, 19.5:9 ratio (~388 ppi density)","features_sensors":"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass","platform_os":"Android 10, Redmagic 3.0"}
+{"oem":"ZTE","model":"Axon 10s Pro 5G","launch_announced":"2020, February 06","launch_status":"Discontinued","body_dimensions":"159.2 x 73.4 x 7.9 mm (6.27 x 2.89 x 0.31 in)","body_weight":"175 g (6.17 oz)","body_sim":"Hybrid Dual SIM (Nano-SIM, dual stand-by)","display_type":"AMOLED capacitive touchscreen, 16M colors","display_size":"6.47 inches, 102.8 cm (~87.9% screen-to-body ratio)","display_resolution":"1080 x 2340 pixels, 19.5:9 ratio (~398 ppi 
+density)","features_sensors":"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass","platform_os":"Android 10, MiFavor 10"}
+{"oem":"ZTE","model":"Blade Max View","launch_announced":"2019","launch_status":"Available. Released 2019","body_dimensions":"163.1 x 74.9 x 8.1 mm (6.42 x 2.95 x 0.32 in)","body_weight":"160 g (5.64 oz)","body_sim":"Nano-SIM","display_type":"IPS LCD capacitive touchscreen, 16M colors","display_size":"6.0 inches, 92.9 cm (~76.0% screen-to-body ratio)","display_resolution":"1080 x 2160 pixels, 18:9 ratio (~402 ppi density)","features_sensors":"Fingerprint (rear-mounted), accelerometer, proximity","platform_os":"Android 7.1.1 (Nougat), upgradable to Android 8.1 (Oreo)"}
+{"oem":"ZTE","model":"Blade A7 Prime","launch_announced":"2019, November","launch_status":"Available. Released 2019, November","body_dimensions":"156.7 x 72.9 x 8.1 mm (6.17 x 2.87 x 0.32 in)","body_weight":"165 g (5.82 oz)","body_sim":"Hybrid Dual SIM (Nano-SIM, dual stand-by)","display_type":"IPS LCD capacitive touchscreen, 16M colors","display_size":"6.09 inches, 91.0 cm (~79.7% screen-to-body ratio)","display_resolution":"720 x 1560 pixels, 19.5:9 ratio (~282 ppi density)","features_sensors":"Fingerprint (rear-mounted), accelerometer, proximity","platform_os":"Android 9.0 (Pie)"}
+{"oem":"ZTE","model":"Blade 10 Prime","launch_announced":"2019, November","launch_status":"Available. Released 2019, November","body_dimensions":"158 x 75.2 x 7.9 mm (6.22 x 2.96 x 0.31 in)","body_weight":"165 g (5.82 oz)","body_sim":"Hybrid Dual SIM (Nano-SIM, dual stand-by)","display_type":"IPS LCD capacitive touchscreen, 16M colors","display_size":"6.3 inches, 99.1 cm (~83.4% screen-to-body ratio)","display_resolution":"1080 x 2280 pixels, 19:9 ratio (~400 ppi density)","features_sensors":"Fingerprint (rear-mounted), accelerometer, proximity, compass","platform_os":"Android 9.0 (Pie)"}
+{"oem":"ZTE","model":"Blade 20","launch_announced":"2019, October","launch_status":"Available. Released 2019, October","body_dimensions":"162.9 x 76.6 x 9 mm (6.41 x 3.02 x 0.35 in)","body_weight":"190 g (6.70 oz)","body_sim":"Hybrid Dual SIM (Nano-SIM, dual stand-by)","i 
+splay_type":"IPS LCD capacitive touchscreen, 16M colors","display_size":"6.49 inches, 103.4 cm (~82.9% screen-to-body ratio)","display_resolution":"720 x 1560 pixels, 19.5:9 ratio (~265 ppi density)","features_sensors":"Fingerprint (rear-mounted), accelerometer, proximity, compass","platform_os":"Android 9.0 (Pie)"}
+{"oem":"ZTE","model":"nubia Red Magic 3s","launch_announced":"2019, September","launch_status":"Available. Released 2019, September","body_dimensions":"171.7 x 78.5 x 9.7 mm (6.76 x 
+3.09 x 0.38 in)","body_weight":"215 g (7.58 oz)","body_sim":"Dual SIM (Nano-SIM, dual stand-by)","display_type":"AMOLED capacitive touchscreen, 16M colors","display_size":"6.65 inches, 108.6 cm (~80.5% screen-to-body ratio)","display_resolution":"1080 x 2340 pixels, 19.5:9 ratio (~388 ppi density)","features_sensors":"Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass","platform_os":"Android 9.0 (Pie), Redmagic 2.0"}
+{"oem":"ZTE","model":"nubia Z20","launch_announced":"2019, August","launch_status":"Available. Released 2019, August","body_dimensions":"158.6 x 75.3 x 9 mm (6.24 x 2.96 x 0.35 in)","body_weight":"186 g (6.56 oz)","body_sim":"Dual SIM (Nano-SIM, dual stand-by)","display_type":"AMOLED capacitive touchscreen, 16M colors","display_size":"6.42 inches, 101.2 cm (~84.7% screen-to-body ratio)","display_resolution":"1080 x 2340 pixels, 19.5:9 ratio (~401 ppi 
+density)","features_sensors":"Dual fingerprint (side-mounted), accelerometer, gyro, proximity, compass","platform_os":"Android 9.0 (Pie), Nubia UI 7"}
+{"oem":"ZTE","model":"nubia X 5G","launch_announced":"Exp. announcement 2019, July","launch_status":"Cancelled","body_dimensions":"-","body_weight":"-","body_sim":"Dual SIM (Nano-SIM, dual stand-by)","display_type":"LTPS IPS LCD capacitive touchscreen, 16M colors","display_size":"6.26 inches, 97.8 cm","display_resolution":"1080 x 2280 pixels, 19:9 ratio (~403 ppi density)","features_sensors":"Dual fingerprint (side-mounted), accelerometer, gyro, proximity, compass","platform_os":"Android 9.0 (Pie)"}
+{"oem":"ZTE","model":"Blade A5 (2019)","launch_announced":"2019, May","launch_status":"Available. Released 2019, May","body_dimensions":"145.8 x 70 x 9.6 mm (5.74 x 2.76 x 0.38 in)","body_weight":"157 g (5.54 oz)","body_sim":"Dual SIM (Nano-SIM, dual stand-by)","display_type":"IPS LCD capacitive touchscreen, 16M colors","display_size":"5.45 inches, 76.7 cm (~75.1% screen-to-body ratio)","display_resolution":"720 x 1440 pixels, 18:9 ratio (~295 ppi density)","features_sensors":"Accelerometer, proximity","platform_os":"Android 9.0 (Pie)"}    
+{"oem":"ZTE","model":"Blade A3 (2019)","launch_announced":"2019, April","launch_status":"Available. Released 2019, April","body_dimensions":"137.4 x 67.5 x 10.5 mm (5.41 x 2.66 x 0.41 in)","body_weight":"144 g (5.08 oz)","body_sim":"Dual SIM (Nano-SIM, dual stand-by)","display_type":"IPS LCD capacitive touchscreen, 16M colors","display_size":"5.0 inches, 64.5 cm (~69.6% screen-to-body ratio)","display_resolution":"480 x 960 pixels, 18:9 ratio (~215 ppi density)","features_sensors":"Accelerometer","platform_os":"Android 9.0 Pie (Go edition)"}
+{"oem":"ZTE","model":"Blade L8","launch_announced":"2019, April","launch_status":"Available. Released 2019, April","body_dimensions":"137.4 x 67.5 x 10.5 mm (5.41 x 2.66 x 0.41 in)","body_weight":"144 g (5.08 oz)","body_sim":"Dual SIM (Nano-SIM, dual stand-by)","display_type":"IPS LCD capacitive touchscreen, 16M colors","display_size":"5.0 inches, 64.5 cm (~69.6% screen-to-body ratio)","display_resolution":"480 x 960 pixels, 18:9 ratio (~215 ppi density)","features_sensors":"Accelerometer","platform_os":"Android 9.0 Pie (Go edition)"}      
+{"oem":"ZTE","model":"nubia Red Magic 3","launch_announced":"2019, May","launch_status":"Available. Released 2019, May","body_dimensions":"171.7 x 78.5 x 9.7 mm (6.76 x 3.09 x 0.38 in)","body_weight":"215 g (7.58 oz)","body_sim":"Dual SIM (Nano-SIM, dual stand-by)","display_type":"AMOLED capacitive touchscreen, 16M colors","display_size":"6.65 inches, 108.6 cm (~80.5% screen-to-body ratio)","display_resolution":"1080 x 2340 pixels, 19.5:9 ratio (~388 
+ppi density)","features_sensors":"Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass","platform_os":"Android 9.0 (Pie), upgradable to Android 10, Redmagic 3.0"}     
+{"oem":"ZTE","model":"Axon 10 Pro","launch_announced":"2019, February","launch_status":"Available. Released 2019, May","body_dimensions":"159.2 x 73.4 x 7.9 mm (6.27 x 2.89 x 0.31 in)","body_weight":"175 g (6.17 oz)","body_sim":"Hybrid Dual SIM (Nano-SIM, dual stand-by)","display_type":"AMOLED capacitive touchscreen, 16M colors","display_size":"6.47 inches, 102.8 cm (~87.9% screen-to-body ratio)","display_resolution":"1080 x 2340 pixels, 19.5:9 ratio 
+(~398 ppi density)","features_sensors":"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass","platform_os":"Android 9.0 (Pie), upgradable to Android 10, MiFavor 10.0"}
+{"oem":"ZTE","model":"Blade V10 Vita","launch_announced":"2019, February","launch_status":"Available. Released 2019, March","body_dimensions":"157.1 x 75.8 x 8.1 mm (6.19 x 2.98 x 0.32 in)","body_weight":"150 g (5.29 oz)","body_sim":"Hybrid Dual SIM (Nano-SIM, dual stand-by)","display_type":"IPS LCD capacitive touchscreen, 16M colors","display_size":"6.26 inches, 97.8 cm (~82.1% screen-to-body ratio)","display_resolution":"720 x 1520 pixels, 19:9 ratio (~269 ppi density)","features_sensors":"Fingerprint (rear-mounted), accelerometer, gyro, 
+proximity, compass","platform_os":"Android 9.0 (Pie)"}
+{"oem":"ZTE","model":"Blade A7 Vita","launch_announced":"2018, December","launch_status":"Available. Released 2018, December","body_dimensions":"147 x 69.5 x 7.9 mm (5.79 x 2.74 x 0.31 in)","body_weight":"135 g (4.76 oz)","body_sim":"Hybrid Dual SIM (Nano-SIM, dual stand-by)","display_type":"IPS LCD capacitive touchscreen, 16M colors","display_size":"5.45 inches, 76.7 cm (~75.0% screen-to-body ratio)","display_resolution":"720 x 1440 pixels, 18:9 rai 
+o (~295 ppi density)","features_sensors":"Fingerprint (rear-mounted), accelerometer, proximity","platform_os":"Android 8.1 (Oreo)"}
+{"oem":"ZTE","model":"Blade A7","launch_announced":"2019, May","launch_status":"Available. 
+Released 2019, May","body_dimensions":"154 x 72.8 x 7.9 mm (6.06 x 2.87 x 0.31 in)","body_weight":"146 g (5.15 oz)","body_sim":"Dual SIM","display_type":"IPS LCD capacitive touchscreen, 16M colors","display_size":"6.01 inches, 88.7 cm (~79.1% screen-to-body ratio)","display_resolution":"720 x 1560 pixels, 19.5:9 ratio (~286 ppi density)","features_sensors":"Accelerometer, proximity","platform_os":"Android 9.0 (Pie), MiFavor 9.0"}
+{"oem":"ZTE","model":"V889M","launch_announced":"2012, November. Released 2012, December","launch_status":"Discontinued","body_dimensions":"120.5 x 63.6 x 11.9 mm (4.74 x 2.50 x 0.47 in)","body_weight":"-","body_sim":"Dual SIM (Mini-SIM)","display_type":"TFT capacitive touchscreen","display_size":"4.0 inches, 45.5 cm (~59.4% screen-to-body ratio)","display_resolution":"480 x 800 pixels, 5:3 ratio (~233 ppi density)","features_sensors":"Accelerometer, 
+gyro, proximity, compass","platform_os":"Android 4.0 (Ice Cream Sandwich)"}
+{"oem":"ZTE","model":"N880E","launch_announced":"2012, May. Released 2012, May","launch_status":"Discontinued","body_dimensions":"119 x 61 x 10.4 mm (4.69 x 2.40 x 0.41 in)","body_weight":"130 g (4.59 oz)","body_sim":"Mini-SIM","display_type":"TFT capacitive touchscreen","display_size":"4.0 inches, 45.5 cm (~62.7% screen-to-body ratio)","display_resolution":"480 x 800 pixels, 5:3 ratio (~233 ppi density)","features_sensors":"Accelerometer, proximity, 
+compass","platform_os":"Android 2.3 (Gingerbread), 4.1.1 (Jelly Bean), upgradable to 4.2 (Jelly Bean)"}
+{"oem":"ZTE","model":"Skate Acqua","launch_announced":"2012, February. Released 2012, Q4","launch_status":"Discontinued","body_dimensions":"-","body_weight":"-","body_sim":"Mini-SIM","display_type":"TFT capacitive touchscreen, 65K colors","display_size":"4.0 inches, 45.5 cm","display_resolution":"480 x 800 pixels, 5:3 ratio (~233 ppi density)","features_sensors":"Accelerometer, proximity, compass","platform_os":"Android 4.0 (Ice Cream Sandwich)"}     
+{"oem":"ZTE","model":"Sage","launch_announced":"2010. Released 2010","launch_status":"Discontinued","body_dimensions":"93 x 49 x 13.5 mm (3.66 x 1.93 x 0.53 in)","body_weight":"80 g 
+(2.82 oz)","body_sim":"Mini-SIM","display_type":"TFT resistive touchscreen, 65K colors","display_size":"","display_resolution":"","features_sensors":"V1","platform_os":""}
+{"oem":"Benefon","model":"Vega","launch_announced":"1999","launch_status":"Discontinued","body_dimensions":"145 x 56 x 23 mm (5.71 x 2.20 x 0.91 in)","body_weight":"190 g (6.70 oz)","body_sim":"Mini-SIM","display_type":"Monochrome graphic","display_size":"","display_resolution":"6 lines","features_sensors":"V1","platform_os":""}
+{"oem":"Garmin-Asus","model":"nuvifone M10","launch_announced":"2010, January. Released 2010, March","launch_status":"Discontinued","body_dimensions":"-","body_weight":"-","body_sim":"Mini-SIM","display_type":"TFT resistive touchscreen, 65K colors","display_size":"3.5 inches, 34.9 cm","display_resolution":"480 x 800 pixels, 5:3 ratio (~267 ppi density)","features_sensors":"Accelerometer","platform_os":"Microsoft Windows Mobile 6.5.3 Professional"}    
+{"oem":"Gigabyte","model":"GSmart G1305 Boston","launch_announced":"2010, April. Released 2010, April","launch_status":"Discontinued","body_dimensions":"116 x 56.8 x 12.4 mm (4.57 x 
+2.24 x 0.49 in)","body_weight":"118 g (4.16 oz)","body_sim":"Mini-SIM","display_type":"TFT 
+capacitive touchscreen, 256K colors","display_size":"3.2 inches, 30.5 cm (~46.3% screen-to-body ratio)","display_resolution":"320 x 480 pixels, 3:2 ratio (~180 ppi density)","features_sensors":"Accelerometer","platform_os":"Android 1.6 (Donut)"}
+{"oem":"Gigabyte","model":"GSmart","launch_announced":"Not officially announced yet","launch_status":"Cancelled","body_dimensions":"103 x 54 x 13.4 mm (4.06 x 2.13 x 0.53 in)","body_weight":"-","body_sim":"Mini-SIM","display_type":"TFT capacitive touchscreen, 256K colors","display_size":"2.8 inches, 24.3 cm (~43.7% screen-to-body ratio)","display_resolution":"240 x 320 pixels, 4:3 ratio (~143 ppi density)","features_sensors":"Accelerometer","platform_os":"Android 1.6 (Donut)"}
+{"oem":"Google","model":"Pixel 4 XL","launch_announced":"2019, October 15","launch_status":"Available. Released 2019, October 22","body_dimensions":"160.4 x 75.1 x 8.2 mm (6.31 x 2.96 x 0.32 in)","body_weight":"193 g (6.81 oz)","body_sim":"Nano-SIM card & eSIM","display_type":"P-OLED capacitive touchscreen, 16M colors","display_size":"6.3 inches, 98.0 cm (~81.3% screen-to-body ratio)","display_resolution":"1440 x 3040 pixels, 19:9 ratio (~537 ppi density)","features_sensors":"Face ID, accelerometer, gyro, proximity, compass, barometer","platform_os":"Android 10"}
+{"oem":"Google","model":"Pixel 4","launch_announced":"2019, October 15","launch_status":"Available. Released 2019, October 22","body_dimensions":"147.1 x 68.8 x 8.2 mm (5.79 x 2.71 x 0.32 in)","body_weight":"162 g (5.71 oz)","body_sim":"Nano-SIM card & eSIM","display_typ" 
+:"P-OLED capacitive touchscreen, 16M colors","display_size":"5.7 inches, 80.7 cm (~79.8% screen-to-body ratio)","display_resolution":"1080 x 2280 pixels, 19:9 ratio (~444 ppi density)","features_sensors":"Face ID, accelerometer, gyro, proximity, compass, barometer","platform_os":"Android 10"}
+{"oem":"Google","model":"Pixel 3a XL","launch_announced":"2019, May 07","launch_status":"Available. Released 2019, May 15","body_dimensions":"160.1 x 76.1 x 8.2 mm (6.30 x 3.00 x 0.32 in)","body_weight":"167 g (5.89 oz)","body_sim":"Nano-SIM, eSIM","display_type":"OLED capacitive touchscreen, 16M colors","display_size":"6.0 inches, 92.9 cm (~76.3% screen-to-body ratio)","display_resolution":"1080 x 2160 pixels, 18:9 ratio (~402 ppi density)","features_sensors":"Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass, barometer","platform_os":"Android 9.0 (Pie), upgradable to Android 10"}
+{"oem":"Google","model":"Pixel 3a","launch_announced":"2019, May 07","launch_status":"Available. Released 2019, May 15","body_dimensions":"151.3 x 70.1 x 8.2 mm (5.96 x 2.76 x 0.32 in)","body_weight":"147 g (5.19 oz)","body_sim":"Nano-SIM","display_type":"OLED capacitive touchscreen, 16M colors","display_size":"5.6 inches, 79.6 cm (~75.0% screen-to-body ratio)","display_resolution":"1080 x 2220 pixels, 18.5:9 ratio (~441 ppi density)","features_sensors":"Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass, barometer","platform_os":"Android 9.0 (Pie), upgradable to Android 10"}
+{"oem":"Haier","model":"N60","launch_announced":"2005, Q1","launch_status":"Discontinued","body_dimensions":"94 x 48 x 25 mm (3.70 x 1.89 x 0.98 in)","body_weight":"131 g (4.62 oz)","body_sim":"Mini-SIM","display_type":"TFT resistive touchscreen, 256K colors","display_size":"","display_resolution":"320 x 240 pixels, 4:3 ratio","features_sensors":"V1","platform_os":"Linux"}
+{"oem":"Haier","model":"T3000","launch_announced":"2005, Q1","launch_status":"Discontinued","body_dimensions":"85 x 45 x 23.5 mm (3.35 x 1.77 x 0.93 in)","body_weight":"85 g (3.00 oz)","body_sim":"Mini-SIM","display_type":"65K colors","display_size":"","display_resolution":"128 x 160 pixels","features_sensors":"V1","platform_os":""}
+{"oem":"Haier","model":"V280","launch_announced":"2005","launch_status":"Discontinued","body_dimensions":"109 x 44 x 14.5 mm (4.29 x 1.73 x 0.57 in)","body_weight":"80 g (2.82 oz)","body_sim":"Mini-SIM","display_type":"65K colors","display_size":"","display_resolution":"128 x 160 pixels","features_sensors":"V1","platform_os":""}
+{"oem":"Haier","model":"V190","launch_announced":"2004","launch_status":"Discontinued","body_dimensions":"106 x 46 x 18.8 mm (4.17 x 1.81 x 0.74 in)","body_weight":"90 g (3.17 oz)","body_sim":"Mini-SIM","display_type":"65K colors","display_size":"","display_resolution":"128 x 128 pixels, 1:1 ratio","features_sensors":"V1","platform_os":""}
+{"oem":"Haier","model":"V100","launch_announced":"2004","launch_status":"Discontinued","body_dimensions":"106 x 46 x 18.8 mm (4.17 x 1.81 x 0.74 in)","body_weight":"90 g (3.17 oz)","body_sim":"Mini-SIM","display_type":"65K colors","display_size":"","display_resolution":"128 x 128 pixels, 1:1 ratio","features_sensors":"V1","platform_os":""}
+{"oem":"Haier","model":"P5","launch_announced":"2003","launch_status":"Discontinued","body_dimensions":"135 x 28 x 18 mm (5.31 x 1.10 x 0.71 in)","body_weight":"75 g (2.65 oz)","body_sim":"Mini-SIM","display_type":"Monochrome","display_size":"","display_resolution":"64 x 102 pixels, 16:10 ratio","features_sensors":"V1","platform_os":""}
+{"oem":"Haier","model":"Z8000","launch_announced":"2004","launch_status":"Discontinued","body_dimensions":"83 x 44 x 23.8 mm (3.27 x 1.73 x 0.94 in)","body_weight":"90 g (3.17 oz)","body_sim":"Mini-SIM","display_type":"4096 colors","display_size":"","display_resolution":"128 x 128 pixels, 1:1 ratio","features_sensors":"V1","platform_os":""}
+{"oem":"Honor","model":"8S 2020","launch_announced":"2020, May 27","launch_status":"Available. Released 2020, May 27","body_dimensions":"147.1 x 70.8 x 8.5 mm (5.79 x 2.79 x 0.33 in)","body_weight":"146 g (5.15 oz)","body_sim":"Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, 
+dual stand-by)","display_type":"IPS LCD capacitive touchscreen, 16M colors","display_size":"5.71 inches, 81.4 cm (~78.1% screen-to-body ratio)","display_resolution":"720 x 1520 pixels, 19:9 ratio (~295 ppi density)","features_sensors":"Accelerometer, proximity","platform_os":"Android 9.0 (Pie), EMUI 9, Google Play Services"}
+{"oem":"Honor","model":"Play4","launch_announced":"2020, June 03","launch_status":"Available. Released 2020, June 13","body_dimensions":"170 x 78.5 x 8.9 mm (6.69 x 3.09 x 0.35 in)","body_weight":"213 g (7.51 oz)","body_sim":"Dual SIM (Nano-SIM, dual stand-by)","display_type":"IPS LCD capacitive touchscreen, 16M colors","display_size":"6.81 inches, 112.0 cm (~83.9% screen-to-body ratio)","display_resolution":"1080 x 2400 pixels, 20:9 ratio (~386 ppid 
+ensity)","features_sensors":"Fingerprint (side-mounted), accelerometer, gyro, proximity, compass","platform_os":"Android 10, Magic UI 3.1, no Google Play Services"}
+{"oem":"Honor","model":"Play4 Pro","launch_announced":"2020, June 03","launch_status":"Available. Released 2020, June 10","body_dimensions":"162.7 x 75.8 x 8.9 mm (6.41 x 2.98 x 0.35 in)","body_weight":"213 g (7.51 oz)","body_sim":"Dual SIM (Nano-SIM, dual stand-by)","display_type":"IPS LCD capacitive touchscreen, 16M colors","display_size":"6.57 inches, 104.2 cm (~84.5% screen-to-body ratio)","display_resolution":"1080 x 2400 pixels, 20:9 ratio (~401 ppi density)","features_sensors":"Fingerprint (side-mounted), accelerometer, gyro, proximity, compass","platform_os":"Android 10, Magic UI 3.1, no Google Play Services"}
+{"oem":"Honor","model":"X10 5G","launch_announced":"2020, May 20","launch_status":"Available. Released 2020, May 26","body_dimensions":"163.7 x 76.5 x 8.8 mm (6.44 x 3.01 x 0.35 in)","body_weight":"203 g (7.16 oz)","body_sim":"Dual SIM (Nano-SIM, dual stand-by)","display_type":"LTPS IPS LCD capacitive touchscreen, 16M colors","display_size":"6.63 inches, 106.1 cm (~84.7% screen-to-body ratio)","display_resolution":"1080 x 2400 pixels, 20:9 ratio (~397 ppi density)","features_sensors":"Fingerprint (side-mounted), accelerometer, gyro, proximity, compass","platform_os":"Android 10, Magic UI 3.1, no Google Play Services"}
+{"oem":"Honor","model":"V6","launch_announced":"2020, May 19","launch_status":"Available. Released 2020, June 15","body_dimensions":"245.2 x 154.9 x 7.8 mm (9.65 x 6.10 x 0.31 in)","body_weight":"480 g (1.06 lb)","body_sim":"No","display_type":"IPS LCD capacitive touchscreen, 16M colors","display_size":"10.4 inches, 307.9 cm (~81.1% screen-to-body ratio)","display_resolution":"1200 x 2000 pixels, 5:3 ratio (~224 ppi density)","features_sensors":"Accelerometer, proximity, compass","platform_os":"Android 10, Magic UI 3.1, no Google Play Services"}
+{"oem":"Honor","model":"9A","launch_announced":"2020, April 29","launch_status":"Available. Released 2020, May 04","body_dimensions":"159.1 x 74.1 x 9 mm (6.26 x 2.92 x 0.35 in)","body_weight":"185 g (6.53 oz)","body_sim":"Dual SIM (Nano-SIM, dual stand-by)","display_type":"IPS LCD capacitive touchscreen, 16M colors","display_size":"6.3 inches, 95.8 cm (~81.3% screen-to-body ratio)","display_resolution":"720 x 1600 pixels, 20:9 ratio (~278 ppi density)","features_sensors":"Fingerprint (rear-mounted), accelerometer, proximity","platform_os":"Android 10, Magic UI 3.1, no Google Play Services"}
+{"oem":"Honor","model":"9C","launch_announced":"2020, April 29","launch_status":"Available. Released 2020, May 04","body_dimensions":"159.8 x 76.1 x 8.1 mm (6.29 x 3.00 x 0.32 in)","body_weight":"176 g (6.21 oz)","body_sim":"Dual SIM (Nano-SIM, dual stand-by)","display_type":"IPS LCD capacitive touchscreen, 16M colors","display_size":"6.39 inches, 100.2 cm (~82.4% screen-to-body ratio)","display_resolution":"720 x 1560 pixels, 19.5:9 ratio (~269 ppi density)","features_sensors":"Fingerprint (rear-mounted), accelerometer, proximity, compass","platform_os":"Android 10, EMUI 10.1, no Google Play Services"}
+{"oem":"Honor","model":"9S","launch_announced":"2020, April 29","launch_status":"Available. Released 2020, May 04","body_dimensions":"146.5 x 70.9 x 8.4 mm (5.77 x 2.79 x 0.33 in)","body_weight":"144 g (5.08 oz)","body_sim":"Dual SIM (Nano-SIM, dual stand-by)","display_type":"Capacitive touchscreen, 16M colors","display_size":"5.45 inches, 76.7 cm (~73.8% screen-to-body ratio)","display_resolution":"720 x 1440 pixels, 18:9 ratio (~295 ppi density)","features_sensors":"Accelerometer, proximity","platform_os":"Android 10, Magic UI 3.1, no Google Play Services"}
+{"oem":"Honor","model":"9X Lite","launch_announced":"2020, April 17","launch_status":"Available. Released 2020, May 14","body_dimensions":"160.4 x 76.6 x 7.8 mm (6.31 x 3.02 x 0.31 in)","body_weight":"188 g (6.63 oz)","body_sim":"Hybrid Dual SIM (Nano-SIM, dual stand-by)","display_type":"IPS LCD capacitive touchscreen, 16M colors","display_size":"6.5 inches, 103.2 cm (~84.0% screen-to-body ratio)","display_resolution":"1080 x 2340 pixels, 19.5:9 ratio (~397 ppi density)","features_sensors":"Fingerprint (rear-mounted), accelerometer, proximity, compass","platform_os":"Android 9.0 (Pie), EMUI 9.1"}
+{"oem":"Honor","model":"30 Pro+","launch_announced":"2020, April 15","launch_status":"Available. Released 2020, April 21","body_dimensions":"160.3 x 73.6 x 8.4 mm (6.31 x 2.90 x 0.33 in)","body_weight":"190 g (6.70 oz)","body_sim":"Hybrid Dual SIM (Nano-SIM, dual stand-by)","display_type":"OLED capacitive touchscreen, 16M colors","display_size":"6.57 inches, 106.0 cm (~89.8% screen-to-body ratio)","display_resolution":"1080 x 2340 pixels, 19.5:9 ratio (~392 ppi density)","features_sensors":"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass","platform_os":"Android 10, Magic UI 3, no Google Play Services"}
+{"oem":"Honor","model":"30 Pro","launch_announced":"2020, April 15","launch_status":"Available. Released 2020, April 21","body_dimensions":"160.3 x 73.6 x 8.4 mm (6.31 x 2.90 x 0.33 
+in)","body_weight":"186 g (6.56 oz)","body_sim":"Hybrid Dual SIM (Nano-SIM, dual stand-by)","display_type":"OLED capacitive touchscreen, 16M colors","display_size":"6.57 inches, 106.0 cm (~89.8% screen-to-body ratio)","display_resolution":"1080 x 2340 pixels, 19.5:9 ratio 
+(~392 ppi density)","features_sensors":"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass","platform_os":"Android 10, Magic UI 3, no Google Play Services"}
+{"oem":"Honor","model":"30","launch_announced":"2020, April 15","launch_status":"Available. Released 2020, April 21","body_dimensions":"160.3 x 74.2 x 8.1 mm (6.31 x 2.92 x 0.32 in)","body_weight":"185 g (6.53 oz)","body_sim":"Hybrid Dual SIM (Nano-SIM, dual stand-by)","display_type":"OLED capacitive touchscreen, 16M colors","display_size":"6.53 inches, 102.9 cm (~86.6% screen-to-body ratio)","display_resolution":"1080 x 2400 pixels, 20:9 ratio (~403 
+ppi density)","features_sensors":"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass","platform_os":"Android 10, Magic UI 3, no Google Play Services"}     
+{"oem":"Honor","model":"20e","launch_announced":"2020, April 16","launch_status":"Available. Released 2020, April 27","body_dimensions":"154.8 x 73.6 x 8 mm (6.09 x 2.90 x 0.31 in)","body_weight":"164 g (5.78 oz)","body_sim":"Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)","display_type":"IPS LCD capacitive touchscreen, 16M colors","display_size":"6.21 inches, 94.7 cm (~83.1% screen-to-body ratio)","display_resolution":"1080 x 2340 pixels, 19.5:9 ratio (~415 ppi density)","features_sensors":"Fingerprint (rear-mounted), accelerometer, proximity, compass","platform_os":"Android 9.0 (Pie), EMUI 9.1, no Google Play Services"}
+{"oem":"Honor","model":"Play 4T Pro","launch_announced":"2020, April 09","launch_status":"Available. Released 2020, April 09","body_dimensions":"157.4 x 73.2 x 7.8 mm (6.20 x 2.88 x 
+0.31 in)","body_weight":"165 g (5.82 oz)","body_sim":"Dual SIM (Nano-SIM, dual stand-by)","display_type":"OLED capacitive touchscreen, 16M colors","display_size":"6.3 inches, 95.8 cm (~83.2% screen-to-body ratio)","display_resolution":"1080 x 2400 pixels, 20:9 ratio (~418 
+ppi density)","features_sensors":"Fingerprint (under display, optical), accelerometer, proximity, compass","platform_os":"Android 10, Magic UI 2, no Google Play Services"}
+{"oem":"Honor","model":"Play 4T","launch_announced":"2020, April 09","launch_status":"Available. Released 2020, April 14","body_dimensions":"159.8 x 76.1 x 8.1 mm (6.29 x 3.00 x 0.32 in)","body_weight":"176 g (6.21 oz)","body_sim":"Dual SIM (Nano-SIM, dual stand-by)","display_type":"IPS LCD capacitive touchscreen, 16M colors","display_size":"6.39 inches, 100.2 cm (~82.4% screen-to-body ratio)","display_resolution":"720 x 1560 pixels, 19.5:9 ratio (~269 ppi density)","features_sensors":"Fingerprint (rear-mounted), accelerometer, proximity, compass","platform_os":"Android 10, Magic UI 3, no Google Play Services"}
+{"oem":"Honor","model":"8A 2020","launch_announced":"2020, April 10","launch_status":"Available. Released 2020, April 15","body_dimensions":"156.3 x 73.5 x 8.2 mm (6.15 x 2.89 x 0.32 in)","body_weight":"150 g (5.29 oz)","body_sim":"Dual SIM (Nano-SIM, dual stand-by)","display_type":"IPS LCD capacitive touchscreen, 16M colors","display_size":"6.09 inches, 91.0 cm (~79.2% screen-to-body ratio)","display_resolution":"720 x 1560 pixels, 19.5:9 ratio (~282 ppi density)","features_sensors":"Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass","platform_os":"Android 9.0 (Pie), EMUI 9"}
+{"oem":"Honor","model":"8A Prime","launch_announced":"2020, March 30","launch_status":"Available. Released 2020, March 30","body_dimensions":"156.3 x 73.5 x 8.2 mm (6.15 x 2.89 x 0.32 in)","body_weight":"150 g (5.29 oz)","body_sim":"Dual SIM (Nano-SIM, dual stand-by)","display_type":"IPS LCD capacitive touchscreen, 16M colors","display_size":"6.09 inches, 91.0 cm (~79.2% screen-to-body ratio)","display_resolution":"720 x 1560 pixels, 19.5:9 ratio (~282 ppi density)","features_sensors":"Fingerprint (rear-mounted), accelerometer, proximity","platform_os":"Android 9.0 (Pie), EMUI 9"}
+{"oem":"Honor","model":"30S","launch_announced":"2020, March 30","launch_status":"Available. Released 2020, April 07","body_dimensions":"162.3 x 75 x 8.6 mm (6.39 x 2.95 x 0.34 in)","body_weight":"190 g (6.70 oz)","body_sim":"Dual SIM (Nano-SIM, dual stand-by)","display_type":"LTPS IPS LCD capacitive touchscreen, 16M colors","display_size":"6.5 inches, 102.0 cm 
+(~83.8% screen-to-body ratio)","display_resolution":"1080 x 2400 pixels, 20:9 ratio (~405 ppi density)","features_sensors":"Fingerprint (side-mounted), accelerometer, gyro, proximity, compass","platform_os":"Android 10, Magic UI 3, no Google Play Services"}
+{"oem":"Honor","model":"Play 9A","launch_announced":"2020, March 30","launch_status":"Available. Released 2020, April 03","body_dimensions":"159.1 x 74.1 x 9 mm (6.26 x 2.92 x 0.35 in)","body_weight":"185 g (6.53 oz)","body_sim":"Dual SIM (Nano-SIM, dual stand-by)","display_type":"IPS LCD capacitive touchscreen, 16M colors","display_size":"6.3 inches, 95.8 cm (~81.3% screen-to-body ratio)","display_resolution":"720 x 1600 pixels, 20:9 ratio (~278 ppi 
+density)","features_sensors":"Fingerprint (rear-mounted), accelerometer, proximity","platform_os":"Android 10, Magic UI 3.0, no Google Play Services"}
+{"oem":"Honor","model":"View30 Pro","launch_announced":"2020, February 24","launch_status":"Available. Released 2020, April 27","body_dimensions":"162.7 x 75.8 x 8.8 mm (6.41 x 2.98 
+x 0.35 in)","body_weight":"206 g (7.27 oz)","body_sim":"Dual SIM (Nano-SIM, dual stand-by)","display_type":"IPS LCD capacitive touchscreen, 16M colors","display_size":"6.57 inches, 104.7 cm (~84.9% screen-to-body ratio)","display_resolution":"1080 x 2400 pixels, 20:9 ratio (~400 ppi density)","features_sensors":"Fingerprint (side-mounted), accelerometer, gyro, proximity, compass","platform_os":"Android 10, Magic UI 3, no Google Play Services"}        
+{"oem":"Honor","model":"View30","launch_announced":"2020, February 24","launch_status":"Available. Released 2020, April 27","body_dimensions":"162.7 x 75.8 x 8.9 mm (6.41 x 2.98 x 0.35 in)","body_weight":"213 g (7.51 oz)","body_sim":"Dual SIM (Nano-SIM, dual stand-by)","display_type":"IPS LCD capacitive touchscreen, 16M colors","display_size":"6.57 inches, 104.2 cm (~84.5% screen-to-body ratio)","display_resolution":"1080 x 2400 pixels, 20:9 ratio (~401 ppi density)","features_sensors":"Fingerprint (side-mounted), accelerometer, gyro, proximity, compass","platform_os":"Android 10, Magic UI 3, no Google Play Services"}
+{"oem":"Honor","model":"V30 Pro","launch_announced":"2019, November","launch_status":"Available. Released 2019, December","body_dimensions":"162.7 x 75.8 x 8.8 mm (6.41 x 2.98 x 0.35 in)","body_weight":"206 g (7.27 oz)","body_sim":"Dual SIM (Nano-SIM, dual stand-by)","display_type":"IPS LCD capacitive touchscreen, 16M colors","display_size":"6.57 inches, 104.7 cm (~84.9% screen-to-body ratio)","display_resolution":"1080 x 2400 pixels, 20:9 ratio (~400 ppi density)","features_sensors":"Fingerprint (side-mounted), accelerometer, gyro, proximity, compass","platform_os":"Android 10, Magic UI 3"}
+{"oem":"Honor","model":"MagicWatch 2","launch_announced":"2019, November","launch_status":"Available. Released 2019, December","body_dimensions":"45.9 x 45.9 x 10.7 mm (1.81 x 1.81 x 0.42 in)","body_weight":"41 g (1.45 oz)","body_sim":"No","display_type":"OLED capacitive touchscreen, 16M colors","display_size":"1.39 inches, 12.5 cm (~59.4% screen-to-body ratio)","display_resolution":"454 x 454 pixels, 1:1 ratio (~326 ppi density)","features_sensors":"Accelerometer, gyro, heart rate, barometer, compass","platform_os":"Huawei wearable platform"}
+{"oem":"Honor","model":"9X","launch_announced":"2019, October 28","launch_status":"Available. Released 2019, November 14","body_dimensions":"163.5 x 77.3 x 8.8 mm (6.44 x 3.04 x 0.35 in)","body_weight":"196.8 g (6.95 oz)","body_sim":"Hybrid Dual SIM (Nano-SIM, dual stand-by)","display_type":"LTPS IPS LCD capacitive touchscreen, 16M colors","display_size":"6.59 inches, 106.6 cm (~84.3% screen-to-body ratio)","display_resolution":"1080 x 2340 pixels, 19.5:9 ratio (~391 ppi density)","features_sensors":"Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass","platform_os":"Android 9.0 (Pie), EMUI 9.1"}
+{"oem":"Honor","model":"20 lite (China)","launch_announced":"2019, October","launch_status":"Available. Released 2019, October","body_dimensions":"157.2 x 73.2 x 7.7 mm (6.19 x 2.88 
+x 0.30 in)","body_weight":"171.5 g (6.07 oz)","body_sim":"Hybrid Dual SIM (Nano-SIM, dual stand-by)","display_type":"AMOLED capacitive touchscreen, 16M colors","display_size":"6.3 inches, 95.8 cm (~83.3% screen-to-body ratio)","display_resolution":"1080 x 2400 pixels, 20:9 ratio (~418 ppi density)","features_sensors":"Fingerprint (under display, optical), accelerometer, proximity, compass","platform_os":"Android 9.0 (Pie), EMUI 9.1"}
+{"oem":"Honor","model":"Play 3e","launch_announced":"2019, September","launch_status":"Available. Released 2019, September","body_dimensions":"147.1 x 70.8 x 8.5 mm (5.79 x 2.79 x 0.33 in)","body_weight":"146 g (5.15 oz)","body_sim":"Dual SIM (Nano-SIM, dual stand-by)","display_type":"IPS LCD capacitive touchscreen, 16M colors","display_size":"5.71 inches, 81.4 
+cm (~78.1% screen-to-body ratio)","display_resolution":"720 x 1520 pixels, 19:9 ratio (~295 ppi density)","features_sensors":"Accelerometer, proximity","platform_os":"Android 9.0 (Pie), EMUI 9.1"}
+{"oem":"Honor","model":"Play 3","launch_announced":"2019, September","launch_status":"Available. Released 2019, September","body_dimensions":"159.8 x 76.1 x 8.1 mm (6.29 x 3.00 x 0.32 in)","body_weight":"176 g (6.21 oz)","body_sim":"Hybrid Dual SIM (Nano-SIM, dual stand-by)","display_type":"IPS LCD capacitive touchscreen, 16M colors","display_size":"6.39 inches, 100.2 cm (~82.4% screen-to-body ratio)","display_resolution":"720 x 1560 pixels, 19.5:9 ratio (~269 ppi density)","features_sensors":"Accelerometer, proximity, compass","platform_os":"Android 9.0 (Pie), EMUI 9.1"}
+{"oem":"Honor","model":"20S","launch_announced":"2019, September","launch_status":"Available. Released 2019, October","body_dimensions":"154.3 x 74 x 7.9 mm (6.07 x 2.91 x 0.31 in)","body_weight":"172 g (6.07 oz)","body_sim":"Dual SIM (Nano-SIM, dual stand-by)","display_type":"IPS LCD capacitive touchscreen, 16M colors","display_size":"6.26 inches, 96.2 cm (~84.2% screen-to-body ratio)","display_resolution":"1080 x 2340 pixels, 19.5:9 ratio (~412 ppi 
+density)","features_sensors":"Fingerprint (side-mounted), accelerometer, gyro, proximity, compass","platform_os":"Android 9.0 (Pie), Magic 2.1"}
+{"oem":"Honor","model":"9X Pro","launch_announced":"2019, July 23","launch_status":"Available. Released 2019, August 09","body_dimensions":"163.5 x 77.3 x 8.8 mm (6.44 x 3.04 x 0.35 
+in)","body_weight":"202 g (7.13 oz)","body_sim":"Hybrid Dual SIM (Nano-SIM, dual stand-by)","display_type":"LTPS IPS LCD capacitive touchscreen, 16M colors","display_size":"6.59 inches, 106.6 cm (~84.3% screen-to-body ratio)","display_resolution":"1080 x 2340 pixels, 19.5:9 ratio (~391 ppi density)","features_sensors":"Fingerprint (side-mounted), accelerometer, 
+gyro, proximity, compass","platform_os":"Android 9.0 (Pie), upgradable to Android 10, EMUI 
+9.1, no Google Play Services"}
+{"oem":"Honor","model":"9X (China)","launch_announced":"2019, July","launch_status":"Available. Released 2019, July","body_dimensions":"163.1 x 77.2 x 8.8 mm (6.42 x 3.04 x 0.35 in)","body_weight":"206 g (7.27 oz)","body_sim":"Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)","display_type":"LTPS IPS LCD capacitive touchscreen, 16M colors","display_size":"6.59 inches, 106.6 cm (~84.7% screen-to-body ratio)","display_resolution":"1080 x 2340 pixels, 19.5:9 ratio (~391 ppi density)","features_sensors":"Fingerprint (side-mounted), accelerometer, gyro, proximity, compass","platform_os":"Android 9.0 (Pie), EMUI 9.1"}{"oem":"Honor","model":"8S","launch_announced":"2019, April","launch_status":"Available. Released 2019, April","body_dimensions":"147.1 x 70.8 x 8.5 mm (5.79 x 2.79 x 0.33 in)","body_weight":"146 g (5.15 oz)","body_sim":"Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)","display_type":"IPS LCD capacitive touchscreen, 16M colors","display_size":"5.71 inches, 81.4 cm (~78.1% screen-to-body ratio)","display_resolution":"720 x 1520 pixels, 19:9 ratio (~295 ppi density)","features_sensors":"Accelerometer, proximity","platform_os":"Android 9.0 (Pie), EMUI 9"}
+{"oem":"Honor","model":"Pad 5 10.1","launch_announced":"2019, June","launch_status":"Available. Released 2019, July","body_dimensions":"243 x 164 x 7.8 mm (9.57 x 6.46 x 0.31 in)","body_weight":"-","body_sim":"Nano-SIM","display_type":"IPS LCD capacitive touchscreen, 16M colors","display_size":"10.1 inches, 295.8 cm (~74.2% screen-to-body ratio)","display_resou 
+tion":"1920 x 1200 pixels, 16:10 ratio (~224 ppi density)","features_sensors":"Accelerometer","platform_os":"Android 8.0 (Oreo), EMUI 8"}
+{"oem":"Honor","model":"Pad 5 8","launch_announced":"2019, June","launch_status":"Available. Released 2019, July","body_dimensions":"204.2 x 122.2 x 8.2 mm (8.04 x 4.81 x 0.32 in)","body_weight":"-","body_sim":"Nano-SIM","display_type":"IPS LCD capacitive touchscreen, 16M 
+colors","display_size":"8.0 inches, 185.6 cm (~74.4% screen-to-body ratio)","display_resolution":"1920 x 1200 pixels, 16:10 ratio (~283 ppi density)","features_sensors":"Accelerometer, proximity","platform_os":"Android 9.0 (Pie), Magic 2.0"}
+{"oem":"Honor","model":"20 Pro","launch_announced":"2019, May","launch_status":"Available. 
+Released 2019, July","body_dimensions":"154.6 x 74 x 8.4 mm (6.09 x 2.91 x 0.33 in)","body_weight":"182 g (6.42 oz)","body_sim":"Dual SIM (Nano-SIM, dual stand-by)","display_type":"IPS LCD capacitive touchscreen, 16M colors","display_size":"6.26 inches, 96.2 cm (~84.1% screen-to-body ratio)","display_resolution":"1080 x 2340 pixels, 19.5:9 ratio (~412 ppi density)","features_sensors":"Fingerprint (side-mounted), accelerometer, gyro, proximity, compass","platform_os":"Android 9.0 (Pie), Magic 2.1"}
+{"oem":"Honor","model":"20","launch_announced":"2019, May","launch_status":"Available. Released 2019, June","body_dimensions":"154.3 x 74 x 7.9 mm (6.07 x 2.91 x 0.31 in)","body_weight":"174 g (6.14 oz)","body_sim":"Dual SIM (Nano-SIM, dual stand-by)","display_type":"IPS LCD capacitive touchscreen, 16M colors","display_size":"6.26 inches, 96.2 cm (~84.2% screen-to-body ratio)","display_resolution":"1080 x 2340 pixels, 19.5:9 ratio (~412 ppi density)","features_sensors":"Fingerprint (side-mounted), accelerometer, gyro, proximity, compass","platform_os":"Android 9.0 (Pie), Magic 2.1"}
+{"oem":"Honor","model":"20 lite","launch_announced":"2019, April","launch_status":"Available. Released 2019, April","body_dimensions":"154.8 x 73.6 x 8 mm (6.09 x 2.90 x 0.31 in)","body_weight":"164 g (5.78 oz)","body_sim":"Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)","display_type":"LTPS IPS LCD capacitive touchscreen, 16M colors","display_size":"6.21 inches, 94.7 cm (~83.1% screen-to-body ratio)","display_resolution":"1080 x 2340 pixels, 19.5:9 ratio (~415 ppi density)","features_sensors":"Fingerprint (rear-mounted), accelerometer, proximity, compass","platform_os":"Android 9.0 (Pie), EMUI 9"}
+{"oem":"HP","model":"Slate8 Pro","launch_announced":"2013, December. Released 2013, December","launch_status":"Discontinued","body_dimensions":"220 x 141.5 x 9.9 mm (8.66 x 5.57 x 0.39 in)","body_weight":"453.6 g (1.00 lb)","body_sim":"No","display_type":"Capacitive touchscreen, 16M colors","display_size":"8.0 inches, 198.2 cm (~63.7% screen-to-body ratio)","display_resolution":"1200 x 1600 pixels, 4:3 ratio (~250 ppi density)","features_sensors":"Accelerometer, gyro, compass","platform_os":"Android 4.2.2 (Jelly Bean)"}
+{"oem":"HTC","model":"U20 5G","launch_announced":"2020, June 16","launch_status":"Coming soon. Exp. release 2020, July","body_dimensions":"171.2 x 78.1 x 9.4 mm (6.74 x 3.07 x 0.37 in)","body_weight":"215.5 g (7.62 oz)","body_sim":"Dual SIM (Nano-SIM, dual stand-by)","display_type":"Capacitive touchscreen, 16M colors","display_size":"6.8 inches, 111.6 cm (~83.5% screen-to-body ratio)","display_resolution":"1080 x 2400 pixels, 20:9 ratio (~387 ppi density)","features_sensors":"Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass, SAR","platform_os":"Android 10"}
+{"oem":"HTC","model":"Desire 20 Pro","launch_announced":"2020, June 16","launch_status":"Coming soon. Exp. release 2020, July","body_dimensions":"162 x 77 x 9.4 mm (6.38 x 3.03 x 0.37 in)","body_weight":"201 g (7.09 oz)","body_sim":"Dual SIM (Nano-SIM, dual stand-by)","display_type":"IPS LCD capacitive touchscreen, 16M colors","display_size":"6.5 inches, 103.7 cm (~83.1% screen-to-body ratio)","display_resolution":"1080 x 2340 pixels, 19.5:9 ratio (~396 ppi density)","features_sensors":"Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass","platform_os":"Android 10"}
+{"oem":"HTC","model":"Wildfire R70","launch_announced":"2020, February 27","launch_status":"Coming soon. Exp. release 2020, Q3","body_dimensions":"163.2 x 77.8 x 8.9 mm (6.43 x 3.06 
+x 0.35 in)","body_weight":"186 g (6.56 oz)","body_sim":"Hybrid Dual SIM (Nano-SIM, dual stand-by)","display_type":"IPS LCD capacitive touchscreen, 16M colors","display_size":"6.53 inches, 104.7 cm (~82.4% screen-to-body ratio)","display_resolution":"720 x 1560 pixels, 19.5:9 ratio (~263 ppi density)","features_sensors":"Fingerprint (rear-mounted), accelerometer, proximity","platform_os":"Android 9 (Pie)"}
+{"oem":"HTC","model":"Desire 19s","launch_announced":"2019, November 14","launch_status":"Available. Released 2019, November 14","body_dimensions":"156.2 x 74.8 x 8.5 mm (6.15 x 2.94 x 0.33 in)","body_weight":"170 g (6.00 oz)","body_sim":"Hybrid Dual SIM (Nano-SIM, dual stand-by)","display_type":"IPS LCD capacitive touchscreen, 16M colors","display_size":"6.2 inches, 95.9 cm (~82.1% screen-to-body ratio)","display_resolution":"720 x 1520 pixels, 19:  
+ratio (~271 ppi density)","features_sensors":"Fingerprint (rear-mounted), accelerometer, proximity, compass","platform_os":"Android 9 (Pie)"}
+{"oem":"HTC","model":"Exodus 1s","launch_announced":"2019, October 19","launch_status":"Available. Released 2019, December","body_dimensions":"154.2 x 72.7 x 8.3 mm (6.07 x 2.86 x 0.33 in)","body_weight":"150 g (5.29 oz)","body_sim":"Dual SIM (Nano-SIM, dual stand-by)","display_type":"IPS LCD capacitive touchscreen, 16M colors","display_size":"5.7 inches, 83.8 cm (~74.8% screen-to-body ratio)","display_resolution":"720 x 1440 pixels, 18:9 ratio (~282 
+ppi density)","features_sensors":"Fingerprint (rear-mounted), accelerometer, proximity, compass","platform_os":"Android 8.1 (Oreo)"}
+{"oem":"HTC","model":"Wildfire X","launch_announced":"2019, August 14","launch_status":"Available. Released 2019, August 22","body_dimensions":"156.7 x 74.9 x 8 mm (6.17 x 2.95 x 0.31 in)","body_weight":"160 g (5.64 oz)","body_sim":"Hybrid Dual SIM (Nano-SIM, dual stand-by)","display_type":"IPS LCD capacitive touchscreen, 16M colors","display_size":"6.2 inches, 
+95.9 cm (~81.7% screen-to-body ratio)","display_resolution":"720 x 1520 pixels, 19:9 ratio 
+(~271 ppi density)","features_sensors":"Fingerprint (rear-mounted), accelerometer, gyro, proximity","platform_os":"Android 9 (Pie)"}
+{"oem":"HTC","model":"U19e","launch_announced":"2019, June 11","launch_status":"Available. 
+Released 2019, June 11","body_dimensions":"156.6 x 75.9 x 8 mm (6.17 x 2.99 x 0.31 in)","body_weight":"180 g (6.35 oz)","body_sim":"Hybrid Dual SIM (Nano-SIM, dual stand-by)","display_type":"OLED capacitive touchscreen, 16M colors","display_size":"6.0 inches, 92.9 cm (~78.2% screen-to-body ratio)","display_resolution":"1080 x 2160 pixels, 18:9 ratio (~402 ppi density)","features_sensors":"Iris scanner, fingerprint (rear-mounted), accelerometer, gyro, 
+proximity, compass","platform_os":"Android 9.0 (Pie), HTC Sense"}
+{"oem":"HTC","model":"Desire 19+","launch_announced":"2019, June 11","launch_status":"Available. Released 2019, August 07","body_dimensions":"156.2 x 74.8 x 8.5 mm (6.15 x 2.94 x 0.33 in)","body_weight":"170 g (6.00 oz)","body_sim":"Dual SIM (Nano-SIM, dual stand-by)","display_type":"IPS LCD capacitive touchscreen, 16M colors","display_size":"6.2 inches, 95.9 cm (~82.1% screen-to-body ratio)","display_resolution":"720 x 1520 pixels, 19:9 ratio (~271 ppi density)","features_sensors":"Fingerprint (rear-mounted), accelerometer, proximity, compass","platform_os":"Android 9 (Pie)"}
+{"oem":"HTC","model":"Schubert","launch_announced":"Not officially announced yet","launch_status":"Discontinued","body_dimensions":"-","body_weight":"-","body_sim":"Mini-SIM","display_type":"TFT capacitive touchscreen, 16M colors","display_size":"","display_resolution":"","features_sensors":"Accelerometer, proximity","platform_os":"Microsoft Windows Phone 7"}   
+{"oem":"Huawei","model":"Enjoy 20 Pro","launch_announced":"2020, June 19","launch_status":"Coming soon. Exp. release 2020, June 24","body_dimensions":"160 x 75.3 x 8.4 mm (6.30 x 2.96 x 0.33 in)","body_weight":"192 g (6.77 oz)","body_sim":"Dual SIM (Nano-SIM, dual stand-by)","display_type":"IPS LCD capacitive touchscreen, 16M colors","display_size":"6.5 inches, 
+102.0 cm (~84.7% screen-to-body ratio)","display_resolution":"1080 x 2400 pixels, 20:9 ratio (~405 ppi density)","features_sensors":"Fingerprint (side-mounted), accelerometer, gyro, 
+proximity, compass","platform_os":"Android 10, EMUI 10.1, no Google Play Services"}        
+{"oem":"Huawei","model":"Enjoy Z 5G","launch_announced":"2020, May 24","launch_status":"Available. Released 2020, June 03","body_dimensions":"160 x 75.3 x 8.4 mm (6.30 x 2.96 x 0.33 
+in)","body_weight":"182 g (6.42 oz)","body_sim":"Dual SIM (Nano-SIM, dual stand-by)","display_type":"IPS LCD capacitive touchscreen, 16M colors","display_size":"6.5 inches, 102.0 cm 
+(~84.7% screen-to-body ratio)","display_resolution":"1080 x 2400 pixels, 20:9 ratio (~405 ppi density)","features_sensors":"Fingerprint (side-mounted), accelerometer, gyro, proximity, compass","platform_os":"Android 10, EMUI 10.1, no Google Play Services"}
+{"oem":"Huawei","model":"P Smart S","launch_announced":"2020, June 09","launch_status":"Available. Released 2020, June 09","body_dimensions":"157.4 x 73.2 x 7.8 mm (6.20 x 2.88 x 0.31 in)","body_weight":"163 g (5.75 oz)","body_sim":"Hybrid Dual SIM (Nano-SIM, dual stand-by)","display_type":"OLED capacitive touchscreen, 16M colors","display_size":"6.3 inches, 95.8 cm (~83.2% screen-to-body ratio)","display_resolution":"1080 x 2400 pixels, 20:9 ratio (~418 ppi density)","features_sensors":"Fingerprint (under display, optical), accelerometer, 
+proximity, compass","platform_os":"Android 10, EMUI 10.1, no Google Play Services"}        
+{"oem":"Huawei","model":"Y8p","launch_announced":"2020, May 18","launch_status":"Available. Released 2020, June 15","body_dimensions":"157.4 x 73.2 x 7.8 mm (6.20 x 2.88 x 0.31 in)","body_weight":"163 g (5.75 oz)","body_sim":"Hybrid Dual SIM (Nano-SIM, dual stand-by)","display_type":"OLED capacitive touchscreen, 16M colors","display_size":"6.3 inches, 95.8 cm (~83.2% screen-to-body ratio)","display_resolution":"1080 x 2400 pixels, 20:9 ratio (~418 ppi density)","features_sensors":"Fingerprint (under display, optical), accelerometer, proximity, compass","platform_os":"Android 10, EMUI 10.1, no Google Play Services"}
+{"oem":"Huawei","model":"P40 lite 5G","launch_announced":"2020, May 15","launch_status":"Available. Released 2020, May 28","body_dimensions":"162.3 x 75 x 8.6 mm (6.39 x 2.95 x 0.34 
+in)","body_weight":"189 g (6.67 oz)","body_sim":"Dual SIM (Nano-SIM, dual stand-by)","display_type":"LTPS IPS LCD capacitive touchscreen, 16M colors","display_size":"6.5 inches, 102.0 cm (~83.8% screen-to-body ratio)","display_resolution":"1080 x 2400 pixels, 20:9 ratio (~405 ppi density)","features_sensors":"Fingerprint (side-mounted), accelerometer, gyro, proximity, compass","platform_os":"Android 10, EMUI 10.1, no Google Play Services"}
+{"oem":"Huawei","model":"P30 Pro New Edition","launch_announced":"2020, May 12","launch_status":"Available. Released 2020, June 01","body_dimensions":"158 x 73.4 x 8.4 mm (6.22 x 2.89 x 0.33 in)","body_weight":"192 g (6.77 oz)","body_sim":"Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)","display_type":"OLED capacitive touchscreen, 16M colors","display_size":"6.47 inches, 102.8 cm (~88.6% screen-to-body ratio)","display_resolution":"1080 x 2340 pixels, 19.5:9 ratio (~398 ppi density)","features_sensors":"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, color spectrum","platform_os":"Android 10, EMUI 10.1, Google Play Services"}
+{"oem":"Huawei","model":"MatePad T8","launch_announced":"2020, May 07","launch_status":"Available. Released Exp. release 2020, May 19","body_dimensions":"199.7 x 121.1 x 8.6 mm (7.86 x 4.77 x 0.34 in)","body_weight":"310 g (10.93 oz)","body_sim":"Nano-SIM","display_type":"IPS LCD capacitive touchscreen, 16M colors","display_size":"8.0 inches, 185.6 cm (~76.7% screen-to-body ratio)","display_resolution":"800 x 1280 pixels, 16:10 ratio (~189 ppi density)","features_sensors":"Accelerometer","platform_os":"Android 10, EMUI 10, no Google Play Services"}
+{"oem":"Huawei","model":"Y8s","launch_announced":"2020, May 6","launch_status":"Available. 
+Released 2020, May 21","body_dimensions":"162.4 x 77.1 x 8.1 mm (6.39 x 3.04 x 0.32 in)","body_weight":"180 g (6.35 oz)","body_sim":"Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)","display_type":"IPS LCD capacitive touchscreen, 16M colors","display_size":"6.5 inches, 103.7 cm (~82.8% screen-to-body ratio)","display_resolution":"1080 x 2340 pixels, 
+19.5:9 ratio (~396 ppi density)","features_sensors":"Fingerprint (rear-mounted), accelerometer, proximity, compass","platform_os":"Android 9.0 (Pie), EMUI 9.1, Google Play Services"}{"oem":"Huawei","model":"Y6p","launch_announced":"2020, May 05","launch_status":"Available. Released 2020, May 06","body_dimensions":"159.1 x 74.1 x 9 mm (6.26 x 2.92 x 0.35 in)","body_weight":"185 g (6.53 oz)","body_sim":"Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual 
+stand-by)","display_type":"IPS LCD capacitive touchscreen, 16M colors","display_size":"6.3 
+inches, 95.8 cm (~81.3% screen-to-body ratio)","display_resolution":"720 x 1600 pixels, 20:9 ratio (~278 ppi density)","features_sensors":"Fingerprint (rear-mounted), accelerometer, 
+proximity","platform_os":"Android 10, EMUI 10.1, no Google Play Services"}
+{"oem":"Huawei","model":"Y5p","launch_announced":"2020, May 05","launch_status":"Available. Released 2020, May 06","body_dimensions":"146.5 x 70.9 x 8.4 mm (5.77 x 2.79 x 0.33 in)"" 
+body_weight":"144 g (5.08 oz)","body_sim":"Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)","display_type":"IPS LCD capacitive touchscreen, 16M colors","display_size":"5.45 inches, 76.7 cm (~73.8% screen-to-body ratio)","display_resolution":"720 x 1440 pixels, 
+18:9 ratio (~295 ppi density)","features_sensors":"Accelerometer, proximity","platform_os":"Android 10, EMUI 10.1, no Google Play Services"}
+{"oem":"Huawei","model":"P smart 2020","launch_announced":"2020, April 29","launch_status":"Available. Released 2020, May 8","body_dimensions":"155.2 x 73.4 x 8 mm (6.11 x 2.89 x 0.31 in)","body_weight":"160 g (5.64 oz)","body_sim":"Hybrid Dual SIM (Nano-SIM, dual stand-by)","display_type":"LTPS IPS LCD capacitive touchscreen, 16M colors","display_size":"6.21 inches, 94.7 cm (~83.1% screen-to-body ratio)","display_resolution":"1080 x 2340 pixels, 19.5:9 ratio (~415 ppi density)","features_sensors":"Fingerprint (rear-mounted), accelerometer, proximity, compass","platform_os":"Android 9.0 (Pie), EMUI 9.1, Google Play Services"}    
+{"oem":"Huawei","model":"nova 7 Pro 5G","launch_announced":"2020, April 23","launch_status":"Available. Released 2020, April 28","body_dimensions":"160.4 x 73.7 x 8 mm (6.31 x 2.90 x 0.31 in)","body_weight":"178 g (6.28 oz)","body_sim":"Dual SIM (Nano-SIM, dual stand-by)","display_type":"OLED capacitive touchscreen, 16M colors","display_size":"6.57 inches, 106.0 cm (~89.6% screen-to-body ratio)","display_resolution":"1080 x 2340 pixels, 19.5:9 ratio (~392 ppi density)","features_sensors":"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass","platform_os":"Android 10, EMUI 10, no Google Play Services"}   
+{"oem":"Huawei","model":"nova 7 5G","launch_announced":"2020, April 23","launch_status":"Available. Released 2020, April 28","body_dimensions":"160.6 x 74.3 x 8 mm (6.32 x 2.93 x 0.31 in)","body_weight":"180 g (6.35 oz)","body_sim":"Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)","display_type":"OLED capacitive touchscreen, 16M colors","display_size":"6.53 inches, 102.9 cm (~86.3% screen-to-body ratio)","display_resolution":"1080 x 2400 pixels, 20:9 ratio (~403 ppi density)","features_sensors":"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass","platform_os":"Android 10, EMUI 10.1, no Google Play Services"}
+{"oem":"Huawei","model":"nova 7 SE","launch_announced":"2020, April 23","launch_status":"Available. Released 2020, April 28","body_dimensions":"162.3 x 75 x 8.6 mm (6.39 x 2.95 x 0.34 in)","body_weight":"189 g (6.67 oz)","body_sim":"Dual SIM (Nano-SIM, dual stand-by)","display_type":"LTPS IPS LCD capacitive touchscreen, 16M colors","display_size":"6.5 inches, 102.0 cm (~83.8% screen-to-body ratio)","display_resolution":"1080 x 2400 pixels, 20:9 ratio 
+(~405 ppi density)","features_sensors":"Fingerprint (side-mounted), accelerometer, gyro, proximity, compass","platform_os":"Android 10, EMUI 10.1, no Google Play Services"}
+{"oem":"Huawei","model":"MatePad","launch_announced":"2020, April 23","launch_status":"Available. Released 2020, April 28","body_dimensions":"245.2 x 155 x 7.4 mm (9.65 x 6.10 x 0.29 in)","body_weight":"450 g (0.99 lb)","body_sim":"Nano-SIM","display_type":"IPS LCD capacitive touchscreen, 16M colors","display_size":"10.4 inches, 307.9 cm (~81.0% screen-to-body ratio)","display_resolution":"1200 x 2000 pixels, 5:3 ratio (~224 ppi density)","features_sensors":"Accelerometer, gyro, proximity, compass","platform_os":"Android 10, EMUI 10, no Google Play Services"}
+{"oem":"Huawei","model":"Watch GT 2e","launch_announced":"2020, March 26","launch_status":"Available. Released 2020, April 20","body_dimensions":"53 x 46.8 x 10.8 mm (2.09 x 1.84 x 0.43 in)","body_weight":"43 g (1.52 oz)","body_sim":"No","display_type":"AMOLED capacitive touchscreen, 16M colors","display_size":"1.39 inches, 12.5 cm (~50.5% screen-to-body ratio)","display_resolution":"454 x 454 pixels, 1:1 ratio (~326 ppi density)","features_sensors":"Accelerometer, gyro, heart rate, barometer, compass, SpO2","platform_os":"Huawei wearable platform"}
+{"oem":"Huawei","model":"P40 Pro+","launch_announced":"2020, March 26","launch_status":"Available. Released 2020, June 06","body_dimensions":"158.2 x 72.6 x 9 mm (6.23 x 2.86 x 0.35 
+in)","body_weight":"226 g (7.97 oz)","body_sim":"Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)","display_type":"OLED capacitive touchscreen, 16M colors","display_size":"6.58 inches, 105.2 cm (~91.6% screen-to-body ratio)","display_resolution":"1200 x 2640 pixels (~441 ppi density)","features_sensors":"Infrared face recognition, fingerprint (under display, optical), accelerometer, gyro, proximity, compass, color spectrum","platform_os":"Android 10, EMUI 10.1, no Google Play Services"}
+{"oem":"Huawei","model":"P40 Pro","launch_announced":"2020, March 26","launch_status":"Available. Released 2020, April 07","body_dimensions":"158.2 x 72.6 x 9 mm (6.23 x 2.86 x 0.35 
+in)","body_weight":"209 g (7.37 oz)","body_sim":"Single SIM (Nano-SIM/eSIM) or Hybrid Dual 
+SIM (Nano-SIM, dual stand-by)","display_type":"OLED capacitive touchscreen, 16M colors","display_size":"6.58 inches, 105.2 cm (~91.6% screen-to-body ratio)","display_resolution":"1200 x 2640 pixels (~441 ppi density)","features_sensors":"Infrared face recognition, fingerprint (under display, optical), accelerometer, gyro, proximity, compass, color spectrum","platform_os":"Android 10, EMUI 10.1, no Google Play Services"}
+{"oem":"Huawei","model":"P40","launch_announced":"2020, March 26","launch_status":"Available. Released 2020, April 07","body_dimensions":"148.9 x 71.1 x 8.5 mm (5.86 x 2.80 x 0.33 in)","body_weight":"175 g (6.17 oz)","body_sim":"Single SIM (Nano-SIM/eSIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)","display_type":"OLED capacitive touchscreen, 16M colors","display_size":"6.1 inches, 91.3 cm (~86.3% screen-to-body ratio)","display_resolution":"1080 x 
+2340 pixels, 19.5:9 ratio (~422 ppi density)","features_sensors":"Infrared face recognition, fingerprint (under display, optical), accelerometer, gyro, proximity, compass, color spectrum","platform_os":"Android 10, EMUI 10.1, no Google Play Services"}
+{"oem":"Huawei","model":"P40 lite E","launch_announced":"2020, March 04","launch_status":"Available. Released 2020, March 12","body_dimensions":"159.8 x 76.1 x 8.1 mm (6.29 x 3.00 x 
+0.32 in)","body_weight":"176 g (6.21 oz)","body_sim":"Hybrid Dual SIM (Nano-SIM, dual stand-by)","display_type":"IPS LCD capacitive touchscreen, 16M colors","display_size":"6.39 inches, 100.2 cm (~82.4% screen-to-body ratio)","display_resolution":"720 x 1560 pixels, 19.5:9 ratio (~269 ppi density)","features_sensors":"Fingerprint (rear-mounted), accelerometer, proximity, compass","platform_os":"Android 9.0 (Pie), EMUI 9, no Google Play Services"}     
+{"oem":"Huawei","model":"P40 lite","launch_announced":"2020, February 27","launch_status":"Available. Released 2020, March 02","body_dimensions":"159.2 x 76.3 x 8.7 mm (6.27 x 3.00 x 0.34 in)","body_weight":"183 g (6.46 oz)","body_sim":"Hybrid Dual SIM (Nano-SIM, dual stand-by)","display_type":"LTPS IPS LCD capacitive touchscreen, 16M colors","display_size":"6.4 inches, 101.4 cm (~83.5% screen-to-body ratio)","display_resolution":"1080 x 2310 pixels (~398 ppi density)","features_sensors":"Fingerprint (side-mounted), accelerometer, proximity, compass","platform_os":"Android 10, EMUI 10, no Google Play Services"}
+{"oem":"Huawei","model":"MatePad Pro 5G","launch_announced":"2020, February 24","launch_status":"Available. Released 2020, May 27","body_dimensions":"246 x 159 x 7.2 mm (9.69 x 6.26 
+x 0.28 in)","body_weight":"460 g (1.01 lb)","body_sim":"Nano-SIM","display_type":"IPS LCD capacitive touchscreen, 16M colors","display_size":"10.8 inches, 338.2 cm (~86.5% screen-to-body ratio)","display_resolution":"2560 x 1600 pixels, 16:10 ratio (~280 ppi density)","features_sensors":"Accelerometer, gyro, proximity, compass","platform_os":"Android 10, EMUI 10, no Google Play Services"}
+{"oem":"Huawei","model":"Mate Xs","launch_announced":"2020, February 24","launch_status":"Available. Released 2020, March 05","body_dimensions":"Unfolded: 161.3 x 146.2 x 5.4 mmFole 
+d: 161.3 x 78.5 x 11 mm","body_weight":"300 g (10.58 oz)","body_sim":"Hybrid Dual SIM (Nano-SIM, dual stand-by)","display_type":"Foldable OLED capacitive touchscreen, 16M colors","display_size":"8.0 inches, 205.0 cm (~86.9% screen-to-body ratio)","display_resolution":"2200 x 2480 pixels (~414 ppi density)","features_sensors":"Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer","platform_os":"Android 10, EMUI 10, no Google Play Services"}
+{"oem":"Huawei","model":"P30 lite New Edition","launch_announced":"2020, January 14","launch_status":"Available. Released 2020, January 14","body_dimensions":"152.9 x 72.7 x 7.4 mm (6.02 x 2.86 x 0.29 in)","body_weight":"152.9 g (5.40 oz)","body_sim":"Hybrid Dual SIM (Nano-SIM, dual stand-by)","display_type":"IPS LCD capacitive touchscreen, 16M colors","display_size":"6.15 inches, 93.6 cm (~84.2% screen-to-body ratio)","display_resolution":"1080 x 2312 pixels (~415 ppi density)","features_sensors":"Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass","platform_os":"Android 9.0 (Pie), EMUI 9.1"}
+{"oem":"Huawei","model":"Y7p","launch_announced":"2020, February 07","launch_status":"Available. Released 2020, February 07","body_dimensions":"159.8 x 76.1 x 8.1 mm (6.29 x 3.00 x 0.32 in)","body_weight":"176 g (6.21 oz)","body_sim":"Hybrid Dual SIM (Nano-SIM, dual stand-by)","display_type":"IPS LCD capacitive touchscreen, 16M colors","display_size":"6.39 inches, 100.2 cm (~82.4% screen-to-body ratio)","display_resolution":"720 x 1560 pixels, 19.5:9 
+ratio (~269 ppi density)","features_sensors":"Fingerprint (rear-mounted), accelerometer, proximity, compass","platform_os":"Android 9.0 (Pie), EMUI 9, no Google Play Services"}      
+{"oem":"Huawei","model":"nova 7i","launch_announced":"2020, January 30","launch_status":"Available. Released 2020, February 14","body_dimensions":"159.2 x 76.3 x 8.7 mm (6.27 x 3.00 
+x 0.34 in)","body_weight":"183 g (6.46 oz)","body_sim":"Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)","display_type":"LTPS IPS LCD capacitive touchscreen, 16M colors","display_size":"6.4 inches, 101.4 cm (~83.5% screen-to-body ratio)","display_resolution":"1080 x 2310 pixels (~398 ppi density)","features_sensors":"Fingerprint (side-mounted), accelerometer, proximity, compass","platform_os":"Android 10, EMUI 10, no Google Play Services"}
+{"oem":"Huawei","model":"Y6s (2019)","launch_announced":"2020, January 30","launch_status":"Available. Released 2020, May","body_dimensions":"156.3 x 73.5 x 8 mm (6.15 x 2.89 x 0.31 
+in)","body_weight":"150 g (5.29 oz)","body_sim":"Dual SIM (Nano-SIM, dual stand-by)","display_type":"IPS LCD capacitive touchscreen, 16M colors","display_size":"6.09 inches, 91.0 cm 
+(~79.2% screen-to-body ratio)","display_resolution":"720 x 1560 pixels, 19.5:9 ratio (~282 
+ppi density)","features_sensors":"Fingerprint (rear-mounted), accelerometer, proximity","platform_os":"Android 9.0 (Pie), EMUI 9.1"}
+{"oem":"Huawei","model":"P smart Pro 2019","launch_announced":"2019, December","launch_status":"Available. Released 2019, December","body_dimensions":"163.1 x 77.2 x 8.8 mm (6.42 x 3.04 x 0.35 in)","body_weight":"206 g (7.27 oz)","body_sim":"Hybrid Dual SIM (Nano-SIM, dual stand-by)","display_type":"LTPS IPS LCD capacitive touchscreen, 16M colors","display_size":"6.59 inches, 106.6 cm (~84.7% screen-to-body ratio)","display_resolution":"1080 x 2340 pixels, 19.5:9 ratio (~391 ppi density)","features_sensors":"Fingerprint (side-mounted), accelerometer, gyro, proximity, compass","platform_os":"Android 9.0 (Pie), EMUI 9.1"}
+{"oem":"Huawei","model":"nova 6 5G","launch_announced":"2019, December","launch_status":"Available. Released 2019, December","body_dimensions":"162.7 x 75.8 x 9 mm (6.41 x 2.98 x 0.35 in)","body_weight":"212 g (7.48 oz)","body_sim":"Dual SIM (Nano-SIM, dual stand-by)","display_type":"LTPS IPS LCD capacitive touchscreen, 16M colors","display_size":"6.57 inches, 104.2 cm (~84.5% screen-to-body ratio)","display_resolution":"1080 x 2400 pixels, 20:9 ratio (~401 ppi density)","features_sensors":"Fingerprint (side-mounted), accelerometer, gyro, proximity, compass","platform_os":"Android 10, EMUI 10"}
+{"oem":"Huawei","model":"nova 6","launch_announced":"2019, December","launch_status":"Available. Released 2019, December","body_dimensions":"162.6 x 75.7 x 8.6 mm (6.40 x 2.98 x 0.34 in)","body_weight":"197 g (6.95 oz)","body_sim":"Dual SIM (Nano-SIM, dual stand-by)","display_type":"LTPS IPS LCD capacitive touchscreen, 16M colors","display_size":"6.57 inches, 104.2 cm (~84.7% screen-to-body ratio)","display_resolution":"1080 x 2400 pixels, 20:9 ratio 
+(~401 ppi density)","features_sensors":"Fingerprint (side-mounted), accelerometer, gyro, proximity, compass","platform_os":"Android 10, EMUI 10, no Google Play Services"}
+{"oem":"Huawei","model":"nova 6 SE","launch_announced":"2019, December","launch_status":"Available. Released 2019, December","body_dimensions":"159.2 x 76.3 x 8.7 mm (6.27 x 3.00 x 0.34 in)","body_weight":"183 g (6.46 oz)","body_sim":"Hybrid Dual SIM (Nano-SIM, dual stand-by)","display_type":"LTPS IPS LCD capacitive touchscreen, 16M colors","display_size":"6.4 inches, 101.4 cm (~83.5% screen-to-body ratio)","display_resolution":"1080 x 2310 pixels (~398 ppi density)","features_sensors":"Fingerprint (side-mounted), accelerometer, gyro, proximity, compass","platform_os":"Android 10, EMUI 10, no Google Play Services"}
+{"oem":"Huawei","model":"MatePad Pro","launch_announced":"2019, November 25","launch_status":"Available. Released 2019, December 12","body_dimensions":"246 x 159 x 7.2 mm (9.69 x 6.26 x 0.28 in)","body_weight":"460 g (1.01 lb)","body_sim":"Nano-SIM","display_type":"IPS LCD capacitive touchscreen, 16M colors","display_size":"10.8 inches, 338.2 cm (~86.5% screen-to-body ratio)","display_resolution":"2560 x 1600 pixels, 16:10 ratio (~280 ppi density)","features_sensors":"Accelerometer, gyro, proximity, compass","platform_os":"Android 10, EMUI 
+10, no Google Play Services"}
+{"oem":"Huawei","model":"Y9s","launch_announced":"2019, November 08","launch_status":"Available. Released 2019, November 08","body_dimensions":"163.1 x 77.2 x 8.8 mm (6.42 x 3.04 x 0.35 in)","body_weight":"206 g (7.27 oz)","body_sim":"Hybrid Dual SIM (Nano-SIM, dual stand-by)","display_type":"LTPS IPS LCD capacitive touchscreen, 16M colors","display_size":"6.59 
+inches, 106.6 cm (~84.7% screen-to-body ratio)","display_resolution":"1080 x 2340 pixels, 19.5:9 ratio (~391 ppi density)","features_sensors":"Fingerprint (side-mounted), accelerometer, gyro, proximity, compass","platform_os":"Android 9.0 (Pie), EMUI 9.1"}
+{"oem":"Huawei","model":"nova 5z","launch_announced":"2019, October","launch_status":"Available. Released 2019, November","body_dimensions":"156.1 x 73.9 x 8.3 mm (6.15 x 2.91 x 0.33 in)","body_weight":"178 g (6.28 oz)","body_sim":"Hybrid Dual SIM (Nano-SIM, dual stand-by)","display_type":"LTPS IPS LCD capacitive touchscreen, 16M colors","display_size":"6.26 inches, 96.2 cm (~83.4% screen-to-body ratio)","display_resolution":"1080 x 2340 pixels, 19.5:9 ratio (~412 ppi density)","features_sensors":"Fingerprint (rear-mounted), accelerometer, 
+gyro, proximity, compass","platform_os":"Android 9.0 (Pie), EMUI 9.1"}
+{"oem":"Huawei","model":"Enjoy 10s","launch_announced":"2019, October 28","launch_status":"Available. Released 2019, November","body_dimensions":"157.4 x 73.2 x 7.8 mm (6.20 x 2.88 x 0.31 in)","body_weight":"163 g (5.75 oz)","body_sim":"Hybrid Dual SIM (Nano-SIM, dual stand-by)","display_type":"OLED capacitive touchscreen, 16M colors","display_size":"6.3 inches, 95.8 cm (~83.2% screen-to-body ratio)","display_resolution":"1080 x 2400 pixels, 20:9 ratio (~418 ppi density)","features_sensors":"Fingerprint (under display, optical), accelerometer, proximity, compass","platform_os":"Android 9.0 (Pie), EMUI 9.1"}
+{"oem":"Huawei","model":"Enjoy 10","launch_announced":"2019, October","launch_status":"Available. Released 2019, November","body_dimensions":"159.8 x 76.1 x 8.1 mm (6.29 x 3.00 x 0.32 in)","body_weight":"176 g (6.21 oz)","body_sim":"Hybrid Dual SIM (Nano-SIM, dual stand-by)","display_type":"IPS LCD capacitive touchscreen, 16M colors","display_size":"6.39 inches, 100.2 cm (~82.4% screen-to-body ratio)","display_resolution":"720 x 1560 pixels, 19.5:9 ratio (~269 ppi density)","features_sensors":"Accelerometer, proximity, compass","platform_os":"Android 9.0 (Pie), EMUI 9.1"}
+{"oem":"Huawei","model":"Mate 30 RS Porsche Design","launch_announced":"2019, September",l 
+aunch_status":"Available. Released 2019, November","body_dimensions":"158.1 x 73.1 x 9.3 mm (6.22 x 2.88 x 0.37 in)","body_weight":"198 g (6.98 oz)","body_sim":"Hybrid Dual SIM (Nano-SIM, dual stand-by)","display_type":"OLED capacitive touchscreen, 16M colors","display_size":"6.53 inches, 108.7 cm (~94.1% screen-to-body ratio)","display_resolution":"1176 x 2400 
+pixels, 18.5:9 ratio (~409 ppi density)","features_sensors":"Face ID, fingerprint (under display, optical), accelerometer, gyro, proximity, barometer, compass","platform_os":"Android 10, EMUI 10"}
+{"oem":"Huawei","model":"Mate 30 Pro 5G","launch_announced":"2019, September 19","launch_status":"Available. Released 2019, October 23","body_dimensions":"158.1 x 73.1 x 8.8 mm (6.22 x 2.88 x 0.35 in)","body_weight":"198 g (6.98 oz)","body_sim":"Hybrid Dual SIM (Nano-SIM, 
+dual stand-by)","display_type":"OLED capacitive touchscreen, 16M colors","display_size":"6.53 inches, 108.7 cm (~94.1% screen-to-body ratio)","display_resolution":"1176 x 2400 pixels, 18.5:9 ratio (~409 ppi density)","features_sensors":"Face ID, fingerprint (under display, optical), accelerometer, gyro, proximity, barometer, compass","platform_os":"Android 10, EMUI 10"}
+{"oem":"Huawei","model":"Mate 30 Pro","launch_announced":"2019, September 19","launch_status":"Available. Released 2019, September 26","body_dimensions":"158.1 x 73.1 x 8.8 mm (6.22 
+x 2.88 x 0.35 in)","body_weight":"198 g (6.98 oz)","body_sim":"Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)","display_type":"OLED capacitive touchscreen, 16M colors","display_size":"6.53 inches, 108.7 cm (~94.1% screen-to-body ratio)","display_resolution":"1176 x 2400 pixels, 18.5:9 ratio (~409 ppi density)","features_sensors":"Face ID, fingerprint (under display, optical), accelerometer, gyro, proximity, barometer, compass","platform_os":"Android 10, EMUI 10"}
+{"oem":"Huawei","model":"Mate 30 5G","launch_announced":"2019, September","launch_status":"Available. Released 2019, October","body_dimensions":"160.8 x 76.1 x 8.4 mm (6.33 x 3.00 x 
+0.33 in)","body_weight":"196 g (6.91 oz)","body_sim":"Hybrid Dual SIM (Nano-SIM, dual stand-by)","display_type":"OLED capacitive touchscreen, 16M colors","display_size":"6.62 inches, 107.6 cm (~87.9% screen-to-body ratio)","display_resolution":"1080 x 2340 pixels, 19.5:9 ratio (~389 ppi density)","features_sensors":"Face ID, fingerprint (under display, optical), accelerometer, gyro, proximity, barometer, compass","platform_os":"Android 10, EMUI 10"}  
+{"oem":"Huawei","model":"Mate 30","launch_announced":"2019, September","launch_status":"Available. Released 2019, September","body_dimensions":"160.8 x 76.1 x 8.4 mm (6.33 x 3.00 x 0.33 in)","body_weight":"196 g (6.91 oz)","body_sim":"Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)","display_type":"OLED capacitive touchscreen, 16M colors","display_size":"6.62 inches, 107.6 cm (~87.9% screen-to-body ratio)","display_resolution":"1080 x 2340 pixels, 19.5:9 ratio (~389 ppi density)","features_sensors":"Face ID, fingerprint (under display, optical), accelerometer, gyro, proximity, barometer, compass","platform_os":"Android 10, EMUI 10"}
+{"oem":"Huawei","model":"Watch GT 2","launch_announced":"2019, September","launch_status":"Available. Released 2019, October","body_dimensions":"45.9 x 45.9 x 10.7 mm (1.81 x 1.81 x 
+0.42 in)","body_weight":"41 g (1.45 oz)","body_sim":"No","display_type":"OLED capacitive touchscreen, 16M colors","display_size":"1.39 inches, 12.5 cm (~59.4% screen-to-body ratio)","display_resolution":"454 x 454 pixels, 1:1 ratio (~326 ppi density)","features_sensors":"Accelerometer, gyro, heart rate, barometer, compass","platform_os":"Huawei wearable platform"}
+{"oem":"Huawei","model":"nova 5i Pro","launch_announced":"2019, July","launch_status":"Available. Released 2019, July","body_dimensions":"156.1 x 73.9 x 8.3 mm (6.15 x 2.91 x 0.33 in)","body_weight":"178 g (6.28 oz)","body_sim":"Hybrid Dual SIM (Nano-SIM, dual stand-by)","display_type":"LTPS IPS LCD capacitive touchscreen, 16M colors","display_size":"6.26 inches, 96.2 cm (~83.4% screen-to-body ratio)","display_resolution":"1080 x 2340 pixels, 19.5:9 ratio (~412 ppi density)","features_sensors":"Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass","platform_os":"Android 9.0 (Pie), EMUI 9.1"}
+{"oem":"Huawei","model":"Enjoy 10 Plus","launch_announced":"2019, September","launch_status":"Available. Released 2019, September","body_dimensions":"163.5 x 77.3 x 8.8 mm (6.44 x 3.04 x 0.35 in)","body_weight":"163.5 g (5.78 oz)","body_sim":"Hybrid Dual SIM (Nano-SIM, dual stand-by)","display_type":"IPS LCD capacitive touchscreen, 16M colors","display_size":"6.59 inches, 106.6 cm (~84.3% screen-to-body ratio)","display_resolution":"1080 x 2340 pixels, 19.5:9 ratio (~391 ppi density)","features_sensors":"Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass","platform_os":"Android 9.0 (Pie), EMUI 9.1"}
+{"oem":"Huawei","model":"nova 5T","launch_announced":"2019, August 27","launch_status":"Available. Released 2019, September 05","body_dimensions":"154.3 x 74 x 7.8 mm (6.07 x 2.91 x 
+0.31 in)","body_weight":"174 g (6.14 oz)","body_sim":"Dual SIM (Nano-SIM, dual stand-by)","display_type":"IPS LCD capacitive touchscreen, 16M colors","display_size":"6.26 inches, 96.2 cm (~84.2% screen-to-body ratio)","display_resolution":"1080 x 2340 pixels, 19.5:9 ratio 
+(~412 ppi density)","features_sensors":"Fingerprint (side-mounted), accelerometer, gyro, proximity, compass","platform_os":"Android 9.0 (Pie), upgradable to Android 10, EMUI 10"}    
+{"oem":"Huawei","model":"MediaPad M6 10.8","launch_announced":"2019, June","launch_status":"Available. Released 2019, July 10","body_dimensions":"257 x 170 x 7.2 mm (10.12 x 6.69 x 0.28 in)","body_weight":"498 g (1.10 lb)","body_sim":"Nano-SIM","display_type":"IPS LCD capacitive touchscreen, 16M colors","display_size":"10.8 inches, 338.2 cm (~77.4% screen-to-body ratio)","display_resolution":"2560 x 1600 pixels, 16:10 ratio (~280 ppi density)","features_sensors":"Fingerprint (front-mounted), accelerometer, gyro, proximity, compass","platform_os":"Android 9.0 (Pie), EMUI 9.1"}
+{"oem":"Huawei","model":"MediaPad M6 Turbo 8.4","launch_announced":"2019, September","launch_status":"Available. Released 2019, September","body_dimensions":"206.4 x 125.2 x 8.2 mm (8.13 x 4.93 x 0.32 in)","body_weight":"340 g (11.99 oz)","body_sim":"Nano-SIM","display_type":"IPS LCD capacitive touchscreen, 16M colors","display_size":"8.4 inches, 204.6 cm (~79.2% screen-to-body ratio)","display_resolution":"2560 x 1600 pixels, 16:10 ratio (~359 ppi density)","features_sensors":"Accelerometer, gyro, proximity, compass","platform_os":"Android 9.0 (Pie), EMUI 9.1"}
+{"oem":"Huawei","model":"MediaPad M6 8.4","launch_announced":"2019, June","launch_status":"Available. Released 2019, July","body_dimensions":"206.4 x 125.2 x 7.4 mm (8.13 x 4.93 x 0.29 in)","body_weight":"320 g (11.29 oz)","body_sim":"Nano-SIM","display_type":"IPS LCD capacitive touchscreen, 16M colors","display_size":"8.4 inches, 204.6 cm (~79.2% screen-to-boy 
+ ratio)","display_resolution":"2560 x 1600 pixels, 16:10 ratio (~359 ppi density)","features_sensors":"Accelerometer, gyro, proximity, compass","platform_os":"Android 9.0 (Pie), EMUI 9.1"}
+{"oem":"Huawei","model":"nova 5 Pro","launch_announced":"2019, June","launch_status":"Available. Released 2019, June","body_dimensions":"157.4 x 74.8 x 7.3 mm (6.20 x 2.94 x 0.29 in)","body_weight":"171 g (6.03 oz)","body_sim":"Hybrid Dual SIM (Nano-SIM, dual stand-by)","display_type":"OLED capacitive touchscreen, 16M colors","display_size":"6.39 inches, 100.2 cm (~85.1% screen-to-body ratio)","display_resolution":"1080 x 2340 pixels, 19.5:9 ratio (~403 ppi density)","features_sensors":"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass","platform_os":"Android 9.0 (Pie), EMUI 9.1"}
+{"oem":"Huawei","model":"nova 5","launch_announced":"2019, June","launch_status":"Available. Released 2019, June","body_dimensions":"157.4 x 74.8 x 7.3 mm (6.20 x 2.94 x 0.29 in)","body_weight":"171 g (6.03 oz)","body_sim":"Hybrid Dual SIM (Nano-SIM, dual stand-by)","display_type":"OLED capacitive touchscreen, 16M colors","display_size":"6.39 inches, 100.2 cm (~85.1% screen-to-body ratio)","display_resolution":"1080 x 2340 pixels, 19.5:9 ratio (~403 ppi density)","features_sensors":"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass","platform_os":"Android 9.0 (Pie), EMUI 9.1"}
+{"oem":"Huawei","model":"nova 5i","launch_announced":"2019, June","launch_status":"Available. Released 2019, June","body_dimensions":"159.1 x 75.9 x 8.3 mm (6.26 x 2.99 x 0.33 in)","body_weight":"178 g (6.28 oz)","body_sim":"Hybrid Dual SIM (Nano-SIM, dual stand-by)","display_type":"IPS LCD capacitive touchscreen, 16M colors","display_size":"6.4 inches, 101.4 cm (~84.0% screen-to-body ratio)","display_resolution":"1080 x 2310 pixels (~398 ppi density)","features_sensors":"Fingerprint (rear-mounted), accelerometer, proximity, compass","platform_os":"Android 9.0 (Pie), EMUI 9.1"}
+{"oem":"Huawei","model":"Y9 Prime (2019)","launch_announced":"2019, August 01","launch_status":"Available. Released 2019, August 05","body_dimensions":"163.5 x 77.3 x 8.9 mm (6.44 x 
+3.04 x 0.35 in)","body_weight":"196.8 g (6.95 oz)","body_sim":"Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)","display_type":"LTPS IPS LCD capacitive touchscreen, 16M colors","display_size":"6.59 inches, 106.6 cm (~84.3% screen-to-body ratio)","display_resolution":"1080 x 2340 pixels, 19.5:9 ratio (~391 ppi density)","features_sensors":"Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass","platform_os":"Android 9.0 (Pie), upgradable to Android 10, Magic UI 2.1"}
+{"oem":"Huawei","model":"P20 lite (2019)","launch_announced":"2019, June","launch_status":"Available. Released 2019, July","body_dimensions":"159.1 x 75.9 x 8.3 mm (6.26 x 2.99 x 0.33 in)","body_weight":"178 g (6.28 oz)","body_sim":"Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)","display_type":"LTPS IPS LCD capacitive touchscreen, 16M colors","display_size":"6.4 inches, 101.4 cm (~84.0% screen-to-body ratio)","display_resolution":"1080 x 2310 pixels (~398 ppi density)","features_sensors":"Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass","platform_os":"Android 9.0 (Pie), EMUI 9.1"}
+{"oem":"Huawei","model":"P Smart Z","launch_announced":"2019, May","launch_status":"Available. Released 2019, June","body_dimensions":"163.5 x 77.3 x 8.8 mm (6.44 x 3.04 x 0.35 in)","body_weight":"196.8 g (6.95 oz)","body_sim":"Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)","display_type":"LTPS IPS LCD capacitive touchscreen, 16M colors","display_size":"6.59 inches, 106.6 cm (~84.3% screen-to-body ratio)","display_resolution":"1080 x 2340 pixels, 19.5:9 ratio (~391 ppi density)","features_sensors":"Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass","platform_os":"Android 9.0 (Pie), EMUI 9"} 
+{"oem":"Huawei","model":"Mate 20 X (5G)","launch_announced":"2019, May","launch_status":"Available. Released 2019, July","body_dimensions":"174.6 x 85.4 x 8.4 mm (6.87 x 3.36 x 0.33 
+in)","body_weight":"233 g (8.22 oz)","body_sim":"Hybrid Dual SIM (Nano-SIM, dual stand-by)","display_type":"OLED capacitive touchscreen, 16M colors","display_size":"7.2 inches, 130.7 cm (~87.6% screen-to-body ratio)","display_resolution":"1080 x 2244 pixels, 18.7:9 ratio (~346 ppi density)","features_sensors":"Fingerprint (rear-mounted), accelerometer, gyro, proximity, barometer, compass","platform_os":"Android 9.0 (Pie), EMUI 9.1"}
+{"oem":"Huawei","model":"Y5 (2019)","launch_announced":"2019, April 24","launch_status":"Available. Released 2019, April 24","body_dimensions":"147.1 x 70.8 x 8.5 mm (5.79 x 2.79 x 0.33 in)","body_weight":"146 g (5.15 oz)","body_sim":"Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)","display_type":"IPS LCD capacitive touchscreen, 16M colors","display_size":"5.71 inches, 81.4 cm (~78.1% screen-to-body ratio)","display_resolution":"720 x 1520 pixels, 19:9 ratio (~295 ppi density)","features_sensors":"Accelerometer, proximity","platform_os":"Android 9.0 (Pie), EMUI 9.1"}
+]
+CSV file succesfully read
+]
+
+
+
+
+
+
+
+
+{
+"body_dimensions": "204.2 x 122.2 x 8.2 mm (8.04 x 4.81 x 0.32 in)",
+"body_weight": "-",
+"body_sim": "Nano-SIM",
+"display_type": "IPS LCD capacitive touchscreen, 16M colors",
+"display_size": "8.0 inches, 185.6 cm (~74.4% screen-to-body ratio)",
+"display_resolution": "1920 x 1200 pixels, 16:10 ratio (~283 ppi density)",
+"features_sensors": "Accelerometer, proximity",
+"platform_os": "Android 9.0 (Pie), Magic 2.0"
+}
+{
+"oem": "Honor",
+"model": "20 Pro",
+"launch_announced": "2019, May",
+"launch_status": "Available. Released 2019, July",
+"body_dimensions": "154.6 x 74 x 8.4 mm (6.09 x 2.91 x 0.33 in)",
+"body_weight": "182 g (6.42 oz)",
+"body_sim": "Dual SIM (Nano-SIM, dual stand-by)",
+"display_type": "IPS LCD capacitive touchscreen, 16M colors",
+"display_size": "6.26 inches, 96.2 cm (~84.1% screen-to-body ratio)",
+"display_resolution": "1080 x 2340 pixels, 19.5:9 ratio (~412 ppi density)",
+"features_sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+"platform_os": "Android 9.0 (Pie), Magic 2.1"
+}
+{
+"oem": "Honor",
+"model": "20",
+"launch_announced": "2019, May",
+"launch_status": "Available. Released 2019, June",
+"body_dimensions": "154.3 x 74 x 7.9 mm (6.07 x 2.91 x 0.31 in)",
+"body_weight": "174 g (6.14 oz)",
+"body_sim": "Dual SIM (Nano-SIM, dual stand-by)",
+"display_type": "IPS LCD capacitive touchscreen, 16M colors",
+"display_size": "6.26 inches, 96.2 cm (~84.2% screen-to-body ratio)",
+"display_resolution": "1080 x 2340 pixels, 19.5:9 ratio (~412 ppi density)",
+"features_sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+"platform_os": "Android 9.0 (Pie), Magic 2.1"
+}
+{
+"oem": "Honor",
+"model": "20 lite",
+"launch_announced": "2019, April",
+"launch_status": "Available. Released 2019, April",
+"body_dimensions": "154.8 x 73.6 x 8 mm (6.09 x 2.90 x 0.31 in)",
+"body_weight": "164 g (5.78 oz)",
+"body_sim": "Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",        
+"display_type": "LTPS IPS LCD capacitive touchscreen, 16M colors",
+"display_size": "6.21 inches, 94.7 cm (~83.1% screen-to-body ratio)",
+"display_resolution": "1080 x 2340 pixels, 19.5:9 ratio (~415 ppi density)",
+"features_sensors": "Fingerprint (rear-mounted), accelerometer, proximity, compass",     
+"platform_os": "Android 9.0 (Pie), EMUI 9"
+}
+{
+"oem": "HP",
+"model": "Slate8 Pro",
+"launch_announced": "2013, December. Released 2013, December",
+"launch_status": "Discontinued",
+"body_dimensions": "220 x 141.5 x 9.9 mm (8.66 x 5.57 x 0.39 in)",
+"body_weight": "453.6 g (1.00 lb)",
+"body_sim": "No",
+"display_type": "Capacitive touchscreen, 16M colors",
+"display_size": "8.0 inches, 198.2 cm (~63.7% screen-to-body ratio)",
+"display_resolution": "1200 x 1600 pixels, 4:3 ratio (~250 ppi density)",
+"features_sensors": "Accelerometer, gyro, compass",
+"platform_os": "Android 4.2.2 (Jelly Bean)"
+}
+{
+"oem": "HTC",
+"model": "U20 5G",
+"launch_announced": "2020, June 16",
+"launch_status": "Coming soon. Exp. release 2020, July",
+"body_dimensions": "171.2 x 78.1 x 9.4 mm (6.74 x 3.07 x 0.37 in)",
+"body_weight": "215.5 g (7.62 oz)",
+"body_sim": "Dual SIM (Nano-SIM, dual stand-by)",
+"display_type": "Capacitive touchscreen, 16M colors",
+"display_size": "6.8 inches, 111.6 cm (~83.5% screen-to-body ratio)",
+"display_resolution": "1080 x 2400 pixels, 20:9 ratio (~387 ppi density)",
+"features_sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass, SAR",
+"platform_os": "Android 10"
+}
+{
+"oem": "HTC",
+"model": "Desire 20 Pro",
+"launch_announced": "2020, June 16",
+"launch_status": "Coming soon. Exp. release 2020, July",
+"body_dimensions": "162 x 77 x 9.4 mm (6.38 x 3.03 x 0.37 in)",
+"body_weight": "201 g (7.09 oz)",
+"body_sim": "Dual SIM (Nano-SIM, dual stand-by)",
+"display_type": "IPS LCD capacitive touchscreen, 16M colors",
+"display_size": "6.5 inches, 103.7 cm (~83.1% screen-to-body ratio)",
+"display_resolution": "1080 x 2340 pixels, 19.5:9 ratio (~396 ppi density)",
+"features_sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",
+"platform_os": "Android 10"
+}
+{
+"oem": "HTC",
+"model": "Wildfire R70",
+"launch_announced": "2020, February 27",
+"launch_status": "Coming soon. Exp. release 2020, Q3",
+"body_dimensions": "163.2 x 77.8 x 8.9 mm (6.43 x 3.06 x 0.35 in)",
+"body_weight": "186 g (6.56 oz)",
+"body_sim": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+"display_type": "IPS LCD capacitive touchscreen, 16M colors",
+"display_size": "6.53 inches, 104.7 cm (~82.4% screen-to-body ratio)",
+"display_resolution": "720 x 1560 pixels, 19.5:9 ratio (~263 ppi density)",
+"features_sensors": "Fingerprint (rear-mounted), accelerometer, proximity",
+"platform_os": "Android 9 (Pie)"
+}
+{
+"oem": "HTC",
+"model": "Desire 19s",
+"launch_announced": "2019, November 14",
+"launch_status": "Available. Released 2019, November 14",
+"body_dimensions": "156.2 x 74.8 x 8.5 mm (6.15 x 2.94 x 0.33 in)",
+"body_weight": "170 g (6.00 oz)",
+"body_sim": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+"display_type": "IPS LCD capacitive touchscreen, 16M colors",
+"display_size": "6.2 inches, 95.9 cm (~82.1% screen-to-body ratio)",
+"display_resolution": "720 x 1520 pixels, 19:9 ratio (~271 ppi density)",
+"features_sensors": "Fingerprint (rear-mounted), accelerometer, proximity, compass",     
+"platform_os": "Android 9 (Pie)"
+}
+{
+"oem": "HTC",
+"model": "Exodus 1s",
+"launch_announced": "2019, October 19",
+"launch_status": "Available. Released 2019, December",
+"body_dimensions": "154.2 x 72.7 x 8.3 mm (6.07 x 2.86 x 0.33 in)",
+"body_weight": "150 g (5.29 oz)",
+"body_sim": "Dual SIM (Nano-SIM, dual stand-by)",
+"display_type": "IPS LCD capacitive touchscreen, 16M colors",
+"display_size": "5.7 inches, 83.8 cm (~74.8% screen-to-body ratio)",
+"display_resolution": "720 x 1440 pixels, 18:9 ratio (~282 ppi density)",
+"features_sensors": "Fingerprint (rear-mounted), accelerometer, proximity, compass",     
+"platform_os": "Android 8.1 (Oreo)"
+}
+{
+"oem": "HTC",
+"model": "Wildfire X",
+"launch_announced": "2019, August 14",
+"launch_status": "Available. Released 2019, August 22",
+"body_dimensions": "156.7 x 74.9 x 8 mm (6.17 x 2.95 x 0.31 in)",
+"body_weight": "160 g (5.64 oz)",
+"body_sim": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+"display_type": "IPS LCD capacitive touchscreen, 16M colors",
+"display_size": "6.2 inches, 95.9 cm (~81.7% screen-to-body ratio)",
+"display_resolution": "720 x 1520 pixels, 19:9 ratio (~271 ppi density)",
+"features_sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity",        
+"platform_os": "Android 9 (Pie)"
+}
+{
+"oem": "HTC",
+"model": "U19e",
+"launch_announced": "2019, June 11",
+"launch_status": "Available. Released 2019, June 11",
+"body_dimensions": "156.6 x 75.9 x 8 mm (6.17 x 2.99 x 0.31 in)",
+"body_weight": "180 g (6.35 oz)",
+"body_sim": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+"display_type": "OLED capacitive touchscreen, 16M colors",
+"display_size": "6.0 inches, 92.9 cm (~78.2% screen-to-body ratio)",
+"display_resolution": "1080 x 2160 pixels, 18:9 ratio (~402 ppi density)",
+"features_sensors": "Iris scanner, fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",
+"platform_os": "Android 9.0 (Pie), HTC Sense"
+}
+{
+"oem": "HTC",
+"model": "Desire 19+",
+"launch_announced": "2019, June 11",
+"launch_status": "Available. Released 2019, August 07",
+"body_dimensions": "156.2 x 74.8 x 8.5 mm (6.15 x 2.94 x 0.33 in)",
+"body_weight": "170 g (6.00 oz)",
+"body_sim": "Dual SIM (Nano-SIM, dual stand-by)",
+"display_type": "IPS LCD capacitive touchscreen, 16M colors",
+"display_size": "6.2 inches, 95.9 cm (~82.1% screen-to-body ratio)",
+"display_resolution": "720 x 1520 pixels, 19:9 ratio (~271 ppi density)",
+"features_sensors": "Fingerprint (rear-mounted), accelerometer, proximity, compass",     
+"platform_os": "Android 9 (Pie)"
+}
+{
+"oem": "HTC",
+"model": "Schubert",
+"launch_announced": "Not officially announced yet",
+"launch_status": "Discontinued",
+"body_dimensions": "-",
+"body_weight": "-",
+"body_sim": "Mini-SIM",
+"display_type": "TFT capacitive touchscreen, 16M colors",
+"display_size": "",
+"display_resolution": "",
+"features_sensors": "Accelerometer, proximity",
+"platform_os": "Microsoft Windows Phone 7"
+}
+{
+"oem": "Huawei",
+"model": "Enjoy 20 Pro",
+"launch_announced": "2020, June 19",
+"launch_status": "Coming soon. Exp. release 2020, June 24",
+"body_dimensions": "160 x 75.3 x 8.4 mm (6.30 x 2.96 x 0.33 in)",
+"body_weight": "192 g (6.77 oz)",
+"body_sim": "Dual SIM (Nano-SIM, dual stand-by)",
+"display_type": "IPS LCD capacitive touchscreen, 16M colors",
+"display_size": "6.5 inches, 102.0 cm (~84.7% screen-to-body ratio)",
+"display_resolution": "1080 x 2400 pixels, 20:9 ratio (~405 ppi density)",
+"features_sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+"platform_os": "Android 10, EMUI 10.1, no Google Play Services"
+}
+{
+"oem": "Huawei",
+"model": "Enjoy Z 5G",
+"launch_announced": "2020, May 24",
+"launch_status": "Available. Released 2020, June 03",
+"body_dimensions": "160 x 75.3 x 8.4 mm (6.30 x 2.96 x 0.33 in)",
+"body_weight": "182 g (6.42 oz)",
+"body_sim": "Dual SIM (Nano-SIM, dual stand-by)",
+"display_type": "IPS LCD capacitive touchscreen, 16M colors",
+"display_size": "6.5 inches, 102.0 cm (~84.7% screen-to-body ratio)",
+"display_resolution": "1080 x 2400 pixels, 20:9 ratio (~405 ppi density)",
+"features_sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+"platform_os": "Android 10, EMUI 10.1, no Google Play Services"
+}
+{
+"oem": "Huawei",
+"model": "P Smart S",
+"launch_announced": "2020, June 09",
+"launch_status": "Available. Released 2020, June 09",
+"body_dimensions": "157.4 x 73.2 x 7.8 mm (6.20 x 2.88 x 0.31 in)",
+"body_weight": "163 g (5.75 oz)",
+"body_sim": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+"display_type": "OLED capacitive touchscreen, 16M colors",
+"display_size": "6.3 inches, 95.8 cm (~83.2% screen-to-body ratio)",
+"display_resolution": "1080 x 2400 pixels, 20:9 ratio (~418 ppi density)",
+"features_sensors": "Fingerprint (under display, optical), accelerometer, proximity, compass",
+"platform_os": "Android 10, EMUI 10.1, no Google Play Services"
+}
+{
+"oem": "Huawei",
+"model": "Y8p",
+"launch_announced": "2020, May 18",
+"launch_status": "Available. Released 2020, June 15",
+"body_dimensions": "157.4 x 73.2 x 7.8 mm (6.20 x 2.88 x 0.31 in)",
+"body_weight": "163 g (5.75 oz)",
+"body_sim": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+"display_type": "OLED capacitive touchscreen, 16M colors",
+"display_size": "6.3 inches, 95.8 cm (~83.2% screen-to-body ratio)",
+"display_resolution": "1080 x 2400 pixels, 20:9 ratio (~418 ppi density)",
+"features_sensors": "Fingerprint (under display, optical), accelerometer, proximity, compass",
+"platform_os": "Android 10, EMUI 10.1, no Google Play Services"
+}
+{
+"oem": "Huawei",
+"model": "P40 lite 5G",
+"launch_announced": "2020, May 15",
+"launch_status": "Available. Released 2020, May 28",
+"body_dimensions": "162.3 x 75 x 8.6 mm (6.39 x 2.95 x 0.34 in)",
+"body_weight": "189 g (6.67 oz)",
+"body_sim": "Dual SIM (Nano-SIM, dual stand-by)",
+"display_type": "LTPS IPS LCD capacitive touchscreen, 16M colors",
+"display_size": "6.5 inches, 102.0 cm (~83.8% screen-to-body ratio)",
+"display_resolution": "1080 x 2400 pixels, 20:9 ratio (~405 ppi density)",
+"features_sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+"platform_os": "Android 10, EMUI 10.1, no Google Play Services"
+}
+{
+"oem": "Huawei",
+"model": "P30 Pro New Edition",
+"launch_announced": "2020, May 12",
+"launch_status": "Available. Released 2020, June 01",
+"body_dimensions": "158 x 73.4 x 8.4 mm (6.22 x 2.89 x 0.33 in)",
+"body_weight": "192 g (6.77 oz)",
+"body_sim": "Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",        
+"display_type": "OLED capacitive touchscreen, 16M colors",
+"display_size": "6.47 inches, 102.8 cm (~88.6% screen-to-body ratio)",
+"display_resolution": "1080 x 2340 pixels, 19.5:9 ratio (~398 ppi density)",
+"features_sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, color spectrum",
+"platform_os": "Android 10, EMUI 10.1, Google Play Services"
+}
+{
+"oem": "Huawei",
+"model": "MatePad T8",
+"launch_announced": "2020, May 07",
+"launch_status": "Available. Released Exp. release 2020, May 19",
+"body_dimensions": "199.7 x 121.1 x 8.6 mm (7.86 x 4.77 x 0.34 in)",
+"body_weight": "310 g (10.93 oz)",
+"body_sim": "Nano-SIM",
+"display_type": "IPS LCD capacitive touchscreen, 16M colors",
+"display_size": "8.0 inches, 185.6 cm (~76.7% screen-to-body ratio)",
+"display_resolution": "800 x 1280 pixels, 16:10 ratio (~189 ppi density)",
+"features_sensors": "Accelerometer",
+"platform_os": "Android 10, EMUI 10, no Google Play Services"
+}
+{
+"oem": "Huawei",
+"model": "Y8s",
+"launch_announced": "2020, May 6",
+"launch_status": "Available. Released 2020, May 21",
+"body_dimensions": "162.4 x 77.1 x 8.1 mm (6.39 x 3.04 x 0.32 in)",
+"body_weight": "180 g (6.35 oz)",
+"body_sim": "Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)",
+"display_type": "IPS LCD capacitive touchscreen, 16M colors",
+"display_size": "6.5 inches, 103.7 cm (~82.8% screen-to-body ratio)",
+"display_resolution": "1080 x 2340 pixels, 19.5:9 ratio (~396 ppi density)",
+"features_sensors": "Fingerprint (rear-mounted), accelerometer, proximity, compass",     
+"platform_os": "Android 9.0 (Pie), EMUI 9.1, Google Play Services"
+}
+{
+"oem": "Huawei",
+"model": "Y6p",
+"launch_announced": "2020, May 05",
+"launch_status": "Available. Released 2020, May 06",
+"body_dimensions": "159.1 x 74.1 x 9 mm (6.26 x 2.92 x 0.35 in)",
+"body_weight": "185 g (6.53 oz)",
+"body_sim": "Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)",
+"display_type": "IPS LCD capacitive touchscreen, 16M colors",
+"display_size": "6.3 inches, 95.8 cm (~81.3% screen-to-body ratio)",
+"display_resolution": "720 x 1600 pixels, 20:9 ratio (~278 ppi density)",
+"features_sensors": "Fingerprint (rear-mounted), accelerometer, proximity",
+"platform_os": "Android 10, EMUI 10.1, no Google Play Services"
+}
+{
+"oem": "Huawei",
+"model": "Y5p",
+"launch_announced": "2020, May 05",
+"launch_status": "Available. Released 2020, May 06",
+"body_dimensions": "146.5 x 70.9 x 8.4 mm (5.77 x 2.79 x 0.33 in)",
+"body_weight": "144 g (5.08 oz)",
+"body_sim": "Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)",
+"display_type": "IPS LCD capacitive touchscreen, 16M colors",
+"display_size": "5.45 inches, 76.7 cm (~73.8% screen-to-body ratio)",
+"display_resolution": "720 x 1440 pixels, 18:9 ratio (~295 ppi density)",
+"features_sensors": "Accelerometer, proximity",
+"platform_os": "Android 10, EMUI 10.1, no Google Play Services"
+}
+{
+"oem": "Huawei",
+"model": "P smart 2020",
+"launch_announced": "2020, April 29",
+"launch_status": "Available. Released 2020, May 8",
+"body_dimensions": "155.2 x 73.4 x 8 mm (6.11 x 2.89 x 0.31 in)",
+"body_weight": "160 g (5.64 oz)",
+"body_sim": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+"display_type": "LTPS IPS LCD capacitive touchscreen, 16M colors",
+"display_size": "6.21 inches, 94.7 cm (~83.1% screen-to-body ratio)",
+"display_resolution": "1080 x 2340 pixels, 19.5:9 ratio (~415 ppi density)",
+"features_sensors": "Fingerprint (rear-mounted), accelerometer, proximity, compass",     
+"platform_os": "Android 9.0 (Pie), EMUI 9.1, Google Play Services"
+}
+{
+"oem": "Huawei",
+"model": "nova 7 Pro 5G",
+"launch_announced": "2020, April 23",
+"launch_status": "Available. Released 2020, April 28",
+"body_dimensions": "160.4 x 73.7 x 8 mm (6.31 x 2.90 x 0.31 in)",
+"body_weight": "178 g (6.28 oz)",
+"body_sim": "Dual SIM (Nano-SIM, dual stand-by)",
+"display_type": "OLED capacitive touchscreen, 16M colors",
+"display_size": "6.57 inches, 106.0 cm (~89.6% screen-to-body ratio)",
+"display_resolution": "1080 x 2340 pixels, 19.5:9 ratio (~392 ppi density)",
+"features_sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+"platform_os": "Android 10, EMUI 10, no Google Play Services"
+}
+{
+"oem": "Huawei",
+"model": "nova 7 5G",
+"launch_announced": "2020, April 23",
+"launch_status": "Available. Released 2020, April 28",
+"body_dimensions": "160.6 x 74.3 x 8 mm (6.32 x 2.93 x 0.31 in)",
+"body_weight": "180 g (6.35 oz)",
+"body_sim": "Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)",
+"display_type": "OLED capacitive touchscreen, 16M colors",
+"display_size": "6.53 inches, 102.9 cm (~86.3% screen-to-body ratio)",
+"display_resolution": "1080 x 2400 pixels, 20:9 ratio (~403 ppi density)",
+"features_sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+"platform_os": "Android 10, EMUI 10.1, no Google Play Services"
+}
+{
+"oem": "Huawei",
+"model": "nova 7 SE",
+"launch_announced": "2020, April 23",
+"launch_status": "Available. Released 2020, April 28",
+"body_dimensions": "162.3 x 75 x 8.6 mm (6.39 x 2.95 x 0.34 in)",
+"body_weight": "189 g (6.67 oz)",
+"body_sim": "Dual SIM (Nano-SIM, dual stand-by)",
+"display_type": "LTPS IPS LCD capacitive touchscreen, 16M colors",
+"display_size": "6.5 inches, 102.0 cm (~83.8% screen-to-body ratio)",
+"display_resolution": "1080 x 2400 pixels, 20:9 ratio (~405 ppi density)",
+"features_sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+"platform_os": "Android 10, EMUI 10.1, no Google Play Services"
+}
+{
+"oem": "Huawei",
+"model": "MatePad",
+"launch_announced": "2020, April 23",
+"launch_status": "Available. Released 2020, April 28",
+"body_dimensions": "245.2 x 155 x 7.4 mm (9.65 x 6.10 x 0.29 in)",
+"body_weight": "450 g (0.99 lb)",
+"body_sim": "Nano-SIM",
+"display_type": "IPS LCD capacitive touchscreen, 16M colors",
+"display_size": "10.4 inches, 307.9 cm (~81.0% screen-to-body ratio)",
+"display_resolution": "1200 x 2000 pixels, 5:3 ratio (~224 ppi density)",
+"features_sensors": "Accelerometer, gyro, proximity, compass",
+"platform_os": "Android 10, EMUI 10, no Google Play Services"
+}
+{
+"oem": "Huawei",
+"model": "Watch GT 2e",
+"launch_announced": "2020, March 26",
+"launch_status": "Available. Released 2020, April 20",
+"body_dimensions": "53 x 46.8 x 10.8 mm (2.09 x 1.84 x 0.43 in)",
+"body_weight": "43 g (1.52 oz)",
+"body_sim": "No",
+"display_type": "AMOLED capacitive touchscreen, 16M colors",
+"display_size": "1.39 inches, 12.5 cm (~50.5% screen-to-body ratio)",
+"display_resolution": "454 x 454 pixels, 1:1 ratio (~326 ppi density)",
+"features_sensors": "Accelerometer, gyro, heart rate, barometer, compass, SpO2",
+"platform_os": "Huawei wearable platform"
+}
+{
+"oem": "Huawei",
+"model": "P40 Pro+",
+"launch_announced": "2020, March 26",
+"launch_status": "Available. Released 2020, June 06",
+"body_dimensions": "158.2 x 72.6 x 9 mm (6.23 x 2.86 x 0.35 in)",
+"body_weight": "226 g (7.97 oz)",
+"body_sim": "Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",        
+"display_type": "OLED capacitive touchscreen, 16M colors",
+"display_size": "6.58 inches, 105.2 cm (~91.6% screen-to-body ratio)",
+"display_resolution": "1200 x 2640 pixels (~441 ppi density)",
+"features_sensors": "Infrared face recognition, fingerprint (under display, optical), accelerometer, gyro, proximity, compass, color spectrum",
+"platform_os": "Android 10, EMUI 10.1, no Google Play Services"
+}
+{
+"oem": "Huawei",
+"model": "P40 Pro",
+"launch_announced": "2020, March 26",
+"launch_status": "Available. Released 2020, April 07",
+"body_dimensions": "158.2 x 72.6 x 9 mm (6.23 x 2.86 x 0.35 in)",
+"body_weight": "209 g (7.37 oz)",
+"body_sim": "Single SIM (Nano-SIM/eSIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",   
+"display_type": "OLED capacitive touchscreen, 16M colors",
+"display_size": "6.58 inches, 105.2 cm (~91.6% screen-to-body ratio)",
+"display_resolution": "1200 x 2640 pixels (~441 ppi density)",
+"features_sensors": "Infrared face recognition, fingerprint (under display, optical), accelerometer, gyro, proximity, compass, color spectrum",
+"platform_os": "Android 10, EMUI 10.1, no Google Play Services"
+}
+{
+"oem": "Huawei",
+"model": "P40",
+"launch_announced": "2020, March 26",
+"launch_status": "Available. Released 2020, April 07",
+"body_dimensions": "148.9 x 71.1 x 8.5 mm (5.86 x 2.80 x 0.33 in)",
+"body_weight": "175 g (6.17 oz)",
+"body_sim": "Single SIM (Nano-SIM/eSIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",   
+"display_type": "OLED capacitive touchscreen, 16M colors",
+"display_size": "6.1 inches, 91.3 cm (~86.3% screen-to-body ratio)",
+"display_resolution": "1080 x 2340 pixels, 19.5:9 ratio (~422 ppi density)",
+"features_sensors": "Infrared face recognition, fingerprint (under display, optical), accelerometer, gyro, proximity, compass, color spectrum",
+"platform_os": "Android 10, EMUI 10.1, no Google Play Services"
+}
+{
+"oem": "Huawei",
+"model": "P40 lite E",
+"launch_announced": "2020, March 04",
+"launch_status": "Available. Released 2020, March 12",
+"body_dimensions": "159.8 x 76.1 x 8.1 mm (6.29 x 3.00 x 0.32 in)",
+"body_weight": "176 g (6.21 oz)",
+"body_sim": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+"display_type": "IPS LCD capacitive touchscreen, 16M colors",
+"display_size": "6.39 inches, 100.2 cm (~82.4% screen-to-body ratio)",
+"display_resolution": "720 x 1560 pixels, 19.5:9 ratio (~269 ppi density)",
+"features_sensors": "Fingerprint (rear-mounted), accelerometer, proximity, compass",     
+"platform_os": "Android 9.0 (Pie), EMUI 9, no Google Play Services"
+}
+{
+"oem": "Huawei",
+"model": "P40 lite",
+"launch_announced": "2020, February 27",
+"launch_status": "Available. Released 2020, March 02",
+"body_dimensions": "159.2 x 76.3 x 8.7 mm (6.27 x 3.00 x 0.34 in)",
+"body_weight": "183 g (6.46 oz)",
+"body_sim": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+"display_type": "LTPS IPS LCD capacitive touchscreen, 16M colors",
+"display_size": "6.4 inches, 101.4 cm (~83.5% screen-to-body ratio)",
+"display_resolution": "1080 x 2310 pixels (~398 ppi density)",
+"features_sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass",     
+"platform_os": "Android 10, EMUI 10, no Google Play Services"
+}
+{
+"oem": "Huawei",
+"model": "MatePad Pro 5G",
+"launch_announced": "2020, February 24",
+"launch_status": "Available. Released 2020, May 27",
+"body_dimensions": "246 x 159 x 7.2 mm (9.69 x 6.26 x 0.28 in)",
+"body_weight": "460 g (1.01 lb)",
+"body_sim": "Nano-SIM",
+"display_type": "IPS LCD capacitive touchscreen, 16M colors",
+"display_size": "10.8 inches, 338.2 cm (~86.5% screen-to-body ratio)",
+"display_resolution": "2560 x 1600 pixels, 16:10 ratio (~280 ppi density)",
+"features_sensors": "Accelerometer, gyro, proximity, compass",
+"platform_os": "Android 10, EMUI 10, no Google Play Services"
+}
+{
+"oem": "Huawei",
+"model": "Mate Xs",
+"launch_announced": "2020, February 24",
+"launch_status": "Available. Released 2020, March 05",
+"body_dimensions": "Unfolded: 161.3 x 146.2 x 5.4 mmFolded: 161.3 x 78.5 x 11 mm",       
+"body_weight": "300 g (10.58 oz)",
+"body_sim": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+"display_type": "Foldable OLED capacitive touchscreen, 16M colors",
+"display_size": "8.0 inches, 205.0 cm (~86.9% screen-to-body ratio)",
+"display_resolution": "2200 x 2480 pixels (~414 ppi density)",
+"features_sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer",
+"platform_os": "Android 10, EMUI 10, no Google Play Services"
+}
+{
+"oem": "Huawei",
+"model": "P30 lite New Edition",
+"launch_announced": "2020, January 14",
+"launch_status": "Available. Released 2020, January 14",
+"body_dimensions": "152.9 x 72.7 x 7.4 mm (6.02 x 2.86 x 0.29 in)",
+"body_weight": "152.9 g (5.40 oz)",
+"body_sim": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+"display_type": "IPS LCD capacitive touchscreen, 16M colors",
+"display_size": "6.15 inches, 93.6 cm (~84.2% screen-to-body ratio)",
+"display_resolution": "1080 x 2312 pixels (~415 ppi density)",
+"features_sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",
+"platform_os": "Android 9.0 (Pie), EMUI 9.1"
+}
+{
+"oem": "Huawei",
+"model": "Y7p",
+"launch_announced": "2020, February 07",
+"launch_status": "Available. Released 2020, February 07",
+"body_dimensions": "159.8 x 76.1 x 8.1 mm (6.29 x 3.00 x 0.32 in)",
+"body_weight": "176 g (6.21 oz)",
+"body_sim": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+"display_type": "IPS LCD capacitive touchscreen, 16M colors",
+"display_size": "6.39 inches, 100.2 cm (~82.4% screen-to-body ratio)",
+"display_resolution": "720 x 1560 pixels, 19.5:9 ratio (~269 ppi density)",
+"features_sensors": "Fingerprint (rear-mounted), accelerometer, proximity, compass",     
+"platform_os": "Android 9.0 (Pie), EMUI 9, no Google Play Services"
+}
+{
+"oem": "Huawei",
+"model": "nova 7i",
+"launch_announced": "2020, January 30",
+"launch_status": "Available. Released 2020, February 14",
+"body_dimensions": "159.2 x 76.3 x 8.7 mm (6.27 x 3.00 x 0.34 in)",
+"body_weight": "183 g (6.46 oz)",
+"body_sim": "Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",        
+"display_type": "LTPS IPS LCD capacitive touchscreen, 16M colors",
+"display_size": "6.4 inches, 101.4 cm (~83.5% screen-to-body ratio)",
+"display_resolution": "1080 x 2310 pixels (~398 ppi density)",
+"features_sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass",     
+"platform_os": "Android 10, EMUI 10, no Google Play Services"
+}
+{
+"oem": "Huawei",
+"model": "Y6s (2019)",
+"launch_announced": "2020, January 30",
+"launch_status": "Available. Released 2020, May",
+"body_dimensions": "156.3 x 73.5 x 8 mm (6.15 x 2.89 x 0.31 in)",
+"body_weight": "150 g (5.29 oz)",
+"body_sim": "Dual SIM (Nano-SIM, dual stand-by)",
+"display_type": "IPS LCD capacitive touchscreen, 16M colors",
+"display_size": "6.09 inches, 91.0 cm (~79.2% screen-to-body ratio)",
+"display_resolution": "720 x 1560 pixels, 19.5:9 ratio (~282 ppi density)",
+"features_sensors": "Fingerprint (rear-mounted), accelerometer, proximity",
+"platform_os": "Android 9.0 (Pie), EMUI 9.1"
+}
+{
+"oem": "Huawei",
+"model": "P smart Pro 2019",
+"launch_announced": "2019, December",
+"launch_status": "Available. Released 2019, December",
+"body_dimensions": "163.1 x 77.2 x 8.8 mm (6.42 x 3.04 x 0.35 in)",
+"body_weight": "206 g (7.27 oz)",
+"body_sim": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+"display_type": "LTPS IPS LCD capacitive touchscreen, 16M colors",
+"display_size": "6.59 inches, 106.6 cm (~84.7% screen-to-body ratio)",
+"display_resolution": "1080 x 2340 pixels, 19.5:9 ratio (~391 ppi density)",
+"features_sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+"platform_os": "Android 9.0 (Pie), EMUI 9.1"
+}
+{
+"oem": "Huawei",
+"model": "nova 6 5G",
+"launch_announced": "2019, December",
+"launch_status": "Available. Released 2019, December",
+"body_dimensions": "162.7 x 75.8 x 9 mm (6.41 x 2.98 x 0.35 in)",
+"body_weight": "212 g (7.48 oz)",
+"body_sim": "Dual SIM (Nano-SIM, dual stand-by)",
+"display_type": "LTPS IPS LCD capacitive touchscreen, 16M colors",
+"display_size": "6.57 inches, 104.2 cm (~84.5% screen-to-body ratio)",
+"display_resolution": "1080 x 2400 pixels, 20:9 ratio (~401 ppi density)",
+"features_sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+"platform_os": "Android 10, EMUI 10"
+}
+{
+"oem": "Huawei",
+"model": "nova 6",
+"launch_announced": "2019, December",
+"launch_status": "Available. Released 2019, December",
+"body_dimensions": "162.6 x 75.7 x 8.6 mm (6.40 x 2.98 x 0.34 in)",
+"body_weight": "197 g (6.95 oz)",
+"body_sim": "Dual SIM (Nano-SIM, dual stand-by)",
+"display_type": "LTPS IPS LCD capacitive touchscreen, 16M colors",
+"display_size": "6.57 inches, 104.2 cm (~84.7% screen-to-body ratio)",
+"display_resolution": "1080 x 2400 pixels, 20:9 ratio (~401 ppi density)",
+"features_sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+"platform_os": "Android 10, EMUI 10, no Google Play Services"
+}
+{
+"oem": "Huawei",
+"model": "nova 6 SE",
+"launch_announced": "2019, December",
+"launch_status": "Available. Released 2019, December",
+"body_dimensions": "159.2 x 76.3 x 8.7 mm (6.27 x 3.00 x 0.34 in)",
+"body_weight": "183 g (6.46 oz)",
+"body_sim": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+"display_type": "LTPS IPS LCD capacitive touchscreen, 16M colors",
+"display_size": "6.4 inches, 101.4 cm (~83.5% screen-to-body ratio)",
+"display_resolution": "1080 x 2310 pixels (~398 ppi density)",
+"features_sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+"platform_os": "Android 10, EMUI 10, no Google Play Services"
+}
+{
+"oem": "Huawei",
+"model": "MatePad Pro",
+"launch_announced": "2019, November 25",
+"launch_status": "Available. Released 2019, December 12",
+"body_dimensions": "246 x 159 x 7.2 mm (9.69 x 6.26 x 0.28 in)",
+"body_weight": "460 g (1.01 lb)",
+"body_sim": "Nano-SIM",
+"display_type": "IPS LCD capacitive touchscreen, 16M colors",
+"display_size": "10.8 inches, 338.2 cm (~86.5% screen-to-body ratio)",
+"display_resolution": "2560 x 1600 pixels, 16:10 ratio (~280 ppi density)",
+"features_sensors": "Accelerometer, gyro, proximity, compass",
+"platform_os": "Android 10, EMUI 10, no Google Play Services"
+}
+{
+"oem": "Huawei",
+"model": "Y9s",
+"launch_announced": "2019, November 08",
+"launch_status": "Available. Released 2019, November 08",
+"body_dimensions": "163.1 x 77.2 x 8.8 mm (6.42 x 3.04 x 0.35 in)",
+"body_weight": "206 g (7.27 oz)",
+"body_sim": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+"display_type": "LTPS IPS LCD capacitive touchscreen, 16M colors",
+"display_size": "6.59 inches, 106.6 cm (~84.7% screen-to-body ratio)",
+"display_resolution": "1080 x 2340 pixels, 19.5:9 ratio (~391 ppi density)",
+"features_sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+"platform_os": "Android 9.0 (Pie), EMUI 9.1"
+}
+{
+"oem": "Huawei",
+"model": "nova 5z",
+"launch_announced": "2019, October",
+"launch_status": "Available. Released 2019, November",
+"body_dimensions": "156.1 x 73.9 x 8.3 mm (6.15 x 2.91 x 0.33 in)",
+"body_weight": "178 g (6.28 oz)",
+"body_sim": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+"display_type": "LTPS IPS LCD capacitive touchscreen, 16M colors",
+"display_size": "6.26 inches, 96.2 cm (~83.4% screen-to-body ratio)",
+"display_resolution": "1080 x 2340 pixels, 19.5:9 ratio (~412 ppi density)",
+"features_sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",
+"platform_os": "Android 9.0 (Pie), EMUI 9.1"
+}
+{
+"oem": "Huawei",
+"model": "Enjoy 10s",
+"launch_announced": "2019, October 28",
+"launch_status": "Available. Released 2019, November",
+"body_dimensions": "157.4 x 73.2 x 7.8 mm (6.20 x 2.88 x 0.31 in)",
+"body_weight": "163 g (5.75 oz)",
+"body_sim": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+"display_type": "OLED capacitive touchscreen, 16M colors",
+"display_size": "6.3 inches, 95.8 cm (~83.2% screen-to-body ratio)",
+"display_resolution": "1080 x 2400 pixels, 20:9 ratio (~418 ppi density)",
+"features_sensors": "Fingerprint (under display, optical), accelerometer, proximity, cop 
+ass",
+"platform_os": "Android 9.0 (Pie), EMUI 9.1"
+}
+{
+"oem": "Huawei",
+"model": "Enjoy 10",
+"launch_announced": "2019, October",
+"launch_status": "Available. Released 2019, November",
+"body_dimensions": "159.8 x 76.1 x 8.1 mm (6.29 x 3.00 x 0.32 in)",
+"body_weight": "176 g (6.21 oz)",
+"body_sim": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+"display_type": "IPS LCD capacitive touchscreen, 16M colors",
+"display_size": "6.39 inches, 100.2 cm (~82.4% screen-to-body ratio)",
+"display_resolution": "720 x 1560 pixels, 19.5:9 ratio (~269 ppi density)",
+"features_sensors": "Accelerometer, proximity, compass",
+"platform_os": "Android 9.0 (Pie), EMUI 9.1"
+}
+{
+"oem": "Huawei",
+"model": "Mate 30 RS Porsche Design",
+"launch_announced": "2019, September",
+"launch_status": "Available. Released 2019, November",
+"body_dimensions": "158.1 x 73.1 x 9.3 mm (6.22 x 2.88 x 0.37 in)",
+"body_weight": "198 g (6.98 oz)",
+"body_sim": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+"display_type": "OLED capacitive touchscreen, 16M colors",
+"display_size": "6.53 inches, 108.7 cm (~94.1% screen-to-body ratio)",
+"display_resolution": "1176 x 2400 pixels, 18.5:9 ratio (~409 ppi density)",
+"features_sensors": "Face ID, fingerprint (under display, optical), accelerometer, gyro, 
+proximity, barometer, compass",
+"platform_os": "Android 10, EMUI 10"
+}
+{
+"oem": "Huawei",
+"model": "Mate 30 Pro 5G",
+"launch_announced": "2019, September 19",
+"launch_status": "Available. Released 2019, October 23",
+"body_dimensions": "158.1 x 73.1 x 8.8 mm (6.22 x 2.88 x 0.35 in)",
+"body_weight": "198 g (6.98 oz)",
+"body_sim": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+"display_type": "OLED capacitive touchscreen, 16M colors",
+"display_size": "6.53 inches, 108.7 cm (~94.1% screen-to-body ratio)",
+"display_resolution": "1176 x 2400 pixels, 18.5:9 ratio (~409 ppi density)",
+"features_sensors": "Face ID, fingerprint (under display, optical), accelerometer, gyro, 
+proximity, barometer, compass",
+"platform_os": "Android 10, EMUI 10"
+}
+{
+"oem": "Huawei",
+"model": "Mate 30 Pro",
+"launch_announced": "2019, September 19",
+"launch_status": "Available. Released 2019, September 26",
+"body_dimensions": "158.1 x 73.1 x 8.8 mm (6.22 x 2.88 x 0.35 in)",
+"body_weight": "198 g (6.98 oz)",
+"body_sim": "Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",        
+"display_type": "OLED capacitive touchscreen, 16M colors",
+"display_size": "6.53 inches, 108.7 cm (~94.1% screen-to-body ratio)",
+"display_resolution": "1176 x 2400 pixels, 18.5:9 ratio (~409 ppi density)",
+"features_sensors": "Face ID, fingerprint (under display, optical), accelerometer, gyro, 
+proximity, barometer, compass",
+"platform_os": "Android 10, EMUI 10"
+}
+{
+"oem": "Huawei",
+"model": "Mate 30 5G",
+"launch_announced": "2019, September",
+"launch_status": "Available. Released 2019, October",
+"body_dimensions": "160.8 x 76.1 x 8.4 mm (6.33 x 3.00 x 0.33 in)",
+"body_weight": "196 g (6.91 oz)",
+"body_sim": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+"display_type": "OLED capacitive touchscreen, 16M colors",
+"display_size": "6.62 inches, 107.6 cm (~87.9% screen-to-body ratio)",
+"display_resolution": "1080 x 2340 pixels, 19.5:9 ratio (~389 ppi density)",
+"features_sensors": "Face ID, fingerprint (under display, optical), accelerometer, gyro, 
+proximity, barometer, compass",
+"platform_os": "Android 10, EMUI 10"
+}
+{
+"oem": "Huawei",
+"model": "Mate 30",
+"launch_announced": "2019, September",
+"launch_status": "Available. Released 2019, September",
+"body_dimensions": "160.8 x 76.1 x 8.4 mm (6.33 x 3.00 x 0.33 in)",
+"body_weight": "196 g (6.91 oz)",
+"body_sim": "Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",        
+"display_type": "OLED capacitive touchscreen, 16M colors",
+"display_size": "6.62 inches, 107.6 cm (~87.9% screen-to-body ratio)",
+"display_resolution": "1080 x 2340 pixels, 19.5:9 ratio (~389 ppi density)",
+"features_sensors": "Face ID, fingerprint (under display, optical), accelerometer, gyro, 
+proximity, barometer, compass",
+"platform_os": "Android 10, EMUI 10"
+}
+{
+"oem": "Huawei",
+"model": "Watch GT 2",
+"launch_announced": "2019, September",
+"launch_status": "Available. Released 2019, October",
+"body_dimensions": "45.9 x 45.9 x 10.7 mm (1.81 x 1.81 x 0.42 in)",
+"body_weight": "41 g (1.45 oz)",
+"body_sim": "No",
+"display_type": "OLED capacitive touchscreen, 16M colors",
+"display_size": "1.39 inches, 12.5 cm (~59.4% screen-to-body ratio)",
+"display_resolution": "454 x 454 pixels, 1:1 ratio (~326 ppi density)",
+"features_sensors": "Accelerometer, gyro, heart rate, barometer, compass",
+"platform_os": "Huawei wearable platform"
+}
+{
+"oem": "Huawei",
+"model": "nova 5i Pro",
+"launch_announced": "2019, July",
+"launch_status": "Available. Released 2019, July",
+"body_dimensions": "156.1 x 73.9 x 8.3 mm (6.15 x 2.91 x 0.33 in)",
+"body_weight": "178 g (6.28 oz)",
+"body_sim": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+"display_type": "LTPS IPS LCD capacitive touchscreen, 16M colors",
+"display_size": "6.26 inches, 96.2 cm (~83.4% screen-to-body ratio)",
+"display_resolution": "1080 x 2340 pixels, 19.5:9 ratio (~412 ppi density)",
+"features_sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",
+"platform_os": "Android 9.0 (Pie), EMUI 9.1"
+}
+{
+"oem": "Huawei",
+"model": "Enjoy 10 Plus",
+"launch_announced": "2019, September",
+"launch_status": "Available. Released 2019, September",
+"body_dimensions": "163.5 x 77.3 x 8.8 mm (6.44 x 3.04 x 0.35 in)",
+"body_weight": "163.5 g (5.78 oz)",
+"body_sim": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+"display_type": "IPS LCD capacitive touchscreen, 16M colors",
+"display_size": "6.59 inches, 106.6 cm (~84.3% screen-to-body ratio)",
+"display_resolution": "1080 x 2340 pixels, 19.5:9 ratio (~391 ppi density)",
+"features_sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",
+"platform_os": "Android 9.0 (Pie), EMUI 9.1"
+}
+{
+"oem": "Huawei",
+"model": "nova 5T",
+"launch_announced": "2019, August 27",
+"launch_status": "Available. Released 2019, September 05",
+"body_dimensions": "154.3 x 74 x 7.8 mm (6.07 x 2.91 x 0.31 in)",
+"body_weight": "174 g (6.14 oz)",
+"body_sim": "Dual SIM (Nano-SIM, dual stand-by)",
+"display_type": "IPS LCD capacitive touchscreen, 16M colors",
+"display_size": "6.26 inches, 96.2 cm (~84.2% screen-to-body ratio)",
+"display_resolution": "1080 x 2340 pixels, 19.5:9 ratio (~412 ppi density)",
+"features_sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+"platform_os": "Android 9.0 (Pie), upgradable to Android 10, EMUI 10"
+}
+{
+"oem": "Huawei",
+"model": "MediaPad M6 10.8",
+"launch_announced": "2019, June",
+"launch_status": "Available. Released 2019, July 10",
+"body_dimensions": "257 x 170 x 7.2 mm (10.12 x 6.69 x 0.28 in)",
+"body_weight": "498 g (1.10 lb)",
+"body_sim": "Nano-SIM",
+"display_type": "IPS LCD capacitive touchscreen, 16M colors",
+"display_size": "10.8 inches, 338.2 cm (~77.4% screen-to-body ratio)",
+"display_resolution": "2560 x 1600 pixels, 16:10 ratio (~280 ppi density)",
+"features_sensors": "Fingerprint (front-mounted), accelerometer, gyro, proximity, compass",
+"platform_os": "Android 9.0 (Pie), EMUI 9.1"
+}
+{
+"oem": "Huawei",
+"model": "MediaPad M6 Turbo 8.4",
+"launch_announced": "2019, September",
+"launch_status": "Available. Released 2019, September",
+"body_dimensions": "206.4 x 125.2 x 8.2 mm (8.13 x 4.93 x 0.32 in)",
+"body_weight": "340 g (11.99 oz)",
+"body_sim": "Nano-SIM",
+"display_type": "IPS LCD capacitive touchscreen, 16M colors",
+"display_size": "8.4 inches, 204.6 cm (~79.2% screen-to-body ratio)",
+"display_resolution": "2560 x 1600 pixels, 16:10 ratio (~359 ppi density)",
+"features_sensors": "Accelerometer, gyro, proximity, compass",
+"platform_os": "Android 9.0 (Pie), EMUI 9.1"
+}
+{
+"oem": "Huawei",
+"model": "MediaPad M6 8.4",
+"launch_announced": "2019, June",
+"launch_status": "Available. Released 2019, July",
+"body_dimensions": "206.4 x 125.2 x 7.4 mm (8.13 x 4.93 x 0.29 in)",
+"body_weight": "320 g (11.29 oz)",
+"body_sim": "Nano-SIM",
+"display_type": "IPS LCD capacitive touchscreen, 16M colors",
+"display_size": "8.4 inches, 204.6 cm (~79.2% screen-to-body ratio)",
+"display_resolution": "2560 x 1600 pixels, 16:10 ratio (~359 ppi density)",
+"features_sensors": "Accelerometer, gyro, proximity, compass",
+"platform_os": "Android 9.0 (Pie), EMUI 9.1"
+}
+{
+"oem": "Huawei",
+"model": "nova 5 Pro",
+"launch_announced": "2019, June",
+"launch_status": "Available. Released 2019, June",
+"body_dimensions": "157.4 x 74.8 x 7.3 mm (6.20 x 2.94 x 0.29 in)",
+"body_weight": "171 g (6.03 oz)",
+"body_sim": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+"display_type": "OLED capacitive touchscreen, 16M colors",
+"display_size": "6.39 inches, 100.2 cm (~85.1% screen-to-body ratio)",
+"display_resolution": "1080 x 2340 pixels, 19.5:9 ratio (~403 ppi density)",
+"features_sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+"platform_os": "Android 9.0 (Pie), EMUI 9.1"
+}
+{
+"oem": "Huawei",
+"model": "nova 5",
+"launch_announced": "2019, June",
+"launch_status": "Available. Released 2019, June",
+"body_dimensions": "157.4 x 74.8 x 7.3 mm (6.20 x 2.94 x 0.29 in)",
+"body_weight": "171 g (6.03 oz)",
+"body_sim": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+"display_type": "OLED capacitive touchscreen, 16M colors",
+"display_size": "6.39 inches, 100.2 cm (~85.1% screen-to-body ratio)",
+"display_resolution": "1080 x 2340 pixels, 19.5:9 ratio (~403 ppi density)",
+"features_sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+"platform_os": "Android 9.0 (Pie), EMUI 9.1"
+}
+{
+"oem": "Huawei",
+"model": "nova 5i",
+"launch_announced": "2019, June",
+"launch_status": "Available. Released 2019, June",
+"body_dimensions": "159.1 x 75.9 x 8.3 mm (6.26 x 2.99 x 0.33 in)",
+"body_weight": "178 g (6.28 oz)",
+"body_sim": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+"display_type": "IPS LCD capacitive touchscreen, 16M colors",
+"display_size": "6.4 inches, 101.4 cm (~84.0% screen-to-body ratio)",
+"display_resolution": "1080 x 2310 pixels (~398 ppi density)",
+"features_sensors": "Fingerprint (rear-mounted), accelerometer, proximity, compass",     
+"platform_os": "Android 9.0 (Pie), EMUI 9.1"
+}
+{
+"oem": "Huawei",
+"model": "Y9 Prime (2019)",
+"launch_announced": "2019, August 01",
+"launch_status": "Available. Released 2019, August 05",
+"body_dimensions": "163.5 x 77.3 x 8.9 mm (6.44 x 3.04 x 0.35 in)",
+"body_weight": "196.8 g (6.95 oz)",
+"body_sim": "Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)",
+"display_type": "LTPS IPS LCD capacitive touchscreen, 16M colors",
+"display_size": "6.59 inches, 106.6 cm (~84.3% screen-to-body ratio)",
+"display_resolution": "1080 x 2340 pixels, 19.5:9 ratio (~391 ppi density)",
+"features_sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",
+"platform_os": "Android 9.0 (Pie), upgradable to Android 10, Magic UI 2.1"
+}
+{
+"oem": "Huawei",
+"model": "P20 lite (2019)",
+"launch_announced": "2019, June",
+"launch_status": "Available. Released 2019, July",
+"body_dimensions": "159.1 x 75.9 x 8.3 mm (6.26 x 2.99 x 0.33 in)",
+"body_weight": "178 g (6.28 oz)",
+"body_sim": "Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",        
+"display_type": "LTPS IPS LCD capacitive touchscreen, 16M colors",
+"display_size": "6.4 inches, 101.4 cm (~84.0% screen-to-body ratio)",
+"display_resolution": "1080 x 2310 pixels (~398 ppi density)",
+"features_sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",
+"platform_os": "Android 9.0 (Pie), EMUI 9.1"
+}
+{
+"oem": "Huawei",
+"model": "P Smart Z",
+"launch_announced": "2019, May",
+"launch_status": "Available. Released 2019, June",
+"body_dimensions": "163.5 x 77.3 x 8.8 mm (6.44 x 3.04 x 0.35 in)",
+"body_weight": "196.8 g (6.95 oz)",
+"body_sim": "Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",        
+"display_type": "LTPS IPS LCD capacitive touchscreen, 16M colors",
+"display_size": "6.59 inches, 106.6 cm (~84.3% screen-to-body ratio)",
+"display_resolution": "1080 x 2340 pixels, 19.5:9 ratio (~391 ppi density)",
+"features_sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",
+"platform_os": "Android 9.0 (Pie), EMUI 9"
+}
+{
+"oem": "Huawei",
+"model": "Mate 20 X (5G)",
+"launch_announced": "2019, May",
+"launch_status": "Available. Released 2019, July",
+"body_dimensions": "174.6 x 85.4 x 8.4 mm (6.87 x 3.36 x 0.33 in)",
+"body_weight": "233 g (8.22 oz)",
+"body_sim": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+"display_type": "OLED capacitive touchscreen, 16M colors",
+"display_size": "7.2 inches, 130.7 cm (~87.6% screen-to-body ratio)",
+"display_resolution": "1080 x 2244 pixels, 18.7:9 ratio (~346 ppi density)",
+"features_sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, barometer, compass",
+"platform_os": "Android 9.0 (Pie), EMUI 9.1"
+}
+{
+"oem": "Huawei",
+"model": "Y5 (2019)",
+"launch_announced": "2019, April 24",
+"launch_status": "Available. Released 2019, April 24",
+"body_dimensions": "147.1 x 70.8 x 8.5 mm (5.79 x 2.79 x 0.33 in)",
+"body_weight": "146 g (5.15 oz)",
+"body_sim": "Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)",
+"display_type": "IPS LCD capacitive touchscreen, 16M colors",
+"display_size": "5.71 inches, 81.4 cm (~78.1% screen-to-body ratio)",
+"display_resolution": "720 x 1520 pixels, 19:9 ratio (~295 ppi density)",
+"features_sensors": "Accelerometer, proximity",
+"platform_os": "Android 9.0 (Pie), EMUI 9.1"
+}
+
+
+
+
+CSV file succesfully read
+
+
+
+{
+  "oem": "Honor",
+  "model": "20 Pro",
+  "launch_announced": "2019, May",
+  "launch_status": "Available. Released 2019, July",
+  "body_dimensions": "154.6 x 74 x 8.4 mm (6.09 x 2.91 x 0.33 in)",
+  "body_weight": "182 g (6.42 oz)",
+  "body_sim": "Dual SIM (Nano-SIM, dual stand-by)",
+  "display_type": "IPS LCD capacitive touchscreen, 16M colors",
+  "display_size": "6.26 inches, 96.2 cm (~84.1% screen-to-body ratio)",
+  "display_resolution": "1080 x 2340 pixels, 19.5:9 ratio (~412 ppi density)",
+  "features_sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+  "platform_os": "Android 9.0 (Pie), Magic 2.1"
+}
+{
+  "oem": "Honor",
+  "model": "20",
+  "launch_announced": "2019, May",
+  "launch_status": "Available. Released 2019, June",
+  "body_dimensions": "154.3 x 74 x 7.9 mm (6.07 x 2.91 x 0.31 in)",
+  "body_weight": "174 g (6.14 oz)",
+  "body_sim": "Dual SIM (Nano-SIM, dual stand-by)",
+  "display_type": "IPS LCD capacitive touchscreen, 16M colors",
+  "display_size": "6.26 inches, 96.2 cm (~84.2% screen-to-body ratio)",
+  "display_resolution": "1080 x 2340 pixels, 19.5:9 ratio (~412 ppi density)",
+  "features_sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+  "platform_os": "Android 9.0 (Pie), Magic 2.1"
+}
+{
+  "oem": "Honor",
+  "model": "20 lite",
+  "launch_announced": "2019, April",
+  "launch_status": "Available. Released 2019, April",
+  "body_dimensions": "154.8 x 73.6 x 8 mm (6.09 x 2.90 x 0.31 in)",
+  "body_weight": "164 g (5.78 oz)",
+  "body_sim": "Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",        
+  "display_type": "LTPS IPS LCD capacitive touchscreen, 16M colors",
+  "display_size": "6.21 inches, 94.7 cm (~83.1% screen-to-body ratio)",
+  "display_resolution": "1080 x 2340 pixels, 19.5:9 ratio (~415 ppi density)",
+  "features_sensors": "Fingerprint (rear-mounted), accelerometer, proximity, compass",     
+  "platform_os": "Android 9.0 (Pie), EMUI 9"
+}
+{
+  "oem": "HP",
+  "model": "Slate8 Pro",
+  "launch_announced": "2013, December. Released 2013, December",
+  "launch_status": "Discontinued",
+  "body_dimensions": "220 x 141.5 x 9.9 mm (8.66 x 5.57 x 0.39 in)",
+  "body_weight": "453.6 g (1.00 lb)",
+  "body_sim": "No",
+  "display_type": "Capacitive touchscreen, 16M colors",
+  "display_size": "8.0 inches, 198.2 cm (~63.7% screen-to-body ratio)",
+  "display_resolution": "1200 x 1600 pixels, 4:3 ratio (~250 ppi density)",
+  "features_sensors": "Accelerometer, gyro, compass",
+  "platform_os": "Android 4.2.2 (Jelly Bean)"
+}
+{
+  "oem": "HTC",
+  "model": "U20 5G",
+  "launch_announced": "2020, June 16",
+  "launch_status": "Coming soon. Exp. release 2020, July",
+  "body_dimensions": "171.2 x 78.1 x 9.4 mm (6.74 x 3.07 x 0.37 in)",
+  "body_weight": "215.5 g (7.62 oz)",
+  "body_sim": "Dual SIM (Nano-SIM, dual stand-by)",
+  "display_type": "Capacitive touchscreen, 16M colors",
+  "display_size": "6.8 inches, 111.6 cm (~83.5% screen-to-body ratio)",
+  "display_resolution": "1080 x 2400 pixels, 20:9 ratio (~387 ppi density)",
+  "features_sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass, SAR",
+  "platform_os": "Android 10"
+}
+{
+  "oem": "HTC",
+  "model": "Desire 20 Pro",
+  "launch_announced": "2020, June 16",
+  "launch_status": "Coming soon. Exp. release 2020, July",
+  "body_dimensions": "162 x 77 x 9.4 mm (6.38 x 3.03 x 0.37 in)",
+  "body_weight": "201 g (7.09 oz)",
+  "body_sim": "Dual SIM (Nano-SIM, dual stand-by)",
+  "display_type": "IPS LCD capacitive touchscreen, 16M colors",
+  "display_size": "6.5 inches, 103.7 cm (~83.1% screen-to-body ratio)",
+  "display_resolution": "1080 x 2340 pixels, 19.5:9 ratio (~396 ppi density)",
+  "features_sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",
+  "platform_os": "Android 10"
+}
+{
+  "oem": "HTC",
+  "model": "Wildfire R70",
+  "launch_announced": "2020, February 27",
+  "launch_status": "Coming soon. Exp. release 2020, Q3",
+  "body_dimensions": "163.2 x 77.8 x 8.9 mm (6.43 x 3.06 x 0.35 in)",
+  "body_weight": "186 g (6.56 oz)",
+  "body_sim": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+  "display_type": "IPS LCD capacitive touchscreen, 16M colors",
+  "display_size": "6.53 inches, 104.7 cm (~82.4% screen-to-body ratio)",
+  "display_resolution": "720 x 1560 pixels, 19.5:9 ratio (~263 ppi density)",
+  "features_sensors": "Fingerprint (rear-mounted), accelerometer, proximity",
+  "platform_os": "Android 9 (Pie)"
+}
+{
+  "oem": "HTC",
+  "model": "Desire 19s",
+  "launch_announced": "2019, November 14",
+  "launch_status": "Available. Released 2019, November 14",
+  "body_dimensions": "156.2 x 74.8 x 8.5 mm (6.15 x 2.94 x 0.33 in)",
+  "body_weight": "170 g (6.00 oz)",
+  "body_sim": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+  "display_type": "IPS LCD capacitive touchscreen, 16M colors",
+  "display_size": "6.2 inches, 95.9 cm (~82.1% screen-to-body ratio)",
+  "display_resolution": "720 x 1520 pixels, 19:9 ratio (~271 ppi density)",
+  "features_sensors": "Fingerprint (rear-mounted), accelerometer, proximity, compass",     
+  "platform_os": "Android 9 (Pie)"
+}
+{
+  "oem": "HTC",
+  "model": "Exodus 1s",
+  "launch_announced": "2019, October 19",
+  "launch_status": "Available. Released 2019, December",
+  "body_dimensions": "154.2 x 72.7 x 8.3 mm (6.07 x 2.86 x 0.33 in)",
+  "body_weight": "150 g (5.29 oz)",
+  "body_sim": "Dual SIM (Nano-SIM, dual stand-by)",
+  "display_type": "IPS LCD capacitive touchscreen, 16M colors",
+  "display_size": "5.7 inches, 83.8 cm (~74.8% screen-to-body ratio)",
+  "display_resolution": "720 x 1440 pixels, 18:9 ratio (~282 ppi density)",
+  "features_sensors": "Fingerprint (rear-mounted), accelerometer, proximity, compass",     
+  "platform_os": "Android 8.1 (Oreo)"
+}
+{
+  "oem": "HTC",
+  "model": "Wildfire X",
+  "launch_announced": "2019, August 14",
+  "launch_status": "Available. Released 2019, August 22",
+  "body_dimensions": "156.7 x 74.9 x 8 mm (6.17 x 2.95 x 0.31 in)",
+  "body_weight": "160 g (5.64 oz)",
+  "body_sim": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+  "display_type": "IPS LCD capacitive touchscreen, 16M colors",
+  "display_size": "6.2 inches, 95.9 cm (~81.7% screen-to-body ratio)",
+  "display_resolution": "720 x 1520 pixels, 19:9 ratio (~271 ppi density)",
+  "features_sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity",        
+  "platform_os": "Android 9 (Pie)"
+}
+{
+  "oem": "HTC",
+  "model": "U19e",
+  "launch_announced": "2019, June 11",
+  "launch_status": "Available. Released 2019, June 11",
+  "body_dimensions": "156.6 x 75.9 x 8 mm (6.17 x 2.99 x 0.31 in)",
+  "body_weight": "180 g (6.35 oz)",
+  "body_sim": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+  "display_type": "OLED capacitive touchscreen, 16M colors",
+  "display_size": "6.0 inches, 92.9 cm (~78.2% screen-to-body ratio)",
+  "display_resolution": "1080 x 2160 pixels, 18:9 ratio (~402 ppi density)",
+  "features_sensors": "Iris scanner, fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",
+  "platform_os": "Android 9.0 (Pie), HTC Sense"
+}
+{
+  "oem": "HTC",
+  "model": "Desire 19+",
+  "launch_announced": "2019, June 11",
+  "launch_status": "Available. Released 2019, August 07",
+  "body_dimensions": "156.2 x 74.8 x 8.5 mm (6.15 x 2.94 x 0.33 in)",
+  "body_weight": "170 g (6.00 oz)",
+  "body_sim": "Dual SIM (Nano-SIM, dual stand-by)",
+  "display_type": "IPS LCD capacitive touchscreen, 16M colors",
+  "display_size": "6.2 inches, 95.9 cm (~82.1% screen-to-body ratio)",
+  "display_resolution": "720 x 1520 pixels, 19:9 ratio (~271 ppi density)",
+  "features_sensors": "Fingerprint (rear-mounted), accelerometer, proximity, compass",     
+  "platform_os": "Android 9 (Pie)"
+}
+{
+  "oem": "HTC",
+  "model": "Schubert",
+  "launch_announced": "Not officially announced yet",
+  "launch_status": "Discontinued",
+  "body_dimensions": "-",
+  "body_weight": "-",
+  "body_sim": "Mini-SIM",
+  "display_type": "TFT capacitive touchscreen, 16M colors",
+  "display_size": "",
+  "display_resolution": "",
+  "features_sensors": "Accelerometer, proximity",
+  "platform_os": "Microsoft Windows Phone 7"
+}
+{
+  "oem": "Huawei",
+  "model": "Enjoy 20 Pro",
+  "launch_announced": "2020, June 19",
+  "launch_status": "Coming soon. Exp. release 2020, June 24",
+  "body_dimensions": "160 x 75.3 x 8.4 mm (6.30 x 2.96 x 0.33 in)",
+  "body_weight": "192 g (6.77 oz)",
+  "body_sim": "Dual SIM (Nano-SIM, dual stand-by)",
+  "display_type": "IPS LCD capacitive touchscreen, 16M colors",
+  "display_size": "6.5 inches, 102.0 cm (~84.7% screen-to-body ratio)",
+  "display_resolution": "1080 x 2400 pixels, 20:9 ratio (~405 ppi density)",
+  "features_sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+  "platform_os": "Android 10, EMUI 10.1, no Google Play Services"
+}
+{
+  "oem": "Huawei",
+  "model": "Enjoy Z 5G",
+  "launch_announced": "2020, May 24",
+  "launch_status": "Available. Released 2020, June 03",
+  "body_dimensions": "160 x 75.3 x 8.4 mm (6.30 x 2.96 x 0.33 in)",
+  "body_weight": "182 g (6.42 oz)",
+  "body_sim": "Dual SIM (Nano-SIM, dual stand-by)",
+  "display_type": "IPS LCD capacitive touchscreen, 16M colors",
+  "display_size": "6.5 inches, 102.0 cm (~84.7% screen-to-body ratio)",
+  "display_resolution": "1080 x 2400 pixels, 20:9 ratio (~405 ppi density)",
+  "features_sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+  "platform_os": "Android 10, EMUI 10.1, no Google Play Services"
+}
+{
+  "oem": "Huawei",
+  "model": "P Smart S",
+  "launch_announced": "2020, June 09",
+  "launch_status": "Available. Released 2020, June 09",
+  "body_dimensions": "157.4 x 73.2 x 7.8 mm (6.20 x 2.88 x 0.31 in)",
+  "body_weight": "163 g (5.75 oz)",
+  "body_sim": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+  "display_type": "OLED capacitive touchscreen, 16M colors",
+  "display_size": "6.3 inches, 95.8 cm (~83.2% screen-to-body ratio)",
+  "display_resolution": "1080 x 2400 pixels, 20:9 ratio (~418 ppi density)",
+  "features_sensors": "Fingerprint (under display, optical), accelerometer, proximity, compass",
+  "platform_os": "Android 10, EMUI 10.1, no Google Play Services"
+}
+{
+  "oem": "Huawei",
+  "model": "Y8p",
+  "launch_announced": "2020, May 18",
+  "launch_status": "Available. Released 2020, June 15",
+  "body_dimensions": "157.4 x 73.2 x 7.8 mm (6.20 x 2.88 x 0.31 in)",
+  "body_weight": "163 g (5.75 oz)",
+  "body_sim": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+  "display_type": "OLED capacitive touchscreen, 16M colors",
+  "display_size": "6.3 inches, 95.8 cm (~83.2% screen-to-body ratio)",
+  "display_resolution": "1080 x 2400 pixels, 20:9 ratio (~418 ppi density)",
+  "features_sensors": "Fingerprint (under display, optical), accelerometer, proximity, compass",
+  "platform_os": "Android 10, EMUI 10.1, no Google Play Services"
+}
+{
+  "oem": "Huawei",
+  "model": "P40 lite 5G",
+  "launch_announced": "2020, May 15",
+  "launch_status": "Available. Released 2020, May 28",
+  "body_dimensions": "162.3 x 75 x 8.6 mm (6.39 x 2.95 x 0.34 in)",
+  "body_weight": "189 g (6.67 oz)",
+  "body_sim": "Dual SIM (Nano-SIM, dual stand-by)",
+  "display_type": "LTPS IPS LCD capacitive touchscreen, 16M colors",
+  "display_size": "6.5 inches, 102.0 cm (~83.8% screen-to-body ratio)",
+  "display_resolution": "1080 x 2400 pixels, 20:9 ratio (~405 ppi density)",
+  "features_sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+  "platform_os": "Android 10, EMUI 10.1, no Google Play Services"
+}
+{
+  "oem": "Huawei",
+  "model": "P30 Pro New Edition",
+  "launch_announced": "2020, May 12",
+  "launch_status": "Available. Released 2020, June 01",
+  "body_dimensions": "158 x 73.4 x 8.4 mm (6.22 x 2.89 x 0.33 in)",
+  "body_weight": "192 g (6.77 oz)",
+  "body_sim": "Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",        
+  "display_type": "OLED capacitive touchscreen, 16M colors",
+  "display_size": "6.47 inches, 102.8 cm (~88.6% screen-to-body ratio)",
+  "display_resolution": "1080 x 2340 pixels, 19.5:9 ratio (~398 ppi density)",
+  "features_sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, color spectrum",
+  "platform_os": "Android 10, EMUI 10.1, Google Play Services"
+}
+{
+  "oem": "Huawei",
+  "model": "MatePad T8",
+  "launch_announced": "2020, May 07",
+  "launch_status": "Available. Released Exp. release 2020, May 19",
+  "body_dimensions": "199.7 x 121.1 x 8.6 mm (7.86 x 4.77 x 0.34 in)",
+  "body_weight": "310 g (10.93 oz)",
+  "body_sim": "Nano-SIM",
+  "display_type": "IPS LCD capacitive touchscreen, 16M colors",
+  "display_size": "8.0 inches, 185.6 cm (~76.7% screen-to-body ratio)",
+  "display_resolution": "800 x 1280 pixels, 16:10 ratio (~189 ppi density)",
+  "features_sensors": "Accelerometer",
+  "platform_os": "Android 10, EMUI 10, no Google Play Services"
+}
+{
+  "oem": "Huawei",
+  "model": "Y8s",
+  "launch_announced": "2020, May 6",
+  "launch_status": "Available. Released 2020, May 21",
+  "body_dimensions": "162.4 x 77.1 x 8.1 mm (6.39 x 3.04 x 0.32 in)",
+  "body_weight": "180 g (6.35 oz)",
+  "body_sim": "Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)",
+  "display_type": "IPS LCD capacitive touchscreen, 16M colors",
+  "display_size": "6.5 inches, 103.7 cm (~82.8% screen-to-body ratio)",
+  "display_resolution": "1080 x 2340 pixels, 19.5:9 ratio (~396 ppi density)",
+  "features_sensors": "Fingerprint (rear-mounted), accelerometer, proximity, compass",     
+  "platform_os": "Android 9.0 (Pie), EMUI 9.1, Google Play Services"
+}
+{
+  "oem": "Huawei",
+  "model": "Y6p",
+  "launch_announced": "2020, May 05",
+  "launch_status": "Available. Released 2020, May 06",
+  "body_dimensions": "159.1 x 74.1 x 9 mm (6.26 x 2.92 x 0.35 in)",
+  "body_weight": "185 g (6.53 oz)",
+  "body_sim": "Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)",
+  "display_type": "IPS LCD capacitive touchscreen, 16M colors",
+  "display_size": "6.3 inches, 95.8 cm (~81.3% screen-to-body ratio)",
+  "display_resolution": "720 x 1600 pixels, 20:9 ratio (~278 ppi density)",
+  "features_sensors": "Fingerprint (rear-mounted), accelerometer, proximity",
+  "platform_os": "Android 10, EMUI 10.1, no Google Play Services"
+}
+{
+  "oem": "Huawei",
+  "model": "Y5p",
+  "launch_announced": "2020, May 05",
+  "launch_status": "Available. Released 2020, May 06",
+  "body_dimensions": "146.5 x 70.9 x 8.4 mm (5.77 x 2.79 x 0.33 in)",
+  "body_weight": "144 g (5.08 oz)",
+  "body_sim": "Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)",
+  "display_type": "IPS LCD capacitive touchscreen, 16M colors",
+  "display_size": "5.45 inches, 76.7 cm (~73.8% screen-to-body ratio)",
+  "display_resolution": "720 x 1440 pixels, 18:9 ratio (~295 ppi density)",
+  "features_sensors": "Accelerometer, proximity",
+  "platform_os": "Android 10, EMUI 10.1, no Google Play Services"
+}
+{
+  "oem": "Huawei",
+  "model": "P smart 2020",
+  "launch_announced": "2020, April 29",
+  "launch_status": "Available. Released 2020, May 8",
+  "body_dimensions": "155.2 x 73.4 x 8 mm (6.11 x 2.89 x 0.31 in)",
+  "body_weight": "160 g (5.64 oz)",
+  "body_sim": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+  "display_type": "LTPS IPS LCD capacitive touchscreen, 16M colors",
+  "display_size": "6.21 inches, 94.7 cm (~83.1% screen-to-body ratio)",
+  "display_resolution": "1080 x 2340 pixels, 19.5:9 ratio (~415 ppi density)",
+  "features_sensors": "Fingerprint (rear-mounted), accelerometer, proximity, compass",     
+  "platform_os": "Android 9.0 (Pie), EMUI 9.1, Google Play Services"
+}
+{
+  "oem": "Huawei",
+  "model": "nova 7 Pro 5G",
+  "launch_announced": "2020, April 23",
+  "launch_status": "Available. Released 2020, April 28",
+  "body_dimensions": "160.4 x 73.7 x 8 mm (6.31 x 2.90 x 0.31 in)",
+  "body_weight": "178 g (6.28 oz)",
+  "body_sim": "Dual SIM (Nano-SIM, dual stand-by)",
+  "display_type": "OLED capacitive touchscreen, 16M colors",
+  "display_size": "6.57 inches, 106.0 cm (~89.6% screen-to-body ratio)",
+  "display_resolution": "1080 x 2340 pixels, 19.5:9 ratio (~392 ppi density)",
+  "features_sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+  "platform_os": "Android 10, EMUI 10, no Google Play Services"
+}
+{
+  "oem": "Huawei",
+  "model": "nova 7 5G",
+  "launch_announced": "2020, April 23",
+  "launch_status": "Available. Released 2020, April 28",
+  "body_dimensions": "160.6 x 74.3 x 8 mm (6.32 x 2.93 x 0.31 in)",
+  "body_weight": "180 g (6.35 oz)",
+  "body_sim": "Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)",
+  "display_type": "OLED capacitive touchscreen, 16M colors",
+  "display_size": "6.53 inches, 102.9 cm (~86.3% screen-to-body ratio)",
+  "display_resolution": "1080 x 2400 pixels, 20:9 ratio (~403 ppi density)",
+  "features_sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+  "platform_os": "Android 10, EMUI 10.1, no Google Play Services"
+}
+{
+  "oem": "Huawei",
+  "model": "nova 7 SE",
+  "launch_announced": "2020, April 23",
+  "launch_status": "Available. Released 2020, April 28",
+  "body_dimensions": "162.3 x 75 x 8.6 mm (6.39 x 2.95 x 0.34 in)",
+  "body_weight": "189 g (6.67 oz)",
+  "body_sim": "Dual SIM (Nano-SIM, dual stand-by)",
+  "display_type": "LTPS IPS LCD capacitive touchscreen, 16M colors",
+  "display_size": "6.5 inches, 102.0 cm (~83.8% screen-to-body ratio)",
+  "display_resolution": "1080 x 2400 pixels, 20:9 ratio (~405 ppi density)",
+  "features_sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+  "platform_os": "Android 10, EMUI 10.1, no Google Play Services"
+}
+{
+  "oem": "Huawei",
+  "model": "MatePad",
+  "launch_announced": "2020, April 23",
+  "launch_status": "Available. Released 2020, April 28",
+  "body_dimensions": "245.2 x 155 x 7.4 mm (9.65 x 6.10 x 0.29 in)",
+  "body_weight": "450 g (0.99 lb)",
+  "body_sim": "Nano-SIM",
+  "display_type": "IPS LCD capacitive touchscreen, 16M colors",
+  "display_size": "10.4 inches, 307.9 cm (~81.0% screen-to-body ratio)",
+  "display_resolution": "1200 x 2000 pixels, 5:3 ratio (~224 ppi density)",
+  "features_sensors": "Accelerometer, gyro, proximity, compass",
+  "platform_os": "Android 10, EMUI 10, no Google Play Services"
+}
+{
+  "oem": "Huawei",
+  "model": "Watch GT 2e",
+  "launch_announced": "2020, March 26",
+  "launch_status": "Available. Released 2020, April 20",
+  "body_dimensions": "53 x 46.8 x 10.8 mm (2.09 x 1.84 x 0.43 in)",
+  "body_weight": "43 g (1.52 oz)",
+  "body_sim": "No",
+  "display_type": "AMOLED capacitive touchscreen, 16M colors",
+  "display_size": "1.39 inches, 12.5 cm (~50.5% screen-to-body ratio)",
+  "display_resolution": "454 x 454 pixels, 1:1 ratio (~326 ppi density)",
+  "features_sensors": "Accelerometer, gyro, heart rate, barometer, compass, SpO2",
+  "platform_os": "Huawei wearable platform"
+}
+{
+  "oem": "Huawei",
+  "model": "P40 Pro+",
+  "launch_announced": "2020, March 26",
+  "launch_status": "Available. Released 2020, June 06",
+  "body_dimensions": "158.2 x 72.6 x 9 mm (6.23 x 2.86 x 0.35 in)",
+  "body_weight": "226 g (7.97 oz)",
+  "body_sim": "Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",        
+  "display_type": "OLED capacitive touchscreen, 16M colors",
+  "display_size": "6.58 inches, 105.2 cm (~91.6% screen-to-body ratio)",
+  "display_resolution": "1200 x 2640 pixels (~441 ppi density)",
+  "features_sensors": "Infrared face recognition, fingerprint (under display, optical), accelerometer, gyro, proximity, compass, color spectrum",
+  "platform_os": "Android 10, EMUI 10.1, no Google Play Services"
+}
+{
+  "oem": "Huawei",
+  "model": "P40 Pro",
+  "launch_announced": "2020, March 26",
+  "launch_status": "Available. Released 2020, April 07",
+  "body_dimensions": "158.2 x 72.6 x 9 mm (6.23 x 2.86 x 0.35 in)",
+  "body_weight": "209 g (7.37 oz)",
+  "body_sim": "Single SIM (Nano-SIM/eSIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",   
+  "display_type": "OLED capacitive touchscreen, 16M colors",
+  "display_size": "6.58 inches, 105.2 cm (~91.6% screen-to-body ratio)",
+  "display_resolution": "1200 x 2640 pixels (~441 ppi density)",
+  "features_sensors": "Infrared face recognition, fingerprint (under display, optical), accelerometer, gyro, proximity, compass, color spectrum",
+  "platform_os": "Android 10, EMUI 10.1, no Google Play Services"
+}
+{
+  "oem": "Huawei",
+  "model": "P40",
+  "launch_announced": "2020, March 26",
+  "launch_status": "Available. Released 2020, April 07",
+  "body_dimensions": "148.9 x 71.1 x 8.5 mm (5.86 x 2.80 x 0.33 in)",
+  "body_weight": "175 g (6.17 oz)",
+  "body_sim": "Single SIM (Nano-SIM/eSIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",   
+  "display_type": "OLED capacitive touchscreen, 16M colors",
+  "display_size": "6.1 inches, 91.3 cm (~86.3% screen-to-body ratio)",
+  "display_resolution": "1080 x 2340 pixels, 19.5:9 ratio (~422 ppi density)",
+  "features_sensors": "Infrared face recognition, fingerprint (under display, optical), accelerometer, gyro, proximity, compass, color spectrum",
+  "platform_os": "Android 10, EMUI 10.1, no Google Play Services"
+}
+{
+  "oem": "Huawei",
+  "model": "P40 lite E",
+  "launch_announced": "2020, March 04",
+  "launch_status": "Available. Released 2020, March 12",
+  "body_dimensions": "159.8 x 76.1 x 8.1 mm (6.29 x 3.00 x 0.32 in)",
+  "body_weight": "176 g (6.21 oz)",
+  "body_sim": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+  "display_type": "IPS LCD capacitive touchscreen, 16M colors",
+  "display_size": "6.39 inches, 100.2 cm (~82.4% screen-to-body ratio)",
+  "display_resolution": "720 x 1560 pixels, 19.5:9 ratio (~269 ppi density)",
+  "features_sensors": "Fingerprint (rear-mounted), accelerometer, proximity, compass",     
+  "platform_os": "Android 9.0 (Pie), EMUI 9, no Google Play Services"
+}
+{
+  "oem": "Huawei",
+  "model": "P40 lite",
+  "launch_announced": "2020, February 27",
+  "launch_status": "Available. Released 2020, March 02",
+  "body_dimensions": "159.2 x 76.3 x 8.7 mm (6.27 x 3.00 x 0.34 in)",
+  "body_weight": "183 g (6.46 oz)",
+  "body_sim": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+  "display_type": "LTPS IPS LCD capacitive touchscreen, 16M colors",
+  "display_size": "6.4 inches, 101.4 cm (~83.5% screen-to-body ratio)",
+  "display_resolution": "1080 x 2310 pixels (~398 ppi density)",
+  "features_sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass",     
+  "platform_os": "Android 10, EMUI 10, no Google Play Services"
+}
+{
+  "oem": "Huawei",
+  "model": "MatePad Pro 5G",
+  "launch_announced": "2020, February 24",
+  "launch_status": "Available. Released 2020, May 27",
+  "body_dimensions": "246 x 159 x 7.2 mm (9.69 x 6.26 x 0.28 in)",
+  "body_weight": "460 g (1.01 lb)",
+  "body_sim": "Nano-SIM",
+  "display_type": "IPS LCD capacitive touchscreen, 16M colors",
+  "display_size": "10.8 inches, 338.2 cm (~86.5% screen-to-body ratio)",
+  "display_resolution": "2560 x 1600 pixels, 16:10 ratio (~280 ppi density)",
+  "features_sensors": "Accelerometer, gyro, proximity, compass",
+  "platform_os": "Android 10, EMUI 10, no Google Play Services"
+}
+{
+  "oem": "Huawei",
+  "model": "Mate Xs",
+  "launch_announced": "2020, February 24",
+  "launch_status": "Available. Released 2020, March 05",
+  "body_dimensions": "Unfolded: 161.3 x 146.2 x 5.4 mmFolded: 161.3 x 78.5 x 11 mm",       
+  "body_weight": "300 g (10.58 oz)",
+  "body_sim": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+  "display_type": "Foldable OLED capacitive touchscreen, 16M colors",
+  "display_size": "8.0 inches, 205.0 cm (~86.9% screen-to-body ratio)",
+  "display_resolution": "2200 x 2480 pixels (~414 ppi density)",
+  "features_sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer",
+  "platform_os": "Android 10, EMUI 10, no Google Play Services"
+}
+{
+  "oem": "Huawei",
+  "model": "P30 lite New Edition",
+  "launch_announced": "2020, January 14",
+  "launch_status": "Available. Released 2020, January 14",
+  "body_dimensions": "152.9 x 72.7 x 7.4 mm (6.02 x 2.86 x 0.29 in)",
+  "body_weight": "152.9 g (5.40 oz)",
+  "body_sim": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+  "display_type": "IPS LCD capacitive touchscreen, 16M colors",
+  "display_size": "6.15 inches, 93.6 cm (~84.2% screen-to-body ratio)",
+  "display_resolution": "1080 x 2312 pixels (~415 ppi density)",
+  "features_sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",
+  "platform_os": "Android 9.0 (Pie), EMUI 9.1"
+}
+{
+  "oem": "Huawei",
+  "model": "Y7p",
+  "launch_announced": "2020, February 07",
+  "launch_status": "Available. Released 2020, February 07",
+  "body_dimensions": "159.8 x 76.1 x 8.1 mm (6.29 x 3.00 x 0.32 in)",
+  "body_weight": "176 g (6.21 oz)",
+  "body_sim": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+  "display_type": "IPS LCD capacitive touchscreen, 16M colors",
+  "display_size": "6.39 inches, 100.2 cm (~82.4% screen-to-body ratio)",
+  "display_resolution": "720 x 1560 pixels, 19.5:9 ratio (~269 ppi density)",
+  "features_sensors": "Fingerprint (rear-mounted), accelerometer, proximity, compass",     
+  "platform_os": "Android 9.0 (Pie), EMUI 9, no Google Play Services"
+}
+{
+  "oem": "Huawei",
+  "model": "nova 7i",
+  "launch_announced": "2020, January 30",
+  "launch_status": "Available. Released 2020, February 14",
+  "body_dimensions": "159.2 x 76.3 x 8.7 mm (6.27 x 3.00 x 0.34 in)",
+  "body_weight": "183 g (6.46 oz)",
+  "body_sim": "Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",        
+  "display_type": "LTPS IPS LCD capacitive touchscreen, 16M colors",
+  "display_size": "6.4 inches, 101.4 cm (~83.5% screen-to-body ratio)",
+  "display_resolution": "1080 x 2310 pixels (~398 ppi density)",
+  "features_sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass",     
+  "platform_os": "Android 10, EMUI 10, no Google Play Services"
+}
+{
+  "oem": "Huawei",
+  "model": "Y6s (2019)",
+  "launch_announced": "2020, January 30",
+  "launch_status": "Available. Released 2020, May",
+  "body_dimensions": "156.3 x 73.5 x 8 mm (6.15 x 2.89 x 0.31 in)",
+  "body_weight": "150 g (5.29 oz)",
+  "body_sim": "Dual SIM (Nano-SIM, dual stand-by)",
+  "display_type": "IPS LCD capacitive touchscreen, 16M colors",
+  "display_size": "6.09 inches, 91.0 cm (~79.2% screen-to-body ratio)",
+  "display_resolution": "720 x 1560 pixels, 19.5:9 ratio (~282 ppi density)",
+  "features_sensors": "Fingerprint (rear-mounted), accelerometer, proximity",
+  "platform_os": "Android 9.0 (Pie), EMUI 9.1"
+}
+{
+  "oem": "Huawei",
+  "model": "P smart Pro 2019",
+  "launch_announced": "2019, December",
+  "launch_status": "Available. Released 2019, December",
+  "body_dimensions": "163.1 x 77.2 x 8.8 mm (6.42 x 3.04 x 0.35 in)",
+  "body_weight": "206 g (7.27 oz)",
+  "body_sim": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+  "display_type": "LTPS IPS LCD capacitive touchscreen, 16M colors",
+  "display_size": "6.59 inches, 106.6 cm (~84.7% screen-to-body ratio)",
+  "display_resolution": "1080 x 2340 pixels, 19.5:9 ratio (~391 ppi density)",
+  "features_sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+  "platform_os": "Android 9.0 (Pie), EMUI 9.1"
+}
+{
+  "oem": "Huawei",
+  "model": "nova 6 5G",
+  "launch_announced": "2019, December",
+  "launch_status": "Available. Released 2019, December",
+  "body_dimensions": "162.7 x 75.8 x 9 mm (6.41 x 2.98 x 0.35 in)",
+  "body_weight": "212 g (7.48 oz)",
+  "body_sim": "Dual SIM (Nano-SIM, dual stand-by)",
+  "display_type": "LTPS IPS LCD capacitive touchscreen, 16M colors",
+  "display_size": "6.57 inches, 104.2 cm (~84.5% screen-to-body ratio)",
+  "display_resolution": "1080 x 2400 pixels, 20:9 ratio (~401 ppi density)",
+  "features_sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+  "platform_os": "Android 10, EMUI 10"
+}
+{
+  "oem": "Huawei",
+  "model": "nova 6",
+  "launch_announced": "2019, December",
+  "launch_status": "Available. Released 2019, December",
+  "body_dimensions": "162.6 x 75.7 x 8.6 mm (6.40 x 2.98 x 0.34 in)",
+  "body_weight": "197 g (6.95 oz)",
+  "body_sim": "Dual SIM (Nano-SIM, dual stand-by)",
+  "display_type": "LTPS IPS LCD capacitive touchscreen, 16M colors",
+  "display_size": "6.57 inches, 104.2 cm (~84.7% screen-to-body ratio)",
+  "display_resolution": "1080 x 2400 pixels, 20:9 ratio (~401 ppi density)",
+  "features_sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compas" 
+,
+  "platform_os": "Android 10, EMUI 10, no Google Play Services"
+}
+{
+  "oem": "Huawei",
+  "model": "nova 6 SE",
+  "launch_announced": "2019, December",
+  "launch_status": "Available. Released 2019, December",
+  "body_dimensions": "159.2 x 76.3 x 8.7 mm (6.27 x 3.00 x 0.34 in)",
+  "body_weight": "183 g (6.46 oz)",
+  "body_sim": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+  "display_type": "LTPS IPS LCD capacitive touchscreen, 16M colors",
+  "display_size": "6.4 inches, 101.4 cm (~83.5% screen-to-body ratio)",
+  "display_resolution": "1080 x 2310 pixels (~398 ppi density)",
+  "features_sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+  "platform_os": "Android 10, EMUI 10, no Google Play Services"
+}
+{
+  "oem": "Huawei",
+  "model": "MatePad Pro",
+  "launch_announced": "2019, November 25",
+  "launch_status": "Available. Released 2019, December 12",
+  "body_dimensions": "246 x 159 x 7.2 mm (9.69 x 6.26 x 0.28 in)",
+  "body_weight": "460 g (1.01 lb)",
+  "body_sim": "Nano-SIM",
+  "display_type": "IPS LCD capacitive touchscreen, 16M colors",
+  "display_size": "10.8 inches, 338.2 cm (~86.5% screen-to-body ratio)",
+  "display_resolution": "2560 x 1600 pixels, 16:10 ratio (~280 ppi density)",
+  "features_sensors": "Accelerometer, gyro, proximity, compass",
+  "platform_os": "Android 10, EMUI 10, no Google Play Services"
+}
+{
+  "oem": "Huawei",
+  "model": "Y9s",
+  "launch_announced": "2019, November 08",
+  "launch_status": "Available. Released 2019, November 08",
+  "body_dimensions": "163.1 x 77.2 x 8.8 mm (6.42 x 3.04 x 0.35 in)",
+  "body_weight": "206 g (7.27 oz)",
+  "body_sim": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+  "display_type": "LTPS IPS LCD capacitive touchscreen, 16M colors",
+  "display_size": "6.59 inches, 106.6 cm (~84.7% screen-to-body ratio)",
+  "display_resolution": "1080 x 2340 pixels, 19.5:9 ratio (~391 ppi density)",
+  "features_sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+  "platform_os": "Android 9.0 (Pie), EMUI 9.1"
+}
+{
+  "oem": "Huawei",
+  "model": "nova 5z",
+  "launch_announced": "2019, October",
+  "launch_status": "Available. Released 2019, November",
+  "body_dimensions": "156.1 x 73.9 x 8.3 mm (6.15 x 2.91 x 0.33 in)",
+  "body_weight": "178 g (6.28 oz)",
+  "body_sim": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+  "display_type": "LTPS IPS LCD capacitive touchscreen, 16M colors",
+  "display_size": "6.26 inches, 96.2 cm (~83.4% screen-to-body ratio)",
+  "display_resolution": "1080 x 2340 pixels, 19.5:9 ratio (~412 ppi density)",
+  "features_sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",
+  "platform_os": "Android 9.0 (Pie), EMUI 9.1"
+}
+{
+  "oem": "Huawei",
+  "model": "Enjoy 10s",
+  "launch_announced": "2019, October 28",
+  "launch_status": "Available. Released 2019, November",
+  "body_dimensions": "157.4 x 73.2 x 7.8 mm (6.20 x 2.88 x 0.31 in)",
+  "body_weight": "163 g (5.75 oz)",
+  "body_sim": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+  "display_type": "OLED capacitive touchscreen, 16M colors",
+  "display_size": "6.3 inches, 95.8 cm (~83.2% screen-to-body ratio)",
+  "display_resolution": "1080 x 2400 pixels, 20:9 ratio (~418 ppi density)",
+  "features_sensors": "Fingerprint (under display, optical), accelerometer, proximity, compass",
+  "platform_os": "Android 9.0 (Pie), EMUI 9.1"
+}
+{
+  "oem": "Huawei",
+  "model": "Enjoy 10",
+  "launch_announced": "2019, October",
+  "launch_status": "Available. Released 2019, November",
+  "body_dimensions": "159.8 x 76.1 x 8.1 mm (6.29 x 3.00 x 0.32 in)",
+  "body_weight": "176 g (6.21 oz)",
+  "body_sim": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+  "display_type": "IPS LCD capacitive touchscreen, 16M colors",
+  "display_size": "6.39 inches, 100.2 cm (~82.4% screen-to-body ratio)",
+  "display_resolution": "720 x 1560 pixels, 19.5:9 ratio (~269 ppi density)",
+  "features_sensors": "Accelerometer, proximity, compass",
+  "platform_os": "Android 9.0 (Pie), EMUI 9.1"
+}
+{
+  "oem": "Huawei",
+  "model": "Mate 30 RS Porsche Design",
+  "launch_announced": "2019, September",
+  "launch_status": "Available. Released 2019, November",
+  "body_dimensions": "158.1 x 73.1 x 9.3 mm (6.22 x 2.88 x 0.37 in)",
+  "body_weight": "198 g (6.98 oz)",
+  "body_sim": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+  "display_type": "OLED capacitive touchscreen, 16M colors",
+  "display_size": "6.53 inches, 108.7 cm (~94.1% screen-to-body ratio)",
+  "display_resolution": "1176 x 2400 pixels, 18.5:9 ratio (~409 ppi density)",
+  "features_sensors": "Face ID, fingerprint (under display, optical), accelerometer, gyro, 
+proximity, barometer, compass",
+  "platform_os": "Android 10, EMUI 10"
+}
+{
+  "oem": "Huawei",
+  "model": "Mate 30 Pro 5G",
+  "launch_announced": "2019, September 19",
+  "launch_status": "Available. Released 2019, October 23",
+  "body_dimensions": "158.1 x 73.1 x 8.8 mm (6.22 x 2.88 x 0.35 in)",
+  "body_weight": "198 g (6.98 oz)",
+  "body_sim": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+  "display_type": "OLED capacitive touchscreen, 16M colors",
+  "display_size": "6.53 inches, 108.7 cm (~94.1% screen-to-body ratio)",
+  "display_resolution": "1176 x 2400 pixels, 18.5:9 ratio (~409 ppi density)",
+  "features_sensors": "Face ID, fingerprint (under display, optical), accelerometer, gyro, 
+proximity, barometer, compass",
+  "platform_os": "Android 10, EMUI 10"
+}
+{
+  "oem": "Huawei",
+  "model": "Mate 30 Pro",
+  "launch_announced": "2019, September 19",
+  "launch_status": "Available. Released 2019, September 26",
+  "body_dimensions": "158.1 x 73.1 x 8.8 mm (6.22 x 2.88 x 0.35 in)",
+  "body_weight": "198 g (6.98 oz)",
+  "body_sim": "Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",        
+  "display_type": "OLED capacitive touchscreen, 16M colors",
+  "display_size": "6.53 inches, 108.7 cm (~94.1% screen-to-body ratio)",
+  "display_resolution": "1176 x 2400 pixels, 18.5:9 ratio (~409 ppi density)",
+  "features_sensors": "Face ID, fingerprint (under display, optical), accelerometer, gyro, 
+proximity, barometer, compass",
+  "platform_os": "Android 10, EMUI 10"
+}
+{
+  "oem": "Huawei",
+  "model": "Mate 30 5G",
+  "launch_announced": "2019, September",
+  "launch_status": "Available. Released 2019, October",
+  "body_dimensions": "160.8 x 76.1 x 8.4 mm (6.33 x 3.00 x 0.33 in)",
+  "body_weight": "196 g (6.91 oz)",
+  "body_sim": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+  "display_type": "OLED capacitive touchscreen, 16M colors",
+  "display_size": "6.62 inches, 107.6 cm (~87.9% screen-to-body ratio)",
+  "display_resolution": "1080 x 2340 pixels, 19.5:9 ratio (~389 ppi density)",
+  "features_sensors": "Face ID, fingerprint (under display, optical), accelerometer, gyro, 
+proximity, barometer, compass",
+  "platform_os": "Android 10, EMUI 10"
+}
+{
+  "oem": "Huawei",
+  "model": "Mate 30",
+  "launch_announced": "2019, September",
+  "launch_status": "Available. Released 2019, September",
+  "body_dimensions": "160.8 x 76.1 x 8.4 mm (6.33 x 3.00 x 0.33 in)",
+  "body_weight": "196 g (6.91 oz)",
+  "body_sim": "Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",        
+  "display_type": "OLED capacitive touchscreen, 16M colors",
+  "display_size": "6.62 inches, 107.6 cm (~87.9% screen-to-body ratio)",
+  "display_resolution": "1080 x 2340 pixels, 19.5:9 ratio (~389 ppi density)",
+  "features_sensors": "Face ID, fingerprint (under display, optical), accelerometer, gyro, 
+proximity, barometer, compass",
+  "platform_os": "Android 10, EMUI 10"
+}
+{
+  "oem": "Huawei",
+  "model": "Watch GT 2",
+  "launch_announced": "2019, September",
+  "launch_status": "Available. Released 2019, October",
+  "body_dimensions": "45.9 x 45.9 x 10.7 mm (1.81 x 1.81 x 0.42 in)",
+  "body_weight": "41 g (1.45 oz)",
+  "body_sim": "No",
+  "display_type": "OLED capacitive touchscreen, 16M colors",
+  "display_size": "1.39 inches, 12.5 cm (~59.4% screen-to-body ratio)",
+  "display_resolution": "454 x 454 pixels, 1:1 ratio (~326 ppi density)",
+  "features_sensors": "Accelerometer, gyro, heart rate, barometer, compass",
+  "platform_os": "Huawei wearable platform"
+}
+{
+  "oem": "Huawei",
+  "model": "nova 5i Pro",
+  "launch_announced": "2019, July",
+  "launch_status": "Available. Released 2019, July",
+  "body_dimensions": "156.1 x 73.9 x 8.3 mm (6.15 x 2.91 x 0.33 in)",
+  "body_weight": "178 g (6.28 oz)",
+  "body_sim": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+  "display_type": "LTPS IPS LCD capacitive touchscreen, 16M colors",
+  "display_size": "6.26 inches, 96.2 cm (~83.4% screen-to-body ratio)",
+  "display_resolution": "1080 x 2340 pixels, 19.5:9 ratio (~412 ppi density)",
+  "features_sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",
+  "platform_os": "Android 9.0 (Pie), EMUI 9.1"
+}
+{
+  "oem": "Huawei",
+  "model": "Enjoy 10 Plus",
+  "launch_announced": "2019, September",
+  "launch_status": "Available. Released 2019, September",
+  "body_dimensions": "163.5 x 77.3 x 8.8 mm (6.44 x 3.04 x 0.35 in)",
+  "body_weight": "163.5 g (5.78 oz)",
+  "body_sim": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+  "display_type": "IPS LCD capacitive touchscreen, 16M colors",
+  "display_size": "6.59 inches, 106.6 cm (~84.3% screen-to-body ratio)",
+  "display_resolution": "1080 x 2340 pixels, 19.5:9 ratio (~391 ppi density)",
+  "features_sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",
+  "platform_os": "Android 9.0 (Pie), EMUI 9.1"
+}
+{
+  "oem": "Huawei",
+  "model": "nova 5T",
+  "launch_announced": "2019, August 27",
+  "launch_status": "Available. Released 2019, September 05",
+  "body_dimensions": "154.3 x 74 x 7.8 mm (6.07 x 2.91 x 0.31 in)",
+  "body_weight": "174 g (6.14 oz)",
+  "body_sim": "Dual SIM (Nano-SIM, dual stand-by)",
+  "display_type": "IPS LCD capacitive touchscreen, 16M colors",
+  "display_size": "6.26 inches, 96.2 cm (~84.2% screen-to-body ratio)",
+  "display_resolution": "1080 x 2340 pixels, 19.5:9 ratio (~412 ppi density)",
+  "features_sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+  "platform_os": "Android 9.0 (Pie), upgradable to Android 10, EMUI 10"
+}
+{
+  "oem": "Huawei",
+  "model": "MediaPad M6 10.8",
+  "launch_announced": "2019, June",
+  "launch_status": "Available. Released 2019, July 10",
+  "body_dimensions": "257 x 170 x 7.2 mm (10.12 x 6.69 x 0.28 in)",
+  "body_weight": "498 g (1.10 lb)",
+  "body_sim": "Nano-SIM",
+  "display_type": "IPS LCD capacitive touchscreen, 16M colors",
+  "display_size": "10.8 inches, 338.2 cm (~77.4% screen-to-body ratio)",
+  "display_resolution": "2560 x 1600 pixels, 16:10 ratio (~280 ppi density)",
+  "features_sensors": "Fingerprint (front-mounted), accelerometer, gyro, proximity, compass",
+  "platform_os": "Android 9.0 (Pie), EMUI 9.1"
+}
+{
+  "oem": "Huawei",
+  "model": "MediaPad M6 Turbo 8.4",
+  "launch_announced": "2019, September",
+  "launch_status": "Available. Released 2019, September",
+  "body_dimensions": "206.4 x 125.2 x 8.2 mm (8.13 x 4.93 x 0.32 in)",
+  "body_weight": "340 g (11.99 oz)",
+  "body_sim": "Nano-SIM",
+  "display_type": "IPS LCD capacitive touchscreen, 16M colors",
+  "display_size": "8.4 inches, 204.6 cm (~79.2% screen-to-body ratio)",
+  "display_resolution": "2560 x 1600 pixels, 16:10 ratio (~359 ppi density)",
+  "features_sensors": "Accelerometer, gyro, proximity, compass",
+  "platform_os": "Android 9.0 (Pie), EMUI 9.1"
+}
+{
+  "oem": "Huawei",
+  "model": "MediaPad M6 8.4",
+  "launch_announced": "2019, June",
+  "launch_status": "Available. Released 2019, July",
+  "body_dimensions": "206.4 x 125.2 x 7.4 mm (8.13 x 4.93 x 0.29 in)",
+  "body_weight": "320 g (11.29 oz)",
+  "body_sim": "Nano-SIM",
+  "display_type": "IPS LCD capacitive touchscreen, 16M colors",
+  "display_size": "8.4 inches, 204.6 cm (~79.2% screen-to-body ratio)",
+  "display_resolution": "2560 x 1600 pixels, 16:10 ratio (~359 ppi density)",
+  "features_sensors": "Accelerometer, gyro, proximity, compass",
+  "platform_os": "Android 9.0 (Pie), EMUI 9.1"
+}
+{
+  "oem": "Huawei",
+  "model": "nova 5 Pro",
+  "launch_announced": "2019, June",
+  "launch_status": "Available. Released 2019, June",
+  "body_dimensions": "157.4 x 74.8 x 7.3 mm (6.20 x 2.94 x 0.29 in)",
+  "body_weight": "171 g (6.03 oz)",
+  "body_sim": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+  "display_type": "OLED capacitive touchscreen, 16M colors",
+  "display_size": "6.39 inches, 100.2 cm (~85.1% screen-to-body ratio)",
+  "display_resolution": "1080 x 2340 pixels, 19.5:9 ratio (~403 ppi density)",
+  "features_sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+  "platform_os": "Android 9.0 (Pie), EMUI 9.1"
+}
+{
+  "oem": "Huawei",
+  "model": "nova 5",
+  "launch_announced": "2019, June",
+  "launch_status": "Available. Released 2019, June",
+  "body_dimensions": "157.4 x 74.8 x 7.3 mm (6.20 x 2.94 x 0.29 in)",
+  "body_weight": "171 g (6.03 oz)",
+  "body_sim": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+  "display_type": "OLED capacitive touchscreen, 16M colors",
+  "display_size": "6.39 inches, 100.2 cm (~85.1% screen-to-body ratio)",
+  "display_resolution": "1080 x 2340 pixels, 19.5:9 ratio (~403 ppi density)",
+  "features_sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+  "platform_os": "Android 9.0 (Pie), EMUI 9.1"
+}
+{
+  "oem": "Huawei",
+  "model": "nova 5i",
+  "launch_announced": "2019, June",
+  "launch_status": "Available. Released 2019, June",
+  "body_dimensions": "159.1 x 75.9 x 8.3 mm (6.26 x 2.99 x 0.33 in)",
+  "body_weight": "178 g (6.28 oz)",
+  "body_sim": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+  "display_type": "IPS LCD capacitive touchscreen, 16M colors",
+  "display_size": "6.4 inches, 101.4 cm (~84.0% screen-to-body ratio)",
+  "display_resolution": "1080 x 2310 pixels (~398 ppi density)",
+  "features_sensors": "Fingerprint (rear-mounted), accelerometer, proximity, compass",     
+  "platform_os": "Android 9.0 (Pie), EMUI 9.1"
+}
+{
+  "oem": "Huawei",
+  "model": "Y9 Prime (2019)",
+  "launch_announced": "2019, August 01",
+  "launch_status": "Available. Released 2019, August 05",
+  "body_dimensions": "163.5 x 77.3 x 8.9 mm (6.44 x 3.04 x 0.35 in)",
+  "body_weight": "196.8 g (6.95 oz)",
+  "body_sim": "Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)",
+  "display_type": "LTPS IPS LCD capacitive touchscreen, 16M colors",
+  "display_size": "6.59 inches, 106.6 cm (~84.3% screen-to-body ratio)",
+  "display_resolution": "1080 x 2340 pixels, 19.5:9 ratio (~391 ppi density)",
+  "features_sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compas" 
+,
+  "platform_os": "Android 9.0 (Pie), upgradable to Android 10, Magic UI 2.1"
+}
+{
+  "oem": "Huawei",
+  "model": "P20 lite (2019)",
+  "launch_announced": "2019, June",
+  "launch_status": "Available. Released 2019, July",
+  "body_dimensions": "159.1 x 75.9 x 8.3 mm (6.26 x 2.99 x 0.33 in)",
+  "body_weight": "178 g (6.28 oz)",
+  "body_sim": "Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",        
+  "display_type": "LTPS IPS LCD capacitive touchscreen, 16M colors",
+  "display_size": "6.4 inches, 101.4 cm (~84.0% screen-to-body ratio)",
+  "display_resolution": "1080 x 2310 pixels (~398 ppi density)",
+  "features_sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",
+  "platform_os": "Android 9.0 (Pie), EMUI 9.1"
+}
+{
+  "oem": "Huawei",
+  "model": "P Smart Z",
+  "launch_announced": "2019, May",
+  "launch_status": "Available. Released 2019, June",
+  "body_dimensions": "163.5 x 77.3 x 8.8 mm (6.44 x 3.04 x 0.35 in)",
+  "body_weight": "196.8 g (6.95 oz)",
+  "body_sim": "Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",        
+  "display_type": "LTPS IPS LCD capacitive touchscreen, 16M colors",
+  "display_size": "6.59 inches, 106.6 cm (~84.3% screen-to-body ratio)",
+  "display_resolution": "1080 x 2340 pixels, 19.5:9 ratio (~391 ppi density)",
+  "features_sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",
+  "platform_os": "Android 9.0 (Pie), EMUI 9"
+}
+{
+  "oem": "Huawei",
+  "model": "Mate 20 X (5G)",
+  "launch_announced": "2019, May",
+  "launch_status": "Available. Released 2019, July",
+  "body_dimensions": "174.6 x 85.4 x 8.4 mm (6.87 x 3.36 x 0.33 in)",
+  "body_weight": "233 g (8.22 oz)",
+  "body_sim": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+  "display_type": "OLED capacitive touchscreen, 16M colors",
+  "display_size": "7.2 inches, 130.7 cm (~87.6% screen-to-body ratio)",
+  "display_resolution": "1080 x 2244 pixels, 18.7:9 ratio (~346 ppi density)",
+  "features_sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, barometer, compass",
+  "platform_os": "Android 9.0 (Pie), EMUI 9.1"
+}
+{
+  "oem": "Huawei",
+  "model": "Y5 (2019)",
+  "launch_announced": "2019, April 24",
+  "launch_status": "Available. Released 2019, April 24",
+  "body_dimensions": "147.1 x 70.8 x 8.5 mm (5.79 x 2.79 x 0.33 in)",
+  "body_weight": "146 g (5.15 oz)",
+  "body_sim": "Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)",
+  "display_type": "IPS LCD capacitive touchscreen, 16M colors",
+  "display_size": "5.71 inches, 81.4 cm (~78.1% screen-to-body ratio)",
+  "display_resolution": "720 x 1520 pixels, 19:9 ratio (~295 ppi density)",
+  "features_sensors": "Accelerometer, proximity",
+  "platform_os": "Android 9.0 (Pie), EMUI 9.1"
+}
+CSV file succesfully read
