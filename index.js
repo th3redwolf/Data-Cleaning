@@ -121,15 +121,125 @@ class Cell {
     }
 }
 
-// new object to store Cell objects
-// const cells = new Map();
+// new Map to store Cell objects
+const cellMap = new Map();
 
 // readable stream from 'cells.csv'
 fs.createReadStream('cells.csv')
     
     .pipe(csv()) // converting csv data into js objects 
     .on('data', (row) => { // 'data' event for each row
+
+        // cleaning all data
+
+        // oem
+        if (!row.oem || row.oem.trim() === '' || row.oem.trim() === '-'){
+            row.oem = null;
+        }
+        else {row.oem = row.oem.replace(/-/g, ' ');} // replace all (g/lobal) dashes with space
         
+        // model
+        if (!row.model || row.model.trim() === '' || row.oem.trim() === '-'){
+            row.model = null;
+        }
+        else {row.model = row.model.replace(/-/g, ' ');}
+        
+        // launch anounced
+        if (row.launch_announced) {
+            // matching sequence with 4 digits (d{4}), \b\b = boundary
+            let year = row.launch_announced.match(/\b\d{4}\b/);
+            if (year) {
+                row.launch_announced = Number(year[0]); // string to numb
+            }
+            else {row.launch_announced = null;}
+        }
+        else {row.launch_announced = null;}
+        
+        // launch status
+        if (row.launch_status) {
+
+            // let year = row.launch_status.match(/\b\d{4}\b/);
+            // let disc = row.launch_status.match('Discontinued');
+            // let cancl = row.launch_status.match('Cancelled');
+            if (row.launch_status === 'Discontinued' || row.launch_status === 'Cancelled') {
+                // we leave as is
+            }
+            else {
+                let year = row.launch_status.match(/\b\d{4}\b/);
+                if (year) {row.launch_status = Number(year[0]);}
+                else {row.launch_status = null;}
+            }
+        }
+        else {row.launch_status = null;}
+        
+        // body dimensions
+        if (!row.body_dimensions || row.body_dimensions.trim() === '' || row.body_dimensions.trim() === '-') {
+            row.body_dimensions = null;
+        }
+        else {row.body_dimensions = row.body_dimensions.replace(/-/g, ' ');}
+        
+        // body weight
+        if (row.body_weight && row.body_weight.trim() !== '-') {
+            // extracting numeric part, matching 1 or more digits (\d+), and continuing check for decimals (.\d+?)
+            let weight = row.body_weight.match(/\d+(\.\d+)?/); 
+            if (weight) {
+                // converting string to number (inclduing decimals (\.\d+)?)
+                row.body_weight = Number(weight[0]); 
+            }
+            else {row.body_weight = null;}
+        }
+        else {row.body_weight = null;}
+        
+        // body sim
+        if (!row.body_sim || row.body_sim === 'No' || row.body_sim === 'Yes' || row.body_sim.trim() === '' || row.body_sim.trim() === '-') {
+            row.body_sim = null;
+        }
+        else {row.body_sim = row.body_sim.replace(/[()]/g, '').replace(/-/g, ' ');} // remove (), replace dashes
+
+        // display type
+        if (!row.display_type || row.display_type.trim() === '') {
+            row.display_type = null;
+        }
+        else {row.display_type = row.display_type.replace(/[^a-zA-Z0-9 ]/g, '');} // regex allows only alphanumerics (^) and spaces
+
+        // display_size
+        if (!row.display_size || row.display_size.trim() === '' || !isNaN(row.display_size)) {
+            row.display_size = null;
+        }
+        else {
+            // row.display_size = row.display_size.replace(/[()]/g, '').replace(/-/g, ' ');
+            // let size = parseFloat(row.display_size);
+            let size = row.display_size.match(/[\d\.]+ inches/);
+            if (size){
+                let numeric = size[0].split(" ")[0];
+                let float = parseFloat(numeric); // converting string to float
+                row.display_size = isNaN(float) ? null : numeric; // wasn't sure if to add the word 'inches' or not
+            }
+            else {row.display_size = null;}
+        }
+
+        // display resolution
+        if (!row.display_resolution || row.display_resolution.trim() === ''){
+            row.display_resolution = null;
+        }
+        // else {row.display_resolution = row.display_resolution.replace(/[^a-zA-Z0-9 ]/g, '');}
+
+        // features sensors
+        if (!row.features_sensors || row.features_sensors.trim() === '' || !isNaN(row.features_sensors) && row.features_sensors !== 'V1') {
+            row.features_sensors = null;
+        }
+        else {row.features_sensors = row.features_sensors.replace(/[^a-zA-Z0-9 ]/g, '');}
+
+        // platform os
+        if (!row.platform_os || row.platform_os.trim() === '' || !isNaN(row.platform_os)){
+            row.platform_os = null;
+        }
+        else {
+            // splitting entire string at first comma into substrings, then taking only first part [0] before comma
+            let os = row.platform_os.split(',')[0].trim(); 
+            row.platform_os = os;
+        }
+
         const cell = new Cell(row.oem, row.model, row.launch_announced, row.launch_status, row.body_dimensions, row.body_weight, row.body_sim, row.display_type, row.display_size, row.display_resolution, row.features_sensors, row.platform_os);
         // console.log(cell); // printing each cell row
         console.log(JSON.stringify(cell, null, 2)); // printing each cell row
@@ -137,3 +247,13 @@ fs.createReadStream('cells.csv')
     .on('end', () => {
         console.log('CSV file succesfully read');
     });
+
+
+
+    // display type: took commas out
+    // display size: cuts of anything after inches included
+    // features_sensors: took out commas
+
+
+
+    
