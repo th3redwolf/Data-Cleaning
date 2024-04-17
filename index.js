@@ -123,6 +123,7 @@ class Cell {
 
 // new Map to store Cell objects
 const cellMap = new Map();
+let index = 0;
 
 // readable stream from 'cells.csv'
 fs.createReadStream('cells.csv')
@@ -241,10 +242,15 @@ fs.createReadStream('cells.csv')
         }
 
         const cell = new Cell(row.oem, row.model, row.launch_announced, row.launch_status, row.body_dimensions, row.body_weight, row.body_sim, row.display_type, row.display_size, row.display_resolution, row.features_sensors, row.platform_os);
-        // console.log(cell); // printing each cell row
-        console.log(JSON.stringify(cell, null, 2)); // printing each cell row
+        cellMap.set(index, cell);
+        index++;
+
+        //console.log(JSON.stringify(cell, null, 2)); // printing each cell row
+        console.log(JSON.stringify(Array.from(cellMap.entries()), null, 2));
+
     })
     .on('end', () => {
+        //console.log(cellMap);
         console.log('CSV file succesfully read');
     });
 
