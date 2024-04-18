@@ -1,5 +1,6 @@
 const fs = require('fs'); // Importing file system
 const csv = require('csv-parser'); // Importing csv-parser
+const { isArrayBufferView } = require('util/types');
 
 class Cell {
 
@@ -137,19 +138,57 @@ class Cell {
                 Platform OS: ${this.platform_os}`;
     }
 
-    // mean weight
+    // mean weight of 1 individual oem
     static calcMeanWeight(cells, oem) {
-        // filtering through all same brand (oem) phones, 
-        // the mapping through / getting each weight into array weights
-        let weights = cells.filter(cell => cell.oem === oem).map(cell => cell.body_weight);
+        // filtering through all phones, 
+        // then mapping through / getting each weight into array weights
+        // + making sure weight is a number
+        let weights = cells
+            .filter(cell => cell.oem === oem && !isNaN(cell.body_weight))
+            .map(cell => parseFloat(cell.body_weight));
+        if (weights.length === 0){
+            return 0;
+        }
         // a = accumulator, b = 1st element in array, 0 = initial value (a)
         let sum = weights.reduce((a, b) => a + b, 0); 
         return sum / weights.length;
     }
 
+    // Q1 highest average weight
+    static highestAvgWeight(cells) {
+        // mapping in array all oems
+        let oems = [...new Set(cells.map(cell => cell.oem))];
+        let maxAvgWeight = 0;
+        let maxOem = '';
+
+        // getting each avg weight by calling calcMeanWeight()
+        // getting highest avg weight by comparing 
+        for (let oem of oems) {
+            let avgWeight = Cell.calcMeanWeight(cells, oem);
+            if (avgWeight > maxAvgWeight) {
+                maxAvgWeight = avgWeight;
+                maxOem = oem;
+            }
+        }
+        return {oem: maxOem, weight: maxAvgWeight};
+    }
+
     // delayed launches (released in different year than announced)
     static delayedLaunches(cells) {
-        return cells.filter(cell => cell.launch_announced != cell.launch_status);
+        let delayedPhones = [];
+
+        for (let cell of cells) {
+            // retrieving dates (years) with getFullYear method
+            let yearAnnounced = new Date(cell['launch_announced']).getFullYear();
+            let yearStatus = new Date(cell['launch_status']).getFullYear();
+
+            if (yearAnnounced !== yearStatus) {
+                // checking which years differ, saving OEM and model of each
+                delayedPhones.push(`OEM: ${cell['oem']}, Model: ${cell['model']}`);
+            }
+        }
+
+        return delayedPhones.join('\n')
     }
 
     // feature sensor counter
@@ -317,7 +356,7 @@ fs.createReadStream('cells.csv')
         index++;
 
         //console.log(JSON.stringify(cell, null, 2)); // printing each cell row
-        console.log(JSON.stringify(Array.from(cellMap.entries()), null, 2));
+        // console.log(JSON.stringify(Array.from(cellMap.entries()), null, 2));
 
     })
     .on('end', () => {
@@ -326,6 +365,23 @@ fs.createReadStream('cells.csv')
 
         // converting cellMap to array of Cell (class) objects
         let cells = Array.from(cellMap.values());
+
+        // 4 questions
+
+        // delayed launches, oem + models
+        let launchDelayed = Cell.delayedLaunches(cells);
+        // OEM with highest average weight
+        let avgWeightHighest = Cell.highestAvgWeight(cells);
+        // how many have one feature sensor
+        let singleSensorAmount = Cell.oneFeatureSensor(cells);
+        // year with most phones launched
+        let mostLaunches = Cell.mostLaunchesYear(cells);
+
+        // displaying results
+        console.log(`\nLaunched different Year:\n\n${launchDelayed}`);
+        console.log(`\nOEM with Highest Average Weight: ${avgWeightHighest.oem}, Weight: ${avgWeightHighest.weight}`);
+        console.log(`\nNumber of phones with 1 Feature Sensor: ${singleSensorAmount}`);
+        console.log(`\nYear with most launches: ${mostLaunches}`);
     });
 
 
