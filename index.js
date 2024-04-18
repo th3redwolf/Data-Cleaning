@@ -1,6 +1,5 @@
 const fs = require('fs'); // Importing file system
 const csv = require('csv-parser'); // Importing csv-parser
-const { isArrayBufferView } = require('util/types');
 
 class Cell {
 
@@ -480,9 +479,9 @@ fs.createReadStream('cells.csv')
 
         // displaying results
         console.log(`\nLaunched different Year:\n\n${launchDelayed}`);
-        console.log(`\nOEM with Highest Average Weight: ${avgWeightHighest.oem}, Weight: ${avgWeightHighest.weight}`);
-        console.log(`\nNumber of phones with 1 Feature Sensor: ${singleSensorAmount}`);
-        console.log(`\nYear with most launches: ${mostLaunches}`);
+        //console.log(`\nOEM with Highest Average Weight: ${avgWeightHighest.oem},\nWeight: ${avgWeightHighest.weight}`);
+        //console.log(`\nNumber of phones with 1 Feature Sensor: ${singleSensorAmount}`);
+        //console.log(`\nYear with most launches: ${mostLaunches}`);
     });
 
 
