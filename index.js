@@ -486,5 +486,5 @@ fs.createReadStream('cells.csv')
     });
 
 
-
-    
+module.exports = {cellMap, Cell};
+// module.exports = {cellMap, calcMeanWeight, highestAvgWeight, delayedLaunches, oneFeatureSensor, mostLaunchesYear, uniqueValues, calcMedian};
