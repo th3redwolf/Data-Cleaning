@@ -120,7 +120,7 @@ class Cell {
         }
     }
 
-    // 7 methods / functions
+    // 8 methods / functions
 
     // each column convert to string for printing
     // with js 'toString()' method
@@ -140,51 +140,78 @@ class Cell {
 
     // mean weight of 1 individual oem
     static calcMeanWeight(cells, oem) {
-        // filtering through all phones, 
-        // then mapping through / getting each weight into array weights
-        // + making sure weight is a number
-        let weights = cells
-            .filter(cell => cell.oem === oem && !isNaN(cell.body_weight))
-            .map(cell => parseFloat(cell.body_weight));
-        if (weights.length === 0){
-            return 0;
+        // some basic error handling
+        if (typeof oem !== 'string'){
+            throw new Error('oem should be a string');
         }
-        // a = accumulator, b = 1st element in array, 0 = initial value (a)
-        let sum = weights.reduce((a, b) => a + b, 0); 
-        return sum / weights.length;
+        try {
+            // filtering through all phones, 
+            // then mapping through / getting each weight into array weights
+            // + making sure weight is a number
+            let weights = cells
+                .filter(cell => cell.oem === oem && !isNaN(cell.body_weight))
+                .map(cell => parseFloat(cell.body_weight));
+            if (weights.length === 0){
+                return 0;
+            }
+            // a = accumulator, b = 1st element in array, 0 = initial value (a)
+            let sum = weights.reduce((a, b) => a + b, 0); 
+            return sum / weights.length;
+        }
+        catch (error) {
+            console.error(`There was an error calculating mean weight: ${error.message}`);
+        }
     }
 
     // Q1 highest average weight
     static highestAvgWeight(cells) {
-        // mapping in array all oems
-        let oems = [...new Set(cells.map(cell => cell.oem))];
-        let maxAvgWeight = 0;
-        let maxOem = '';
-
-        // getting each avg weight by calling calcMeanWeight()
-        // getting highest avg weight by comparing 
-        for (let oem of oems) {
-            let avgWeight = Cell.calcMeanWeight(cells, oem);
-            if (avgWeight > maxAvgWeight) {
-                maxAvgWeight = avgWeight;
-                maxOem = oem;
+        try {
+            if (!Array.isArray(cells)) {
+                throw new Error('input should be an array');
             }
+            // mapping in array all oems
+            let oems = [...new Set(cells.map(cell => cell.oem))];
+            let maxAvgWeight = 0;
+            let maxOem = '';
+
+            // getting each avg weight by calling calcMeanWeight()
+            // getting highest avg weight by comparing 
+            for (let oem of oems) {
+                let avgWeight = Cell.calcMeanWeight(cells, oem);
+                if (avgWeight > maxAvgWeight) {
+                    maxAvgWeight = avgWeight;
+                    maxOem = oem;
+                }
+            }
+            return {oem: maxOem, weight: maxAvgWeight};
         }
-        return {oem: maxOem, weight: maxAvgWeight};
+        catch (error) {
+            console.error(`error finding highest avg weight: ${error.message}`);
+        }
     }
 
     // delayed launches (released in different year than announced)
     static delayedLaunches(cells) {
+        // some error handling
+        if (!Array.isArray(cells)) {
+            throw new Error('Input should be an array');
+        }
         let delayedPhones = [];
 
         for (let cell of cells) {
-            // retrieving dates (years) with getFullYear method
-            let yearAnnounced = new Date(cell['launch_announced']).getFullYear();
-            let yearStatus = new Date(cell['launch_status']).getFullYear();
+            // error handling
+            try {
+                // retrieving dates (years) with getFullYear method
+                let yearAnnounced = new Date(cell['launch_announced']).getFullYear();
+                let yearStatus = new Date(cell['launch_status']).getFullYear();
 
-            if (yearAnnounced !== yearStatus) {
-                // checking which years differ, saving OEM and model of each
-                delayedPhones.push(`OEM: ${cell['oem']}, Model: ${cell['model']}`);
+                if (yearAnnounced !== yearStatus) {
+                    // checking which years differ, saving OEM and model of each
+                    delayedPhones.push(`OEM: ${cell['oem']}, Model: ${cell['model']}`);
+                }
+            }
+            catch (error) {
+                console.error(`Error when processing cell: ${error.message}`);
             }
         }
 
@@ -212,22 +239,44 @@ class Cell {
 
     // unique column values
     static uniqueValues(cells, column) {
-        // mapping new array containing values of column
-        // 'Set' only allows unique values, duplicates are discarded
-        // using spread op to create new array from Set (Set object != arrays)
-        return [...new Set(cells.map(cell => cell[column]))];
+        try {
+            if (!Array.isArray(cells)){
+                throw new Error('input shouldve been an array');
+            }
+            if (typeof column !== 'string'){
+                throw new Error('column should be a string');
+            }
+            // mapping new array containing values of column
+            // 'Set' only allows unique values, duplicates are discarded
+            // using spread op to create new array from Set (Set object != arrays)
+            return [...new Set(cells.map(cell => cell[column]))];
+        }
+        catch (error) {
+            console.error(`error retrieving unique values: ${error.message}`);
+        }
     } 
 
     // calc median
     static calcMedian(cells, column) {
-        // for median first need to sort (ascending order)
-        let values = cells.map(cell => cell[column]).sort((a, b) => a - b);
-        // then can get mid point
-        let mid = Math.floor(values.length / 2);
-        // then if entire length has no remainder (even), 
-        // add both mid points & divide by 2 to get median,
-        // if remainder (odd) midpoint = median
-        return values.length % 2 === 0 ? (values[mid -1] + values[mid + 1]) / 2 : values[mid];
+        try {
+            if (!Array.isArray(cells)) {
+                throw new Error('expected an array');
+            }
+            if (typeof column !== 'string'){
+                throw new Error('expected column to be a string');
+            }
+            // for median first need to sort (ascending order)
+            let values = cells.map(cell => cell[column]).sort((a, b) => a - b);
+            // then can get mid point
+            let mid = Math.floor(values.length / 2);
+            // then if entire length has no remainder (even), 
+            // add both mid points & divide by 2 to get median,
+            // if remainder (odd) midpoint = median
+            return values.length % 2 === 0 ? (values[mid -1] + values[mid + 1]) / 2 : values[mid];
+        }
+        catch (error) {
+            console.error(`error when calculating the median: ${error.message}`);
+        }
     }
 }
 
@@ -241,114 +290,166 @@ fs.createReadStream('cells.csv')
     .pipe(csv()) // converting csv data into js objects 
     .on('data', (row) => { // 'data' event for each row
 
-        // cleaning all data
+        // some error handling while going thru each row
+        try {
 
-        // oem
-        if (!row.oem || row.oem.trim() === '' || row.oem.trim() === '-'){
-            row.oem = null;
-        }
-        else {row.oem = row.oem.replace(/-/g, ' ');} // replace all (g/lobal) dashes with space
-        
-        // model
-        if (!row.model || row.model.trim() === '' || row.oem.trim() === '-'){
-            row.model = null;
-        }
-        else {row.model = row.model.replace(/-/g, ' ');}
-        
-        // launch anounced
-        if (row.launch_announced) {
-            // matching sequence with 4 digits (d{4}), \b\b = boundary
-            let year = row.launch_announced.match(/\b\d{4}\b/);
-            if (year) {
-                row.launch_announced = Number(year[0]); // string to numb
+            // cleaning all data
+
+            // oem
+            if (!row.oem || row.oem.trim() === '' || row.oem.trim() === '-'){
+                row.oem = null;
+            }
+            else {row.oem = row.oem.replace(/-/g, ' ');} // replace all (g/lobal) dashes with space
+            
+            // model
+            if (!row.model || row.model.trim() === '' || row.oem.trim() === '-'){
+                row.model = null;
+            }
+            else {row.model = row.model.replace(/-/g, ' ');}
+            
+            // launch anounced
+            if (row.launch_announced) {
+                // matching sequence with 4 digits (d{4}), \b\b = boundary
+                let year = row.launch_announced.match(/\b\d{4}\b/);
+                if (year) {
+                    row.launch_announced = Number(year[0]); // string to numb
+                }
+                else {row.launch_announced = null;}
             }
             else {row.launch_announced = null;}
         }
-        else {row.launch_announced = null;}
-        
-        // launch status
-        if (row.launch_status) {
+        catch (error) {
+            console.error(`error processing row: ${error.message}`);
+        }
 
-            // let year = row.launch_status.match(/\b\d{4}\b/);
-            // let disc = row.launch_status.match('Discontinued');
-            // let cancl = row.launch_status.match('Cancelled');
-            if (row.launch_status === 'Discontinued' || row.launch_status === 'Cancelled') {
-                // we leave as is
+        try {
+            // launch status
+            if (row.launch_status) {
+
+                // let year = row.launch_status.match(/\b\d{4}\b/);
+                // let disc = row.launch_status.match('Discontinued');
+                // let cancl = row.launch_status.match('Cancelled');
+                if (row.launch_status === 'Discontinued' || row.launch_status === 'Cancelled') {
+                    // we leave as is
+                }
+                else {
+                    let year = row.launch_status.match(/\b\d{4}\b/);
+                    if (year) {row.launch_status = Number(year[0]);}
+                    else {row.launch_status = null;}
+                }
             }
-            else {
-                let year = row.launch_status.match(/\b\d{4}\b/);
-                if (year) {row.launch_status = Number(year[0]);}
-                else {row.launch_status = null;}
+            else {row.launch_status = null;}
+        }
+        catch (error) {
+            console.error(`error processing launch status: ${error.message}`);
+        }
+        
+        try {
+            // body dimensions
+            if (!row.body_dimensions || row.body_dimensions.trim() === '' || row.body_dimensions.trim() === '-') {
+                row.body_dimensions = null;
             }
+            else {row.body_dimensions = row.body_dimensions.replace(/-/g, ' ');}
         }
-        else {row.launch_status = null;}
-        
-        // body dimensions
-        if (!row.body_dimensions || row.body_dimensions.trim() === '' || row.body_dimensions.trim() === '-') {
-            row.body_dimensions = null;
+        catch (error) {
+            console.error(`error processing body dimensions: ${error.message}`);
         }
-        else {row.body_dimensions = row.body_dimensions.replace(/-/g, ' ');}
         
-        // body weight
-        if (row.body_weight && row.body_weight.trim() !== '-') {
-            // extracting numeric part, matching 1 or more digits (\d+), and continuing check for decimals (.\d+?)
-            let weight = row.body_weight.match(/\d+(\.\d+)?/); 
-            if (weight) {
-                // converting string to number (inclduing decimals (\.\d+)?)
-                row.body_weight = Number(weight[0]); 
+        try {
+            // body weight
+            if (row.body_weight && row.body_weight.trim() !== '-') {
+                // extracting numeric part, matching 1 or more digits (\d+), and continuing check for decimals (.\d+?)
+                let weight = row.body_weight.match(/\d+(\.\d+)?/); 
+                if (weight) {
+                    // converting string to number (inclduing decimals (\.\d+)?)
+                    row.body_weight = Number(weight[0]); 
+                }
+                else {row.body_weight = null;}
             }
             else {row.body_weight = null;}
         }
-        else {row.body_weight = null;}
+        catch (error) {
+            console.error(`error processing body weight: ${error.message}`);
+        }
         
-        // body sim
-        if (!row.body_sim || row.body_sim === 'No' || row.body_sim === 'Yes' || row.body_sim.trim() === '' || row.body_sim.trim() === '-') {
-            row.body_sim = null;
-        }
-        else {row.body_sim = row.body_sim.replace(/[()]/g, '').replace(/-/g, ' ');} // remove (), replace dashes
-
-        // display type
-        if (!row.display_type || row.display_type.trim() === '') {
-            row.display_type = null;
-        }
-        else {row.display_type = row.display_type.replace(/[^a-zA-Z0-9, ]/g, '');} // regex allows only alphanumerics (^) and spaces
-
-        // display_size
-        if (!row.display_size || row.display_size.trim() === '' || !isNaN(row.display_size)) {
-            row.display_size = null;
-        }
-        else {
-            // row.display_size = row.display_size.replace(/[()]/g, '').replace(/-/g, ' ');
-            // let size = parseFloat(row.display_size);
-            let size = row.display_size.match(/[\d\.]+ inches/);
-            if (size){
-                let numeric = size[0].split(" ")[0];
-                let float = parseFloat(numeric); // converting string to float
-                row.display_size = isNaN(float) ? null : numeric; // wasn't sure if to add the word 'inches' or not
+        try {
+            // body sim
+            if (!row.body_sim || row.body_sim === 'No' || row.body_sim === 'Yes' || row.body_sim.trim() === '' || row.body_sim.trim() === '-') {
+                row.body_sim = null;
             }
-            else {row.display_size = null;}
+            else {row.body_sim = row.body_sim.replace(/[()]/g, '').replace(/-/g, ' ');} // remove (), replace dashes
+        }
+        catch (error) {
+            console.error(`error processing body sim: ${error.message}`);
         }
 
-        // display resolution
-        if (!row.display_resolution || row.display_resolution.trim() === ''){
-            row.display_resolution = null;
+        try{
+            // display type
+            if (!row.display_type || row.display_type.trim() === '') {
+                row.display_type = null;
+            }
+            else {row.display_type = row.display_type.replace(/[^a-zA-Z0-9, ]/g, '');} // regex allows only alphanumerics (^) and spaces
         }
-        // else {row.display_resolution = row.display_resolution.replace(/[^a-zA-Z0-9, ]/g, '');}
+        catch (error) {
+            console.error(`error processing display type: ${error.message}`);
+        }
 
-        // features sensors
-        if (!row.features_sensors || row.features_sensors.trim() === '' || !isNaN(row.features_sensors) && row.features_sensors !== 'V1') {
-            row.features_sensors = null;
+        try{
+            // display_size
+            if (!row.display_size || row.display_size.trim() === '' || !isNaN(row.display_size)) {
+                row.display_size = null;
+            }
+            else {
+                // row.display_size = row.display_size.replace(/[()]/g, '').replace(/-/g, ' ');
+                // let size = parseFloat(row.display_size);
+                let size = row.display_size.match(/[\d\.]+ inches/);
+                if (size){
+                    let numeric = size[0].split(" ")[0];
+                    let float = parseFloat(numeric); // converting string to float
+                    row.display_size = isNaN(float) ? null : numeric; // wasn't sure if to add the word 'inches' or not
+                }
+                else {row.display_size = null;}
+            }
         }
-        else {row.features_sensors = row.features_sensors.replace(/[^a-zA-Z0-9, ]/g, '');}
+        catch (error) {
+            console.error(`error processing display size: ${error.message}`);
+        }
 
-        // platform os
-        if (!row.platform_os || row.platform_os.trim() === '' || !isNaN(row.platform_os)){
-            row.platform_os = null;
+        try{
+            // display resolution
+            if (!row.display_resolution || row.display_resolution.trim() === ''){
+                row.display_resolution = null;
+            }
+            // else {row.display_resolution = row.display_resolution.replace(/[^a-zA-Z0-9, ]/g, '');}
         }
-        else {
-            // splitting entire string at first comma into substrings, then taking only first part [0] before comma
-            let os = row.platform_os.split(',')[0].trim(); 
-            row.platform_os = os;
+        catch (error) {
+            console.error(`error processing display resolution: ${error.message}`);
+        }
+
+        try{
+            // features sensors
+            if (!row.features_sensors || row.features_sensors.trim() === '' || !isNaN(row.features_sensors) && row.features_sensors !== 'V1') {
+                row.features_sensors = null;
+            }
+            else {row.features_sensors = row.features_sensors.replace(/[^a-zA-Z0-9, ]/g, '');}
+        }
+        catch (error) {
+            console.error(`error processing features sensors: ${error.message}`);
+        }    
+
+        try{
+            // platform os
+            if (!row.platform_os || row.platform_os.trim() === '' || !isNaN(row.platform_os)){
+                row.platform_os = null;
+            }
+            else {
+                // splitting entire string at first comma into substrings, then taking only first part [0] before comma
+                let os = row.platform_os.split(',')[0].trim(); 
+                row.platform_os = os;
+            }
+        }
+        catch (error) {
+            console.error(`error processing platform os: ${error.message}`);
         }
 
         const cell = new Cell(row.oem, row.model, row.launch_announced, row.launch_status, row.body_dimensions, row.body_weight, row.body_sim, row.display_type, row.display_size, row.display_resolution, row.features_sensors, row.platform_os);
