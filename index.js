@@ -103,7 +103,6 @@ class Cell {
     }
 
     toJSON() {
-
         return {
             oem: this._oem,
             model: this._model,
@@ -118,6 +117,78 @@ class Cell {
             features_sensors: this._features_sensors,
             platform_os: this._platform_os
         }
+    }
+
+    // 7 methods / functions
+
+    // each column convert to string for printing
+    // with js 'toString()' method
+    toString() {
+        return `OEM: ${this.oem}, Model: ${this.model}, 
+                Launch Announced: ${this.launch_announced}, 
+                Launch Status: ${this.launch_status}, 
+                Body Dimensions: ${this.body_dimensions}, 
+                Body Weight: ${this.body_weight}, 
+                Body SIM: ${this.body_sim}, 
+                Display Type: ${this.display_type}, 
+                Display Size: ${this.display_size}, 
+                Display Resolution: ${this.display_resolution}, 
+                Features Sensors: ${this.features_sensors}, 
+                Platform OS: ${this.platform_os}`;
+    }
+
+    // mean weight
+    static calcMeanWeight(cells, oem) {
+        // filtering through all same brand (oem) phones, 
+        // the mapping through / getting each weight into array weights
+        let weights = cells.filter(cell => cell.oem === oem).map(cell => cell.body_weight);
+        // a = accumulator, b = 1st element in array, 0 = initial value (a)
+        let sum = weights.reduce((a, b) => a + b, 0); 
+        return sum / weights.length;
+    }
+
+    // delayed launches (released in different year than announced)
+    static delayedLaunches(cells) {
+        return cells.filter(cell => cell.launch_announced != cell.launch_status);
+    }
+
+    // feature sensor counter
+    static oneFeatureSensor(cells) {
+        // splits at each comma all elements into substrings, checks which has 1 element, returns sum 
+        return cells.filter(cell => cell.features_sensors.split(',').length === 1).length;
+    }
+
+    // year most phones launched
+    static mostLaunchesYear(cells) {
+        // checking each launch if after 1999, mapping to array all years > 99
+        let years = cells.filter(cell => cell.launch_status > 1999).map(cell => cell.launch_status);
+        let counts ={}; // object to count occurrences, key=years, value=count
+        // for each year that exists, if first encounter => 0 + 1, 
+        // if encountered before => its count is incremented 
+        years.forEach(year => counts[year] = (counts[year] || 0) +1);
+        // returns count array props, reduce finds highest count, 
+        // comparing each key(year) value(count) pair 
+        return Object.keys(counts).reduce((a, b) => counts[a] > counts[b] ? a : b);
+    }
+
+    // unique column values
+    static uniqueValues(cells, column) {
+        // mapping new array containing values of column
+        // 'Set' only allows unique values, duplicates are discarded
+        // using spread op to create new array from Set (Set object != arrays)
+        return [...new Set(cells.map(cell => cell[column]))];
+    } 
+
+    // calc median
+    static calcMedian(cells, column) {
+        // for median first need to sort (ascending order)
+        let values = cells.map(cell => cell[column]).sort((a, b) => a - b);
+        // then can get mid point
+        let mid = Math.floor(values.length / 2);
+        // then if entire length has no remainder (even), 
+        // add both mid points & divide by 2 to get median,
+        // if remainder (odd) midpoint = median
+        return values.length % 2 === 0 ? (values[mid -1] + values[mid + 1]) / 2 : values[mid];
     }
 }
 
@@ -201,7 +272,7 @@ fs.createReadStream('cells.csv')
         if (!row.display_type || row.display_type.trim() === '') {
             row.display_type = null;
         }
-        else {row.display_type = row.display_type.replace(/[^a-zA-Z0-9 ]/g, '');} // regex allows only alphanumerics (^) and spaces
+        else {row.display_type = row.display_type.replace(/[^a-zA-Z0-9, ]/g, '');} // regex allows only alphanumerics (^) and spaces
 
         // display_size
         if (!row.display_size || row.display_size.trim() === '' || !isNaN(row.display_size)) {
@@ -223,13 +294,13 @@ fs.createReadStream('cells.csv')
         if (!row.display_resolution || row.display_resolution.trim() === ''){
             row.display_resolution = null;
         }
-        // else {row.display_resolution = row.display_resolution.replace(/[^a-zA-Z0-9 ]/g, '');}
+        // else {row.display_resolution = row.display_resolution.replace(/[^a-zA-Z0-9, ]/g, '');}
 
         // features sensors
         if (!row.features_sensors || row.features_sensors.trim() === '' || !isNaN(row.features_sensors) && row.features_sensors !== 'V1') {
             row.features_sensors = null;
         }
-        else {row.features_sensors = row.features_sensors.replace(/[^a-zA-Z0-9 ]/g, '');}
+        else {row.features_sensors = row.features_sensors.replace(/[^a-zA-Z0-9, ]/g, '');}
 
         // platform os
         if (!row.platform_os || row.platform_os.trim() === '' || !isNaN(row.platform_os)){
@@ -252,13 +323,10 @@ fs.createReadStream('cells.csv')
     .on('end', () => {
         //console.log(cellMap);
         console.log('CSV file succesfully read');
+
+        // converting cellMap to array of Cell (class) objects
+        let cells = Array.from(cellMap.values());
     });
-
-
-
-    // display type: took commas out
-    // display size: cuts of anything after inches included
-    // features_sensors: took out commas
 
 
 
