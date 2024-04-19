@@ -200,11 +200,30 @@ class Cell {
         for (let cell of cells) {
             // error handling
             try {
-                // retrieving dates (years) with getFullYear method
-                let yearAnnounced = new Date(cell['launch_announced']).getFullYear();
-                let yearStatus = new Date(cell['launch_status']).getFullYear();
-
-                if (yearAnnounced !== yearStatus) {
+                // if announced = a number (int), set it to that numb
+                let yearAnnounced = null;
+                if (typeof cell['launch_announced'] === 'number') {
+                    yearAnnounced = cell['launch_announced'];
+                }
+                // if announced = string, extract a year if possible
+                else if (typeof cell['launch_announced'] === 'string') {
+                    // using regex to match 4 digit sequence (year)
+                    let match = cell['launch_announced'].match(/\d{4}/);
+                    // in case data cleaning faulty, convert to int
+                    yearAnnounced = match ? parseInt(match[0]) : null;
+                }
+                // if status is int, set it to that number
+                let yearStatus = null;
+                if (typeof cell['launch_status'] === 'number') {
+                    yearStatus = cell['launch_status'];
+                }
+                // if status != disc or cancl, skip it 
+                else if (cell['launch_status'] !== 'Discontinued' && cell['launch_status'] !== 'Cancelled'){
+                    console.error(`Invalid launch_status: ${cell['launch_status']}`);
+                    continue;
+                }
+                // if status != null + announced != to status, add info to delayed phones
+                if (yearStatus && yearAnnounced !== yearStatus) {
                     // checking which years differ, saving OEM and model of each
                     delayedPhones.push(`OEM: ${cell['oem']}, Model: ${cell['model']}`);
                 }
@@ -213,7 +232,6 @@ class Cell {
                 console.error(`Error when processing cell: ${error.message}`);
             }
         }
-
         return delayedPhones.join('\n')
     }
 
@@ -480,7 +498,7 @@ fs.createReadStream('cells.csv')
         let mostLaunches = Cell.mostLaunchesYear(cells);
 
         // displaying results
-        //console.log(`\nLaunched different Year:\n\n${launchDelayed}`);
+        console.log(`\nLaunched different Year:\n\n${launchDelayed}`);
         //console.log(`\nOEM with Highest Average Weight: ${avgWeightHighest.oem},\nWeight: ${avgWeightHighest.weight}`);
         //console.log(`\nNumber of phones with 1 Feature Sensor: ${singleSensorAmount}`);
         //console.log(`\nYear with most launches: ${mostLaunches}`);
