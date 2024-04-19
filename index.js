@@ -455,7 +455,9 @@ fs.createReadStream('cells.csv')
         cellMap.set(index, cell);
         index++;
 
-        //console.log(JSON.stringify(cell, null, 2)); // printing each cell row
+        // printing each cleaned cell row / column
+
+        // console.log(JSON.stringify(cell, null, 2));
         // console.log(JSON.stringify(Array.from(cellMap.entries()), null, 2));
 
     })
@@ -478,7 +480,7 @@ fs.createReadStream('cells.csv')
         let mostLaunches = Cell.mostLaunchesYear(cells);
 
         // displaying results
-        console.log(`\nLaunched different Year:\n\n${launchDelayed}`);
+        //console.log(`\nLaunched different Year:\n\n${launchDelayed}`);
         //console.log(`\nOEM with Highest Average Weight: ${avgWeightHighest.oem},\nWeight: ${avgWeightHighest.weight}`);
         //console.log(`\nNumber of phones with 1 Feature Sensor: ${singleSensorAmount}`);
         //console.log(`\nYear with most launches: ${mostLaunches}`);

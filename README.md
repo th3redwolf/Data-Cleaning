@@ -2,7 +2,34 @@
 
 Submitted by: **Nicolas Kraft**
 
-This project:
+### Installation guide for Replit:
+
+**Installation:**  
+**The package.json file lists my libraries under dependencies section (csv-parser), and can be installed with 'npm install' in terminal. The fs module (to read in files) is a core Node.js module and doesn't need to be installed separately.**  
+
+This project requires Node.js and npm. After cloning the project, navigate to the project directory and run the following command to install the necessary libraries:
+
+```bash
+npm install
+```
+
+**Running the Project:**  
+Run the `index.js` file. In Replit, this can be done by clicking the "Run" button, or using the command to run it in terminal:  
+
+```bash
+node index.js
+```
+
+**Running the Unit Tests:** 
+Since I used a common testing framework called 'Jest' (in package.json under scripts: test: jest), it can be run in terminal with following command:  
+
+```bash
+npm test
+```
+
+![Output screenshot](./'unit-tests'.jpg)
+
+### This project:
 
 **This project is a data analysis tool for a dataset of 1,000 mobile phones. It reads in data from a CSV file, which includes various details about each phone such as the OEM, model, launch date, body dimensions, display type etc.**
 
