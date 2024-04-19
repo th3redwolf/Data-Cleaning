@@ -27,7 +27,8 @@ Since I used a common testing framework called 'Jest' (in package.json under scr
 npm test
 ```
 
-![Output screenshot](./'unit-tests'.jpg)
+![Output screenshot](./unit-tests.jpg)
+
 
 ### This project:
 
@@ -38,6 +39,8 @@ npm test
 **The project includes several methods for performing statistical analysis on the data. These methods can answer questions like "Which company has the highest average weight of phone body?" or "What year had the most phones launched?" etc.**
 
 **The project also includes some basic unit tests to ensure the accuracy and reliability of these methods. Error handling is implemented throughout the project to manage potential issues with the data or the file system, ensuring the program can run smoothly and provide accurate results.**
+
+## Report
 
 Which programming language and version did I pick?:
 
