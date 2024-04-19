@@ -445,8 +445,11 @@ fs.createReadStream('cells.csv')
 
         try{
             // features sensors
-            if (!row.features_sensors || row.features_sensors.trim() === '' || !isNaN(row.features_sensors) && row.features_sensors !== 'V1') {
+            if (!row.features_sensors || row.features_sensors.trim() === '' || !isNaN(row.features_sensors) && row.features_sensors !== 'V1') { // /^\d+(\.\d+)?$/.test(row.features_sensors)
+                // logging potential invalid values
+                console.log(`Invalid features_sensors: ${row.features_sensors}`);
                 row.features_sensors = null;
+                
             }
             else {row.features_sensors = row.features_sensors.replace(/[^a-zA-Z0-9, ]/g, '');}
         }
@@ -498,9 +501,9 @@ fs.createReadStream('cells.csv')
         let mostLaunches = Cell.mostLaunchesYear(cells);
 
         // displaying results
-        console.log(`\nLaunched different Year:\n\n${launchDelayed}`);
+        //console.log(`\nLaunched different Year:\n\n${launchDelayed}`);
         //console.log(`\nOEM with Highest Average Weight: ${avgWeightHighest.oem},\nWeight: ${avgWeightHighest.weight}`);
-        //console.log(`\nNumber of phones with 1 Feature Sensor: ${singleSensorAmount}`);
+        console.log(`\nNumber of phones with 1 Feature Sensor: ${singleSensorAmount}`);
         //console.log(`\nYear with most launches: ${mostLaunches}`);
     });
 

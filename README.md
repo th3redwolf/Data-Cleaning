@@ -92,10 +92,10 @@ Were there any phones that were announced in one year and released in another? W
 
 **Launched different Year:**
 
-OEM: Motorola, Model: One Hyper
-OEM: Motorola, Model: Razr 2019
-OEM: Xiaomi, Model: Redmi K30 5G
-OEM: Xiaomi, Model: Mi Mix Alpha  
+**OEM: Motorola, Model: One Hyper**  
+**OEM: Motorola, Model: Razr 2019**  
+**OEM: Xiaomi, Model: Redmi K30 5G**  
+**OEM: Xiaomi, Model: Mi Mix Alpha**  
 
 
 ![Output screenshot](./Q2.jpg)
