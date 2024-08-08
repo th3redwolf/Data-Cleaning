@@ -1,6 +1,14 @@
-# Alternative-Language-Project *Data Cleaning*
+# *Data Cleaning* Project
 
-Submitted by: **Nicolas Kraft**
+### This project:
+
+**This project is a data analysis tool for a dataset of 1,000 mobile phones. It reads in data from a CSV file, which includes various details about each phone such as the OEM, model, launch date, body dimensions, display type etc.**
+
+**The data is cleaned and processed into a more manageable format, with each phone represented as an instance of a Phone class. This class includes getter and setter methods for each property.**
+
+**The project includes several methods for performing statistical analysis on the data. These methods can answer questions like "Which company has the highest average weight of phone body?" or "What year had the most phones launched?" etc.**
+
+**The project also includes some basic unit tests to ensure the accuracy and reliability of these methods. Error handling is implemented throughout the project to manage potential issues with the data or the file system, ensuring the program can run smoothly and provide accurate results.**
 
 ### Installation guide for Replit:
 
@@ -30,27 +38,13 @@ npm test
 ![Output screenshot](./unit-tests.jpg)
 
 
-### This project:
-
-**This project is a data analysis tool for a dataset of 1,000 mobile phones. It reads in data from a CSV file, which includes various details about each phone such as the OEM, model, launch date, body dimensions, display type etc.**
-
-**The data is cleaned and processed into a more manageable format, with each phone represented as an instance of a Phone class. This class includes getter and setter methods for each property.**
-
-**The project includes several methods for performing statistical analysis on the data. These methods can answer questions like "Which company has the highest average weight of phone body?" or "What year had the most phones launched?" etc.**
-
-**The project also includes some basic unit tests to ensure the accuracy and reliability of these methods. Error handling is implemented throughout the project to manage potential issues with the data or the file system, ensuring the program can run smoothly and provide accurate results.**
-
 ## Report
 
 Which programming language and version did I pick?:
 
 **JavaScript Node.js v20.11.0**
 
-Why did I pick this programming language?:
-
-**I chose JS because I just started learning React.js this semester, and wanted to try to use JS in a different context than web app design. I was debating between Java and JavaScript, but went with JS**
-
-How my programming language chosen handles: object-oriented programming, file ingestion, conditional statements, assignment statements, loops, subprograms (functions/methods), unit testing and exception handling. If one or more of these are not supported by your programming language, indicate it as so:
+How my programming language chosen handles: object-oriented programming, file ingestion, conditional statements, assignment statements, loops, subprograms (functions/methods), unit testing and exception handling:
 
 **OOP - JS supports OOP with classes (and prototypes). So I was able to create a class with constructors, methods (and potentially inheritance)**
 
@@ -68,7 +62,7 @@ How my programming language chosen handles: object-oriented programming, file in
 
 **Exception Handling: JS supports exception handling with try, catch, finally blocks. So I was able to throw exceptions using the throw statement and create custom error types by extending the Error class.**
 
-List out 3 libraries I used from my programming language (if applicable) and explain what they are, why I chose them and what I used them for:
+Libraries I used from my programming language:
 
 **I used 2 libraries / modules:**
 
@@ -76,7 +70,7 @@ List out 3 libraries I used from my programming language (if applicable) and exp
 
 **csv-parser: This is a third-party library that provides tools for parsing CSV data. I've used it because I had to read data from a CSV file and convert it into a format that's easier to work with in JavaScript. I chose it because it's simple to use and does exactly what you need.**
 
-## Answering 4 Questions:
+## Questions:
 ### Q1
 What company (oem) has the highest average weight of the phone body?
 
